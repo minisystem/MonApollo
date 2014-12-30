@@ -2,10 +2,10 @@
 
   (general
     (links 541)
-    (no_connects 295)
+    (no_connects 345)
     (area -17.340476 -31.4154 200.075001 140.075001)
     (thickness 1.6)
-    (drawings 10)
+    (drawings 16)
     (tracks 0)
     (zones 0)
     (modules 193)
@@ -1953,7 +1953,7 @@
   )
 
   (module MyModules:3MM-LED (layer F.Cu) (tedit 54A093B8) (tstamp 54A1F276)
-    (at 21 3.5)
+    (at 20 3.5)
     (path /5498A7D2)
     (fp_text reference LED3 (at 0 -5.08) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -1977,7 +1977,7 @@
   )
 
   (module MyModules:3MM-LED (layer F.Cu) (tedit 54A093B8) (tstamp 54A1F285)
-    (at 26 3.5)
+    (at 25 3.5)
     (path /5498CDD5)
     (fp_text reference LED4 (at 0 -5.08) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -2001,7 +2001,7 @@
   )
 
   (module MyModules:3MM-LED (layer F.Cu) (tedit 54A093B8) (tstamp 54A1F294)
-    (at 31 3.5)
+    (at 30 3.5)
     (path /5498CEA8)
     (fp_text reference LED5 (at 0 -5.08) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -2025,7 +2025,7 @@
   )
 
   (module MyModules:3MM-LED (layer F.Cu) (tedit 54A093B8) (tstamp 54A1F2A3)
-    (at 36 3.5)
+    (at 35 3.5)
     (path /5498D114)
     (fp_text reference LED6 (at 0 -5.08) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -2049,7 +2049,7 @@
   )
 
   (module MyModules:3MM-LED (layer F.Cu) (tedit 54A093B8) (tstamp 54A1F2B2)
-    (at 41 3.5)
+    (at 40 3.5)
     (path /5498D219)
     (fp_text reference LED7 (at 0 -5.08) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -2073,7 +2073,7 @@
   )
 
   (module MyModules:3MM-LED (layer F.Cu) (tedit 54A093B8) (tstamp 54A1F2C1)
-    (at 11.5011 -20.9964)
+    (at 20 43.5)
     (path /5498D30F)
     (fp_text reference LED8 (at 0 -5.08) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -2097,7 +2097,7 @@
   )
 
   (module MyModules:3MM-LED (layer F.Cu) (tedit 54A093B8) (tstamp 54A1F2D0)
-    (at 11.5011 -20.9964)
+    (at 25 43.5)
     (path /5498D6C0)
     (fp_text reference LED9 (at 0 -5.08) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -2121,7 +2121,7 @@
   )
 
   (module MyModules:3MM-LED (layer F.Cu) (tedit 54A093B8) (tstamp 54A1F2DF)
-    (at 11.5011 -20.9964)
+    (at 30 43.5)
     (path /5498D7A8)
     (fp_text reference LED10 (at 0 -5.08) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -2145,7 +2145,7 @@
   )
 
   (module MyModules:3MM-LED (layer F.Cu) (tedit 54A093B8) (tstamp 54A1F2EE)
-    (at 11.5011 -20.9964)
+    (at 35 43.5)
     (path /5498DF9B)
     (fp_text reference LED11 (at 0 -5.08) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -2169,7 +2169,7 @@
   )
 
   (module MyModules:3MM-LED (layer F.Cu) (tedit 54A093B8) (tstamp 54A1F2FD)
-    (at 11.5011 -20.9964)
+    (at 40 43.5)
     (path /5498DEC6)
     (fp_text reference LED12 (at 0 -5.08) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -4860,7 +4860,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54A21B65) (tstamp 54A1F8D6)
-    (at 11.5011 -20.9964)
+    (at 191 58)
     (path /549A0C1A)
     (fp_text reference VR19 (at 0 -6.5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -4885,7 +4885,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54A21B65) (tstamp 54A1F8C7)
-    (at 11.5011 -20.9964)
+    (at 176 58)
     (path /549A0422)
     (fp_text reference VR18 (at 0 -6.5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -4910,7 +4910,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54A21B65) (tstamp 54A1F8B8)
-    (at 11.5011 -20.9964)
+    (at 161 58)
     (path /549A0035)
     (fp_text reference VR17 (at 0 -6.5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -4935,7 +4935,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54A21B65) (tstamp 54A1F8A9)
-    (at 11.5011 -20.9964)
+    (at 146 58)
     (path /5499E4E6)
     (fp_text reference VR16 (at 0 -6.5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -4960,7 +4960,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54A21B65) (tstamp 54A1F89A)
-    (at 11.5011 -20.9964)
+    (at 191 37)
     (path /5499E317)
     (fp_text reference VR15 (at 0 -6.5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -4985,7 +4985,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54A21B65) (tstamp 54A1F88B)
-    (at 11.5011 -20.9964)
+    (at 176 37)
     (path /5499E14E)
     (fp_text reference VR14 (at 0 -6.5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5010,7 +5010,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54A21B65) (tstamp 54A1F87C)
-    (at 11.5011 -20.9964)
+    (at 161 37)
     (path /5499DF89)
     (fp_text reference VR13 (at 0 -6.5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5035,7 +5035,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54A21B65) (tstamp 54A1F86D)
-    (at 11.5011 -20.9964)
+    (at 191 18)
     (path /5499DD0A)
     (fp_text reference VR12 (at 0 -6.5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5060,7 +5060,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54A21B65) (tstamp 54A1F85E)
-    (at 11.5011 -20.9964)
+    (at 161 18)
     (path /5499DB4D)
     (fp_text reference VR11 (at 0 -6.5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5085,7 +5085,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54A21B65) (tstamp 54A1F84F)
-    (at 11.5011 -20.9964)
+    (at 146 18)
     (path /5499D548)
     (fp_text reference VR10 (at 0 -6.5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5110,7 +5110,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54A21B65) (tstamp 54A1F840)
-    (at 11.5011 -20.9964)
+    (at 96 58)
     (path /5499D46C)
     (fp_text reference VR9 (at 0 -6.5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5135,7 +5135,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54A21B65) (tstamp 54A1F831)
-    (at 11.5011 -20.9964)
+    (at 10 58)
     (path /5499E3FE)
     (fp_text reference VR8 (at 0 -6.5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5160,7 +5160,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54A21B65) (tstamp 54A1F822)
-    (at 11.5011 -20.9964)
+    (at 126 38)
     (path /5499E231)
     (fp_text reference VR7 (at 0 -6.5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5185,7 +5185,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54A21B65) (tstamp 54A1F813)
-    (at 11.5011 -20.9964)
+    (at 111 38)
     (path /5499E066)
     (fp_text reference VR6 (at 0 -6.5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5210,7 +5210,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54A21B65) (tstamp 54A1F804)
-    (at 11.5011 -20.9964)
+    (at 96 38)
     (path /5499DDE9)
     (fp_text reference VR5 (at 0 -6.5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5235,7 +5235,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54A21B65) (tstamp 54A1F7F5)
-    (at 11.5011 -20.9964)
+    (at 126 18)
     (path /5499DC28)
     (fp_text reference VR4 (at 0 -6.5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5260,7 +5260,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54A21B65) (tstamp 54A1F7E6)
-    (at 11.5011 -20.9964)
+    (at 111 18)
     (path /5499D623)
     (fp_text reference VR3 (at 0 -6.5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5285,7 +5285,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54A21B65) (tstamp 54A1F7D7)
-    (at 11.5011 -20.9964)
+    (at 96 18)
     (path /5499D397)
     (fp_text reference VR2 (at 0 -6.5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5310,7 +5310,7 @@
   )
 
   (module MyModules:RD901F-ALPHA-POT (layer F.Cu) (tedit 54A21B65) (tstamp 54A1F7C8)
-    (at 11 18)
+    (at 10 18)
     (path /54999BFB)
     (fp_text reference VR1 (at 0 -6.5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5459,7 +5459,7 @@
   )
 
   (module MyModules:TL1240 (layer F.Cu) (tedit 54A21AE3) (tstamp 54A1F634)
-    (at 11.5011 -20.9964)
+    (at 30 64.5)
     (path /545880FE)
     (fp_text reference SW18 (at 0 -5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5490,7 +5490,7 @@
   )
 
   (module MyModules:TL1240 (layer F.Cu) (tedit 54A21AE3) (tstamp 54A1F620)
-    (at 11.5011 -20.9964)
+    (at 30 51.5)
     (path /54588B99)
     (fp_text reference SW17 (at 0 -5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5521,7 +5521,7 @@
   )
 
   (module MyModules:TL1240 (layer F.Cu) (tedit 54A21AE3) (tstamp 54A1F60C)
-    (at 31 24.5)
+    (at 30 24.5)
     (path /54588B93)
     (fp_text reference SW16 (at 0 -5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5552,7 +5552,7 @@
   )
 
   (module MyModules:TL1240 (layer F.Cu) (tedit 54A21BD3) (tstamp 54A1F5F8)
-    (at 31 11.5)
+    (at 30 11.5)
     (path /54588B8D)
     (fp_text reference SW15 (at 0 -5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5748,7 +5748,7 @@
   )
 
   (module MyModules:TL1240 (layer F.Cu) (tedit 54A21AE3) (tstamp 54A1F14F)
-    (at 11.5011 -20.9964)
+    (at 146 38)
     (path /5458807A)
     (fp_text reference ISW9 (at 0 -5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5781,7 +5781,7 @@
   )
 
   (module MyModules:TL1240 (layer F.Cu) (tedit 54A21AE3) (tstamp 54A1F13B)
-    (at 11.5011 -20.9964)
+    (at 111 58)
     (path /5458806E)
     (fp_text reference ISW8 (at 0 -5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5814,7 +5814,7 @@
   )
 
   (module MyModules:TL1240 (layer F.Cu) (tedit 54A21AE3) (tstamp 54A1F127)
-    (at 11.5011 -20.9964)
+    (at 76 58)
     (path /54588062)
     (fp_text reference ISW7 (at 0 -5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5847,7 +5847,7 @@
   )
 
   (module MyModules:TL1240 (layer F.Cu) (tedit 54A21AE3) (tstamp 54A1F113)
-    (at 11.5011 -20.9964)
+    (at 63 58)
     (path /54588056)
     (fp_text reference ISW6 (at 0 -5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5880,7 +5880,7 @@
   )
 
   (module MyModules:TL1240 (layer F.Cu) (tedit 54A21AE3) (tstamp 54A1F0FF)
-    (at 11.5011 -20.9964)
+    (at 50 58)
     (path /5458804A)
     (fp_text reference ISW5 (at 0 -5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5913,7 +5913,7 @@
   )
 
   (module MyModules:TL1240 (layer F.Cu) (tedit 54A21AE3) (tstamp 54A1F0EB)
-    (at 11.5011 -20.9964)
+    (at 63 38)
     (path /5458803E)
     (fp_text reference ISW4 (at 0 -5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5946,7 +5946,7 @@
   )
 
   (module MyModules:TL1240 (layer F.Cu) (tedit 54A21AE3) (tstamp 54A1F0D7)
-    (at 11.5011 -20.9964)
+    (at 76 18)
     (path /54588032)
     (fp_text reference ISW3 (at 0 -5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -5979,7 +5979,7 @@
   )
 
   (module MyModules:TL1240 (layer F.Cu) (tedit 54A21AE3) (tstamp 54A1F0C3)
-    (at 64 18)
+    (at 63 18)
     (path /54588026)
     (fp_text reference ISW2 (at 0 -5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -6012,7 +6012,7 @@
   )
 
   (module MyModules:TL1240 (layer F.Cu) (tedit 54A21AE3) (tstamp 54A1F0AF)
-    (at 51 18)
+    (at 50 18)
     (path /54587EFB)
     (fp_text reference ISW1 (at 0 -5) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
@@ -6044,7 +6044,13 @@
       (net 10 "Net-(D2-Pad1)"))
   )
 
-  (gr_line (start 31 0) (end 31 140) (angle 90) (layer Eco1.User) (width 0.2))
+  (gr_line (start 0 118) (end 200 118) (angle 90) (layer Eco1.User) (width 0.2))
+  (gr_line (start 0 88) (end 200 88) (angle 90) (layer Eco1.User) (width 0.2))
+  (gr_line (start 0 58) (end 200 58) (angle 90) (layer Eco1.User) (width 0.2))
+  (gr_line (start 111 0) (end 111 140) (angle 90) (layer Eco1.User) (width 0.2))
+  (gr_line (start 96 0) (end 96 140) (angle 90) (layer Eco1.User) (width 0.2))
+  (gr_line (start 50 0) (end 50 140) (angle 90) (layer Eco1.User) (width 0.2))
+  (gr_line (start 30 0) (end 30 140) (angle 90) (layer Eco1.User) (width 0.2))
   (gr_line (start 11 0) (end 11 140) (angle 90) (layer Eco1.User) (width 0.2))
   (gr_line (start 0 18) (end 200 18) (angle 90) (layer Eco1.User) (width 0.2))
   (gr_text "0,0 ORIGIN" (at -9 -2) (layer Eco1.User)
