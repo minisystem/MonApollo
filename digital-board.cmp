@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-09-02 BZR 5112)-product   date = 2014-12-28 6:52:26 PM
+Cmp-Mod V01 Created by Cvpcb (2014-09-02 BZR 5112)-product   date = 2014-12-29 10:11:41 PM
 
 BeginCmp
 TimeStamp = /54587E73;
@@ -1040,70 +1040,70 @@ BeginCmp
 TimeStamp = /54587BF5;
 Reference = TP8;
 ValeurCmp = CONN_1;
-IdModule  = ;
+IdModule  = MyModules:TEST POINT;
 EndCmp
 
 BeginCmp
 TimeStamp = /54890CEE;
 Reference = U1;
 ValeurCmp = DG419;
-IdModule  = ;
+IdModule  = synth:SOIC-8-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54587E57;
 Reference = U2;
 ValeurCmp = 74HC4067;
-IdModule  = ;
+IdModule  = synth:SSOP24-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /5489CC52;
 Reference = U3;
 ValeurCmp = R-78E5.0-1.0;
-IdModule  = ;
+IdModule  = MyModules:R-78E-0.5;
 EndCmp
 
 BeginCmp
 TimeStamp = /547036DB;
 Reference = U4;
 ValeurCmp = 74HC4067;
-IdModule  = ;
+IdModule  = synth:SSOP24-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54588304;
 Reference = U5;
 ValeurCmp = 74LS573;
-IdModule  = ;
+IdModule  = MyModules:TSSOP-20;
 EndCmp
 
 BeginCmp
 TimeStamp = /54588AFE;
 Reference = U6;
 ValeurCmp = 74LS573;
-IdModule  = ;
+IdModule  = MyModules:TSSOP-20;
 EndCmp
 
 BeginCmp
 TimeStamp = /549AAAB8;
 Reference = U7;
 ValeurCmp = 74LVC2G04;
-IdModule  = ;
+IdModule  = github-smd:SOT-23-6;
 EndCmp
 
 BeginCmp
 TimeStamp = /545882D7;
 Reference = U8;
 ValeurCmp = 74LS573;
-IdModule  = ;
+IdModule  = MyModules:TSSOP-20;
 EndCmp
 
 BeginCmp
 TimeStamp = /5458825E;
 Reference = U9;
 ValeurCmp = 74LS573;
-IdModule  = ;
+IdModule  = MyModules:TSSOP-20;
 EndCmp
 
 BeginCmp
@@ -1327,21 +1327,21 @@ BeginCmp
 TimeStamp = /5458844E;
 Reference = X1;
 ValeurCmp = MIDI OUT;
-IdModule  = ;
+IdModule  = MyModules:TEDIN-D501;
 EndCmp
 
 BeginCmp
 TimeStamp = /54588425;
 Reference = X2;
 ValeurCmp = MIDI IN;
-IdModule  = ;
+IdModule  = MyModules:TEDIN-D501;
 EndCmp
 
 BeginCmp
 TimeStamp = /549AA25D;
 Reference = X3;
 ValeurCmp = MIDI THRU;
-IdModule  = ;
+IdModule  = MyModules:TEDIN-D501;
 EndCmp
 
 BeginCmp
