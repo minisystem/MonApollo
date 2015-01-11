@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "E:/Documents/KiCad/Polysynth/Monosynth Micro - CERN/digital-board.sch")
-    (date "2015-01-09 11:15:46 PM")
+    (date "2015-01-10 10:04:56 PM")
     (tool "Eeschema (2014-09-02 BZR 5112)-product"))
   (components
     (comp (ref TP11)
@@ -582,7 +582,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 5498F667))
     (comp (ref VR1)
-      (value POT_US)
+      (value TUNE)
       (libsource (lib MySynthParts) (part POT_US))
       (sheetpath (names /) (tstamps /))
       (tstamp 54999BFB))
