@@ -3,10 +3,10 @@
   (general
     (links 645)
     (no_connects 490)
-    (area -0.075001 -0.075001 200.075001 150.075001)
+    (area -0.075001 -1.554001 200.075001 152.9582)
     (thickness 1.6)
     (drawings 5)
-    (tracks 5)
+    (tracks 1)
     (zones 0)
     (modules 241)
     (nets 284)
@@ -646,7 +646,6 @@
     (add_net "Net-(X3-Pad1)")
     (add_net "Net-(X3-Pad3)")
     (add_net "Net-(X3-Pad6)")
-    (add_net POTMUX)
     (add_net SCK)
     (add_net SPI_MISO)
     (add_net SPI_MOSI)
@@ -674,6 +673,16 @@
     (add_net +12V)
     (add_net +5V)
     (add_net GND)
+    (add_net POTMUX)
+  )
+
+  (net_class SIGNAL ""
+    (clearance 0.254)
+    (trace_width 0.3048)
+    (via_dia 1.016)
+    (via_drill 0.508)
+    (uvia_dia 0.508)
+    (uvia_drill 0.127)
   )
 
   (module synth:SM0603-JRL (layer B.Cu) (tedit 528C3246) (tstamp 54A1EE7D)
@@ -7590,11 +7599,7 @@
   (gr_line (start 0 0) (end 200 0) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 11 10) (end 11 150) (angle 90) (layer Eco1.User) (width 0.2))
 
-  (segment (start 102.761914 127.282174) (end 102.761914 127.281914) (width 0.254) (layer B.Cu) (net 3))
-  (segment (start 103.103163 126.940924) (end 103.100924 126.940924) (width 0.254) (layer B.Cu) (net 4))
   (segment (start 54.2446 13.5454) (end 54.25 13.54) (width 0.3048) (layer B.Cu) (net 8))
-  (segment (start 114.759536 137.196377) (end 114.766377 137.196377) (width 0.254) (layer B.Cu) (net 29))
-  (segment (start 78.47536 121.29908) (end 78.528699 121.352419) (width 0.3048) (layer F.Cu) (net 235))
 
   (zone (net 2) (net_name GND) (layer F.Cu) (tstamp 54B343C0) (hatch edge 0.508)
     (connect_pads (clearance 0.2032))

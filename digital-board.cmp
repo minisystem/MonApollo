@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-09-02 BZR 5112)-product   date = 2015-01-07 6:22:15 PM
+Cmp-Mod V01 Created by Cvpcb (2014-09-02 BZR 5112)-product   date = 2015-01-12 12:45:59 PM
 
 BeginCmp
 TimeStamp = /54587E73;
@@ -1445,217 +1445,217 @@ EndCmp
 BeginCmp
 TimeStamp = /54999BFB;
 Reference = VR1;
-ValeurCmp = POT_US;
+ValeurCmp = TUNE;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /5499D397;
 Reference = VR2;
-ValeurCmp = POT_US;
+ValeurCmp = VCO1 PW;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /5499D623;
 Reference = VR3;
-ValeurCmp = POT_US;
+ValeurCmp = PWM EG2;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /5499DC28;
 Reference = VR4;
-ValeurCmp = POT_US;
+ValeurCmp = PWM LFO;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /5499DDE9;
 Reference = VR5;
-ValeurCmp = POT_US;
+ValeurCmp = PITCH LFO;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /5499E066;
 Reference = VR6;
-ValeurCmp = POT_US;
+ValeurCmp = PITCH VCO2;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /5499E231;
 Reference = VR7;
-ValeurCmp = POT_US;
+ValeurCmp = PITCH EG2;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /5499E3FE;
 Reference = VR8;
-ValeurCmp = POT_US;
+ValeurCmp = FINE;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /5499D46C;
 Reference = VR9;
-ValeurCmp = POT_US;
+ValeurCmp = VCO2 PW;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /5499D548;
 Reference = VR10;
-ValeurCmp = POT_US;
+ValeurCmp = VCO1 MIX;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /5499DB4D;
 Reference = VR11;
-ValeurCmp = POT_US;
+ValeurCmp = VCO2 MIX;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /5499DD0A;
 Reference = VR12;
-ValeurCmp = POT_US;
+ValeurCmp = NOISE;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /5499DF89;
 Reference = VR13;
-ValeurCmp = POT_US;
+ValeurCmp = FIL LFO;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /5499E14E;
 Reference = VR14;
-ValeurCmp = POT_US;
+ValeurCmp = FIL VCO2;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /5499E317;
 Reference = VR15;
-ValeurCmp = POT_US;
+ValeurCmp = KEY TRACK;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /5499E4E6;
 Reference = VR16;
-ValeurCmp = POT_US;
+ValeurCmp = FIL EG2;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /549A0035;
 Reference = VR17;
-ValeurCmp = POT_US;
+ValeurCmp = CUTOFF;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /549A0422;
 Reference = VR18;
-ValeurCmp = POT_US;
+ValeurCmp = RES;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /549A0C1A;
 Reference = VR19;
-ValeurCmp = POT_US;
+ValeurCmp = ATTACK;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /549A0DE1;
 Reference = VR20;
-ValeurCmp = POT_US;
+ValeurCmp = DECAY;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /549A14CD;
 Reference = VR21;
-ValeurCmp = POT_US;
+ValeurCmp = SUSTAIN;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /549A168E;
 Reference = VR22;
-ValeurCmp = POT_US;
+ValeurCmp = RELEASE;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /549A2098;
 Reference = VR23;
-ValeurCmp = POT_US;
+ValeurCmp = LFO RATE;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /549A24AD;
 Reference = VR24;
-ValeurCmp = POT_US;
+ValeurCmp = ARP RATE;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /549A06BE;
 Reference = VR25;
-ValeurCmp = POT_US;
+ValeurCmp = GLIDE;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /549A0B40;
 Reference = VR26;
-ValeurCmp = POT_US;
+ValeurCmp = AMP LFO;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /549A0D03;
 Reference = VR27;
-ValeurCmp = POT_US;
+ValeurCmp = ATTACK;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /549A13DF;
 Reference = VR28;
-ValeurCmp = POT_US;
+ValeurCmp = DECAY;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /549A15AC;
 Reference = VR29;
-ValeurCmp = POT_US;
+ValeurCmp = SUSTAIN;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /549A1B38;
 Reference = VR30;
-ValeurCmp = POT_US;
+ValeurCmp = RELEASE;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
 BeginCmp
 TimeStamp = /549A217D;
 Reference = VR31;
-ValeurCmp = POT_US;
+ValeurCmp = VOLUME;
 IdModule  = MyModules:RD901F-ALPHA-POT;
 EndCmp
 
