@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "E:\\Documents\\KiCad\\Polysynth\\Monosynth Micro - CERN\\digital-board.sch")
-    (date "2015-01-11 7:05:46 PM")
+    (date "2015-01-11 10:16:31 PM")
     (tool "Eeschema (2014-09-02 BZR 5112)-product"))
   (components
     (comp (ref TP11)
