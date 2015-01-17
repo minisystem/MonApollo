@@ -359,7 +359,7 @@ Text Label 6400 3800 0    60   ~ 0
 DAC8
 Text GLabel 3350 4650 0    40   Output ~ 0
 ~DAC WR
-Text GLabel 3450 6200 0    40   Input ~ 0
+Text GLabel 3450 5500 0    40   Input ~ 0
 POTMUX
 $Comp
 L R_US R9
@@ -608,13 +608,13 @@ Text GLabel 3200 18600 0    40   Input ~ 0
 DB3
 Text GLabel 3200 18800 0    40   Input ~ 0
 ~POTMUX EN0
-Text GLabel 3450 6100 0    40   Output ~ 0
+Text GLabel 3450 6200 0    40   Output ~ 0
 ~POTMUX EN1
 Text GLabel 3350 4300 0    40   Output ~ 0
 DISP ANODE LATCH
 Text GLabel 3350 4200 0    40   Output ~ 0
 DISP CATHODE LATCH
-Text GLabel 3450 6000 0    40   Output ~ 0
+Text GLabel 3450 6100 0    40   Output ~ 0
 ~POTMUX EN0
 $Comp
 L TL1240 ISW2
@@ -1393,43 +1393,43 @@ F 3 "~" H 23950 6450 60  0000 C CNN
 	1    23950 6600
 	0    -1   -1   0   
 $EndComp
-Text GLabel 4650 10550 0    40   Output ~ 0
+Text GLabel 3500 10750 2    40   Output ~ 0
 DB0
-Text GLabel 4650 10650 0    40   Output ~ 0
+Text GLabel 2700 10850 0    40   Output ~ 0
 DB1
-Text GLabel 4650 10750 0    40   Output ~ 0
+Text GLabel 3500 10850 2    40   Output ~ 0
 DB2
-Text GLabel 4650 10850 0    40   Output ~ 0
+Text GLabel 2700 10950 0    40   Output ~ 0
 DB3
-Text GLabel 4650 10950 0    40   Output ~ 0
+Text GLabel 3500 10950 2    40   Output ~ 0
 DB4
-Text GLabel 4650 11050 0    40   Output ~ 0
+Text GLabel 2700 11050 0    40   Output ~ 0
 DB5
-Text GLabel 4650 11150 0    40   Output ~ 0
+Text GLabel 3500 11050 2    40   Output ~ 0
 DB6
-Text GLabel 4650 11250 0    40   Output ~ 0
+Text GLabel 2700 11150 0    40   Output ~ 0
 DB7
-Text GLabel 5500 11950 0    40   Output ~ 0
+Text GLabel 3500 12150 2    40   Output ~ 0
 ANALOG SW LATCH
 Text GLabel 3500 10650 2    40   Input ~ 0
 LFO TUNE
-Text GLabel 5500 12750 0    40   Output ~ 0
+Text GLabel 2700 10550 0    40   Output ~ 0
 GATE
-Text GLabel 3500 11350 2    40   Output ~ 0
-DAC MUX EN0
 Text GLabel 2700 11350 0    40   Output ~ 0
-DAC MUX EN1
+DAC MUX EN0
 Text GLabel 3500 11250 2    40   Output ~ 0
-DAC MUX EN2
+DAC MUX EN1
 Text GLabel 2700 11250 0    40   Output ~ 0
+DAC MUX EN2
+Text GLabel 3500 11150 2    40   Output ~ 0
 DAC MUX EN3
 Text GLabel 3500 10550 2    40   Input ~ 0
 TUNE
 Text GLabel 2700 12250 0    40   Output ~ 0
 LFO DMUX EN
-Text GLabel 5500 12550 0    40   Output ~ 0
+Text GLabel 2700 10750 0    40   Output ~ 0
 LFO RESET
-Text GLabel 5500 12650 0    40   Input ~ 0
+Text GLabel 2700 10650 0    40   Input ~ 0
 LFO
 $Comp
 L 74HC4067 U4
@@ -1554,68 +1554,38 @@ Text Notes 20050 800  0    100  ~ 0
 SWITCH INTERFACE
 Text Notes 700  800  0    100  ~ 0
 MCU
-Text GLabel 3500 11750 2    40   Output ~ 0
-~DAC WR
 Text GLabel 2700 11750 0    40   Output ~ 0
+~DAC WR
+Text GLabel 3500 11650 2    40   Output ~ 0
 ~DAC RS
-Text Label 3750 12150 2    40   ~ 0
-DAC0
 Text Label 2450 12150 0    40   ~ 0
-DAC1
+DAC0
 Text Label 3750 12050 2    40   ~ 0
-DAC2
+DAC1
 Text Label 2450 12050 0    40   ~ 0
-DAC3
+DAC2
 Text Label 3750 11950 2    40   ~ 0
-DAC4
+DAC3
 Text Label 2450 11950 0    40   ~ 0
-DAC5
+DAC4
 Text Label 3750 11850 2    40   ~ 0
-DAC6
+DAC5
 Text Label 2450 11850 0    40   ~ 0
+DAC6
+Text Label 3750 11750 2    40   ~ 0
 DAC7
-Text Label 3750 11650 2    40   ~ 0
-DAC8
 Text Label 2450 11650 0    40   ~ 0
-DAC9
+DAC8
 Text Label 3750 11550 2    40   ~ 0
-DAC10
+DAC9
 Text Label 2450 11550 0    40   ~ 0
-DAC11
+DAC10
 Text Label 3750 11450 2    40   ~ 0
-DAC12
+DAC11
 Text Label 2450 11450 0    40   ~ 0
+DAC12
+Text Label 3750 11350 2    40   ~ 0
 DAC13
-Entry Wire Line
-	1400 10150 1300 10250
-Entry Wire Line
-	1400 10050 1300 10150
-Entry Wire Line
-	1400 11550 1300 11650
-Entry Wire Line
-	1400 11450 1300 11550
-Entry Wire Line
-	1400 11350 1300 11450
-Entry Wire Line
-	1400 11250 1300 11350
-Entry Wire Line
-	1400 11150 1300 11250
-Entry Wire Line
-	1400 11050 1300 11150
-Entry Wire Line
-	1400 10950 1300 11050
-Entry Wire Line
-	1250 11250 1150 11350
-Entry Wire Line
-	1400 10550 1300 10650
-Entry Wire Line
-	1400 10450 1300 10550
-Entry Wire Line
-	1400 10350 1300 10450
-Entry Wire Line
-	1400 10250 1300 10350
-Text Notes 1150 12150 0    60   ~ 0
-DAC BUS
 $Comp
 L GND_E #PWR035
 U 1 1 5473FE2A
@@ -1719,7 +1689,7 @@ Text Notes 5750 10550 0    100  ~ 0
 +5V DIGITAL \nSUPPLY REGULATOR
 Text GLabel 3350 4750 0    40   Output ~ 0
 ~DAC RS
-Text GLabel 3350 4400 0    40   Output ~ 0
+Text GLabel 3350 3550 0    40   Output ~ 0
 ANALOG SW LATCH
 Text GLabel 3350 3800 0    40   Output ~ 0
 DAC MUX EN0
@@ -1729,13 +1699,13 @@ Text GLabel 3350 4000 0    40   Output ~ 0
 DAC MUX EN2
 Text GLabel 3350 4100 0    40   Output ~ 0
 DAC MUX EN3
-Text GLabel 3550 3450 0    40   Output ~ 0
+Text GLabel 3350 3450 0    40   Output ~ 0
 LFO DMUX EN
-Text GLabel 3450 5900 0    40   Output ~ 0
+Text GLabel 3450 6000 0    40   Output ~ 0
 DGATE
 Text GLabel 3500 12250 2    40   Output ~ 0
 EG2 POL
-Text GLabel 3550 3350 0    40   Output ~ 0
+Text GLabel 3350 3350 0    40   Output ~ 0
 EG2 POL
 $Comp
 L TACT_SWITCH SW22
@@ -1848,8 +1818,8 @@ F 3 "" H 6750 11350 60  0000 C CNN
 	1    6750 11350
 	1    0    0    -1  
 $EndComp
-NoConn ~ 3550 5500
-NoConn ~ 3550 5600
+NoConn ~ 3450 5900
+NoConn ~ 3450 5600
 $Comp
 L CONN_1 TP13
 U 1 1 54997494
@@ -2600,7 +2570,7 @@ F 3 "" H 11475 3100 60  0000 C CNN
 	1    11500 3150
 	1    0    0    -1  
 $EndComp
-NoConn ~ 3550 4500
+NoConn ~ 3350 4500
 $Comp
 L CONN_1 TP12
 U 1 1 549C033E
@@ -4476,10 +4446,8 @@ Wire Wire Line
 Connection ~ 6750 12150
 Wire Wire Line
 	6750 11600 6750 12250
-Wire Bus Line
-	1650 12150 1150 12150
-Wire Bus Line
-	1150 10550 1150 12050
+Wire Wire Line
+	3500 11350 3750 11350
 Wire Wire Line
 	2700 11450 2450 11450
 Wire Wire Line
@@ -4491,7 +4459,7 @@ Wire Wire Line
 Wire Wire Line
 	2700 11650 2450 11650
 Wire Wire Line
-	3500 11650 3750 11650
+	3500 11750 3750 11750
 Wire Wire Line
 	2700 11850 2450 11850
 Wire Wire Line
@@ -4501,13 +4469,11 @@ Wire Wire Line
 Wire Wire Line
 	3500 11950 3750 11950
 Wire Wire Line
-	2700 12050 2450 12050
+	2450 12050 2700 12050
 Wire Wire Line
 	3750 12050 3500 12050
 Wire Wire Line
 	2450 12150 2700 12150
-Wire Wire Line
-	3750 12150 3500 12150
 Wire Notes Line
 	8750 600  600  600 
 Wire Notes Line
@@ -6567,7 +6533,7 @@ NoConn ~ 6150 4500
 NoConn ~ 6150 4400
 NoConn ~ 3550 2950
 NoConn ~ 3550 3050
-NoConn ~ 3550 3550
+NoConn ~ 3350 4400
 NoConn ~ 3450 5700
 NoConn ~ 3450 5800
 NoConn ~ 6250 3550
@@ -6595,4 +6561,16 @@ Wire Wire Line
 	3350 3250 3550 3250
 Wire Wire Line
 	3550 3150 3350 3150
+Wire Wire Line
+	3350 4500 3550 4500
+Wire Wire Line
+	3350 3350 3550 3350
+Wire Wire Line
+	3350 3450 3550 3450
+Wire Wire Line
+	3350 3550 3550 3550
+Wire Wire Line
+	3450 5500 3550 5500
+Wire Wire Line
+	3550 5600 3450 5600
 $EndSCHEMATC
