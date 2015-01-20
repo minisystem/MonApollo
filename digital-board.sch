@@ -608,13 +608,13 @@ Text GLabel 3200 18600 0    40   Input ~ 0
 DB3
 Text GLabel 3200 18800 0    40   Input ~ 0
 ~POTMUX EN0
-Text GLabel 3450 6200 0    40   Output ~ 0
+Text GLabel 3350 4500 0    40   Output ~ 0
 ~POTMUX EN1
 Text GLabel 3350 4300 0    40   Output ~ 0
 DISP ANODE LATCH
 Text GLabel 3350 4200 0    40   Output ~ 0
 DISP CATHODE LATCH
-Text GLabel 3450 6100 0    40   Output ~ 0
+Text GLabel 3350 4400 0    40   Output ~ 0
 ~POTMUX EN0
 $Comp
 L TL1240 ISW2
@@ -1701,7 +1701,7 @@ Text GLabel 3350 4100 0    40   Output ~ 0
 DAC MUX EN3
 Text GLabel 3350 3450 0    40   Output ~ 0
 LFO DMUX EN
-Text GLabel 3450 6000 0    40   Output ~ 0
+Text GLabel 3450 5600 0    40   Output ~ 0
 DGATE
 Text GLabel 3500 12250 2    40   Output ~ 0
 EG2 POL
@@ -1818,8 +1818,6 @@ F 3 "" H 6750 11350 60  0000 C CNN
 	1    6750 11350
 	1    0    0    -1  
 $EndComp
-NoConn ~ 3450 5900
-NoConn ~ 3450 5600
 $Comp
 L CONN_1 TP13
 U 1 1 54997494
@@ -2570,7 +2568,6 @@ F 3 "" H 11475 3100 60  0000 C CNN
 	1    11500 3150
 	1    0    0    -1  
 $EndComp
-NoConn ~ 3350 4500
 $Comp
 L CONN_1 TP12
 U 1 1 549C033E
@@ -4719,46 +4716,6 @@ Connection ~ 9950 7650
 Connection ~ 9950 7550
 Wire Wire Line
 	9950 7450 9950 7750
-Wire Wire Line
-	12400 7350 12400 8200
-Wire Wire Line
-	11350 7350 12400 7350
-Wire Wire Line
-	12150 7250 12150 8200
-Wire Wire Line
-	11350 7250 12150 7250
-Wire Wire Line
-	11850 7150 11850 8200
-Wire Wire Line
-	11350 7150 11850 7150
-Wire Wire Line
-	11600 7050 11600 8200
-Wire Wire Line
-	11350 7050 11600 7050
-Wire Wire Line
-	12350 10450 11350 10450
-Wire Wire Line
-	12350 9650 12350 10450
-Wire Wire Line
-	12250 10350 11350 10350
-Wire Wire Line
-	12250 9650 12250 10350
-Wire Wire Line
-	12150 10250 11350 10250
-Wire Wire Line
-	12150 9650 12150 10250
-Wire Wire Line
-	12050 10150 11350 10150
-Wire Wire Line
-	12050 9650 12050 10150
-Wire Wire Line
-	11950 10050 11950 9650
-Wire Wire Line
-	11850 9950 11850 9650
-Wire Wire Line
-	11750 9850 11750 9650
-Wire Wire Line
-	11650 9650 11650 9750
 Connection ~ 6800 15500
 Wire Wire Line
 	7150 15500 7150 15550
@@ -5101,12 +5058,6 @@ Wire Wire Line
 Wire Wire Line
 	9950 10750 9950 11000
 Wire Wire Line
-	11350 9950 11850 9950
-Wire Wire Line
-	11350 9850 11750 9850
-Wire Wire Line
-	11650 9750 11350 9750
-Wire Wire Line
 	6700 3800 6150 3800
 Wire Wire Line
 	6700 4100 6150 4100
@@ -5196,8 +5147,6 @@ Wire Wire Line
 	3000 1800 3550 1800
 Wire Wire Line
 	6150 3350 6250 3350
-Wire Wire Line
-	11950 10050 11350 10050
 Wire Wire Line
 	2200 6650 2200 6450
 Connection ~ 2200 6650
@@ -6191,9 +6140,6 @@ NoConn ~ 6150 4500
 NoConn ~ 6150 4400
 NoConn ~ 3550 2950
 NoConn ~ 3550 3050
-NoConn ~ 3350 4400
-NoConn ~ 3450 5700
-NoConn ~ 3450 5800
 NoConn ~ 6250 3550
 NoConn ~ 6250 2950
 $Comp
@@ -6219,8 +6165,6 @@ Wire Wire Line
 	3350 3250 3550 3250
 Wire Wire Line
 	3550 3150 3350 3150
-Wire Wire Line
-	3350 4500 3550 4500
 Wire Wire Line
 	3350 3350 3550 3350
 Wire Wire Line
@@ -6303,4 +6247,54 @@ Wire Wire Line
 	22900 17600 22700 17600
 Wire Wire Line
 	21800 17600 22200 17600
+Wire Wire Line
+	11350 10450 12050 10450
+Wire Wire Line
+	12050 10450 12050 9650
+Wire Wire Line
+	11350 10350 11950 10350
+Wire Wire Line
+	11950 10350 11950 9650
+Wire Wire Line
+	11350 10250 12350 10250
+Wire Wire Line
+	12350 10250 12350 9650
+Wire Wire Line
+	11350 10150 11850 10150
+Wire Wire Line
+	11850 10150 11850 9650
+Wire Wire Line
+	11350 10050 12250 10050
+Wire Wire Line
+	12250 10050 12250 9650
+Wire Wire Line
+	11350 9950 11650 9950
+Wire Wire Line
+	11650 9950 11650 9650
+Wire Wire Line
+	11350 9750 11750 9750
+Wire Wire Line
+	11750 9750 11750 9650
+Wire Wire Line
+	11350 9850 12150 9850
+Wire Wire Line
+	12150 9850 12150 9650
+Wire Wire Line
+	11350 7050 12150 7050
+Wire Wire Line
+	12150 7050 12150 8200
+Wire Wire Line
+	11350 7150 11850 7150
+Wire Wire Line
+	11850 7150 11850 8200
+Wire Wire Line
+	11350 7250 11600 7250
+Wire Wire Line
+	11600 7250 11600 8200
+Wire Wire Line
+	11350 7350 12400 7350
+Wire Wire Line
+	12400 7350 12400 8200
+Wire Wire Line
+	3350 4500 3550 4500
 $EndSCHEMATC
