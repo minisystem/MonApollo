@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-09-02 BZR 5112)-product   date = 2015-01-12 12:45:59 PM
+Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-01-26 12:40:49 PM
 
 BeginCmp
 TimeStamp = /54587E73;
@@ -120,7 +120,7 @@ IdModule  = synth:SM0603-JRL;
 EndCmp
 
 BeginCmp
-TimeStamp = /54C2D196;
+TimeStamp = /54C9B6A6;
 Reference = C18;
 ValeurCmp = 0.1µ;
 IdModule  = synth:SM0603-JRL;
@@ -150,6 +150,34 @@ EndCmp
 BeginCmp
 TimeStamp = /54AE50F9;
 Reference = C22;
+ValeurCmp = 0.1µ;
+IdModule  = synth:SM0603-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C9B902;
+Reference = C23;
+ValeurCmp = 0.1µ;
+IdModule  = synth:SM0603-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C9B910;
+Reference = C24;
+ValeurCmp = 0.1µ;
+IdModule  = synth:SM0603-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C9D2BA;
+Reference = C25;
+ValeurCmp = 0.1µ;
+IdModule  = synth:SM0603-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C9D2C7;
+Reference = C26;
 ValeurCmp = 0.1µ;
 IdModule  = synth:SM0603-JRL;
 EndCmp
@@ -292,13 +320,6 @@ TimeStamp = /54587E8B;
 Reference = L1;
 ValeurCmp = 10µH;
 IdModule  = MyModules:SM0805-HAND;
-EndCmp
-
-BeginCmp
-TimeStamp = /54587D7E;
-Reference = LED1;
-ValeurCmp = LED;
-IdModule  = synth:LED-0805-JRL;
 EndCmp
 
 BeginCmp
@@ -550,13 +571,6 @@ BeginCmp
 TimeStamp = /54587F99;
 Reference = R3;
 ValeurCmp = 1K;
-IdModule  = synth:SM0603-JRL;
-EndCmp
-
-BeginCmp
-TimeStamp = /54587D84;
-Reference = R4;
-ValeurCmp = 330;
 IdModule  = synth:SM0603-JRL;
 EndCmp
 
@@ -1240,62 +1254,6 @@ IdModule  = MyModules:TL1240;
 EndCmp
 
 BeginCmp
-TimeStamp = /549980FE;
-Reference = TP1;
-ValeurCmp = CONN_1;
-IdModule  = MyModules:TEST POINT;
-EndCmp
-
-BeginCmp
-TimeStamp = /54998B6D;
-Reference = TP2;
-ValeurCmp = CONN_1;
-IdModule  = MyModules:TEST POINT;
-EndCmp
-
-BeginCmp
-TimeStamp = /54998C43;
-Reference = TP3;
-ValeurCmp = CONN_1;
-IdModule  = MyModules:TEST POINT;
-EndCmp
-
-BeginCmp
-TimeStamp = /54998D1A;
-Reference = TP4;
-ValeurCmp = CONN_1;
-IdModule  = MyModules:TEST POINT;
-EndCmp
-
-BeginCmp
-TimeStamp = /54998DF2;
-Reference = TP5;
-ValeurCmp = CONN_1;
-IdModule  = MyModules:TEST POINT;
-EndCmp
-
-BeginCmp
-TimeStamp = /54CB7DAF;
-Reference = TP6;
-ValeurCmp = CONN_1;
-IdModule  = MyModules:TEST POINT;
-EndCmp
-
-BeginCmp
-TimeStamp = /54CB7EBD;
-Reference = TP7;
-ValeurCmp = CONN_1;
-IdModule  = MyModules:TEST POINT;
-EndCmp
-
-BeginCmp
-TimeStamp = /54CB7FCA;
-Reference = TP8;
-ValeurCmp = CONN_1;
-IdModule  = MyModules:TEST POINT;
-EndCmp
-
-BeginCmp
 TimeStamp = /54C7F197;
 Reference = TP9;
 ValeurCmp = CONN_1;
@@ -1398,13 +1356,6 @@ TimeStamp = /54A75F0D;
 Reference = U10;
 ValeurCmp = 74LVC1G32;
 IdModule  = github-smd:SOT-353;
-EndCmp
-
-BeginCmp
-TimeStamp = /54C2D18E;
-Reference = U11;
-ValeurCmp = 74HC165;
-IdModule  = github-smd:TSSOP-16;
 EndCmp
 
 BeginCmp
