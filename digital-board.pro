@@ -1,5 +1,5 @@
-update=2014-11-03 2:49:49 PM
-last_client=eeschema
+update=2015-01-30 6:07:21 PM
+last_client=pcbnew
 [eeschema]
 version=1
 LibDir=
@@ -40,3 +40,23 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=E:/Documents/KiCad/MyLibs/MySynthParts
+[pcbnew]
+version=1
+PageLayoutDescrFile=
+LastNetListRead=
+UseCmpFile=1
+PadDrill=3.175
+PadDrillOvalY=3.175
+PadSizeH=3.302
+PadSizeV=3.302
+PcbTextSizeV=1.5
+PcbTextSizeH=1.5
+PcbTextThickness=0.3
+ModuleTextSizeV=1.5
+ModuleTextSizeH=1.5
+ModuleTextSizeThickness=0.15
+SolderMaskClearance=0.2
+SolderMaskMinWidth=0
+DrawSegmentWidth=0.2
+BoardOutlineThickness=0.15
+ModuleOutlineThickness=0.15
