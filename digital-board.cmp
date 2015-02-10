@@ -1,38 +1,38 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-01-26 12:40:49 PM
+Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-01-30 7:24:30 PM
 
 BeginCmp
 TimeStamp = /54587E73;
 Reference = C1;
 ValeurCmp = 0.1µ;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54587D6C;
 Reference = C2;
 ValeurCmp = 24p;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54587D72;
 Reference = C3;
 ValeurCmp = 24p;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54587F9F;
 Reference = C4;
 ValeurCmp = 0.1µ;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54587E85;
 Reference = C5;
 ValeurCmp = 0.1µ;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
@@ -46,7 +46,7 @@ BeginCmp
 TimeStamp = /54588471;
 Reference = C7;
 ValeurCmp = 0.1µ;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
@@ -60,126 +60,126 @@ BeginCmp
 TimeStamp = /54703754;
 Reference = C9;
 ValeurCmp = 0.1µ;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /5458830A;
 Reference = C10;
 ValeurCmp = 0.1µ;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54587F07;
 Reference = C11;
 ValeurCmp = 0.1µ;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /5470376B;
 Reference = C12;
 ValeurCmp = 0.1µ;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /545882DD;
 Reference = C13;
 ValeurCmp = 0.1µ;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54AFD630;
 Reference = C14;
 ValeurCmp = 0.1µ;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54BFB142;
 Reference = C15;
 ValeurCmp = 0.1µ;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54A1BC98;
 Reference = C16;
 ValeurCmp = 0.1µ;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54A75EEB;
 Reference = C17;
 ValeurCmp = 0.1µ;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54C9B6A6;
 Reference = C18;
 ValeurCmp = 0.1µ;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54B06082;
 Reference = C19;
 ValeurCmp = 0.1µ;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54B2BFA4;
 Reference = C20;
 ValeurCmp = 0.1µ;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54BC04C6;
 Reference = C21;
 ValeurCmp = 0.1µ;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54AE50F9;
 Reference = C22;
 ValeurCmp = 0.1µ;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54C9B902;
 Reference = C23;
 ValeurCmp = 0.1µ;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54C9B910;
 Reference = C24;
 ValeurCmp = 0.1µ;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54C9D2BA;
 Reference = C25;
 ValeurCmp = 0.1µ;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54C9D2C7;
 Reference = C26;
 ValeurCmp = 0.1µ;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
@@ -557,637 +557,637 @@ BeginCmp
 TimeStamp = /54587E67;
 Reference = R1;
 ValeurCmp = 100K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54890D1F;
 Reference = R2;
 ValeurCmp = 1K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54587F99;
 Reference = R3;
 ValeurCmp = 1K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54587E1B;
 Reference = R5;
 ValeurCmp = 330;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /5470374E;
 Reference = R6;
 ValeurCmp = 1K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54588431;
 Reference = R7;
 ValeurCmp = 220;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54588454;
 Reference = R8;
 ValeurCmp = 220;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54587ECB;
 Reference = R9;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54587ED1;
 Reference = R10;
 ValeurCmp = 560;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54587ED7;
 Reference = R11;
 ValeurCmp = 560;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54587EDD;
 Reference = R12;
 ValeurCmp = 560;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /549B1A5C;
 Reference = R13;
 ValeurCmp = 220;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54587EE3;
 Reference = R14;
 ValeurCmp = 560;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54587EE9;
 Reference = R15;
 ValeurCmp = 560;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54587EEF;
 Reference = R16;
 ValeurCmp = 560;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54587EF5;
 Reference = R17;
 ValeurCmp = 560;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54588441;
 Reference = R18;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /549AA263;
 Reference = R19;
 ValeurCmp = 220;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54588B2E;
 Reference = R20;
 ValeurCmp = 47K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54588B34;
 Reference = R21;
 ValeurCmp = 1K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /5458822E;
 Reference = R22;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54588234;
 Reference = R23;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /5458823A;
 Reference = R24;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54588240;
 Reference = R25;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54588246;
 Reference = R26;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /5458824C;
 Reference = R27;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54588252;
 Reference = R28;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54588258;
 Reference = R29;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54A75F2E;
 Reference = R30;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54A75F20;
 Reference = R31;
 ValeurCmp = 330;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54AFD600;
 Reference = R32;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54AFD606;
 Reference = R33;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54AD754D;
 Reference = R34;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54AFD60C;
 Reference = R35;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54BFB176;
 Reference = R36;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54C2D1CB;
 Reference = R37;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54AFD612;
 Reference = R38;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54AFD618;
 Reference = R39;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54BFB185;
 Reference = R40;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54C2D1DA;
 Reference = R41;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54AFD61E;
 Reference = R42;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54AFD624;
 Reference = R43;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54BFB193;
 Reference = R44;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54C2D1E8;
 Reference = R45;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54AD0F01;
 Reference = R46;
 ValeurCmp = 1K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54AD0E27;
 Reference = R47;
 ValeurCmp = 1K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54ACFFB9;
 Reference = R48;
 ValeurCmp = 1K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54AFD62A;
 Reference = R49;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54BFB1A1;
 Reference = R50;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54C2D1F6;
 Reference = R51;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54B06052;
 Reference = R52;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54C590B4;
 Reference = R53;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54B06058;
 Reference = R54;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54BFB1AF;
 Reference = R55;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54C2D204;
 Reference = R56;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54B0605E;
 Reference = R57;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54B06064;
 Reference = R58;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54BFB1BD;
 Reference = R59;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54C2D212;
 Reference = R60;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54B0606A;
 Reference = R61;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54B06070;
 Reference = R62;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54BFB1CB;
 Reference = R63;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54B06076;
 Reference = R64;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54BFB1D9;
 Reference = R65;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54B0607C;
 Reference = R66;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54B2BF74;
 Reference = R67;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54BEDE91;
 Reference = R68;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54B2BF7A;
 Reference = R69;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54B2BF80;
 Reference = R70;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54BF3CE1;
 Reference = R71;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54B2BF86;
 Reference = R72;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54B2BF8C;
 Reference = R73;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54BF44D6;
 Reference = R74;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54B2BF92;
 Reference = R75;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54B2BF98;
 Reference = R76;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54BF4BDB;
 Reference = R77;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54B2BF9E;
 Reference = R78;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54BF5230;
 Reference = R79;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54AE50C9;
 Reference = R80;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54AE50CF;
 Reference = R81;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54BF57AF;
 Reference = R82;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54AE50D5;
 Reference = R83;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54AE50DB;
 Reference = R84;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54BF5DEC;
 Reference = R85;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54AE50E1;
 Reference = R86;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54AE50E7;
 Reference = R87;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54BF663B;
 Reference = R88;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54AE50ED;
 Reference = R89;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54AE50F3;
 Reference = R90;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54B44A6F;
 Reference = R91;
 ValeurCmp = 470;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /54CC7E94;
 Reference = R92;
 ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
