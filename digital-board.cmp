@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-01-30 7:24:30 PM
+Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-02-11 12:39:09 PM
 
 BeginCmp
 TimeStamp = /54587E73;
@@ -1251,6 +1251,20 @@ TimeStamp = /54A75EDE;
 Reference = SW23;
 ValeurCmp = TACT_SWITCH;
 IdModule  = MyModules:TL1240;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DAE206;
+Reference = TP1;
+ValeurCmp = CONN_1;
+IdModule  = MyModules:TEST POINT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DB9950;
+Reference = TP2;
+ValeurCmp = CONN_1;
+IdModule  = MyModules:TEST POINT;
 EndCmp
 
 BeginCmp
