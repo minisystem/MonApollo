@@ -5999,7 +5999,7 @@ F 3 "~" H 15250 19600 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text Notes 14550 19250 0    60   ~ 0
-Changed from \n+12V to +5V\nneed to test this!
+Changed from \n+12V to +5V\nTESTED
 Wire Notes Line
 	15150 19500 14600 19500
 Wire Notes Line
