@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-09-02 BZR 5112)-product   date = 2014-12-21 6:10:16 PM
+Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-02-16 7:25:43 PM
 
 BeginCmp
 TimeStamp = /54548EFB;
@@ -589,13 +589,6 @@ IdModule  = synth:SM0603-JRL;
 EndCmp
 
 BeginCmp
-TimeStamp = /5453E969;
-Reference = C85;
-ValeurCmp = 0.1µ;
-IdModule  = synth:SM0603-JRL;
-EndCmp
-
-BeginCmp
 TimeStamp = /548B934E;
 Reference = C86;
 ValeurCmp = 10p;
@@ -921,14 +914,14 @@ BeginCmp
 TimeStamp = /5453EA99;
 Reference = J2;
 ValeurCmp = OUT;
-IdModule  = DIY:JACK_6.35_STEREO;
+IdModule  = MyModules:JACK_6.35_STEREO_TAYDA;
 EndCmp
 
 BeginCmp
-TimeStamp = /5453E99F;
-Reference = LED1;
-ValeurCmp = LED;
-IdModule  = synth:LED-0805-JRL;
+TimeStamp = /54E2FF36;
+Reference = J3;
+ValeurCmp = CONN_20X2;
+IdModule  = DIY:PIN_ARRAY_20X2;
 EndCmp
 
 BeginCmp
@@ -936,13 +929,6 @@ TimeStamp = /5453F0DE;
 Reference = LFO1;
 ValeurCmp = VCO;
 IdModule  = MyModules:VCO-SIP;
-EndCmp
-
-BeginCmp
-TimeStamp = /5474D142;
-Reference = P1;
-ValeurCmp = CONN_20X2;
-IdModule  = DIY:PIN_ARRAY_20X2;
 EndCmp
 
 BeginCmp
@@ -1089,13 +1075,6 @@ BeginCmp
 TimeStamp = /546C425F;
 Reference = Q20;
 ValeurCmp = 2N3906;
-IdModule  = synth:SOT23-JRL;
-EndCmp
-
-BeginCmp
-TimeStamp = /5453F5A7;
-Reference = Q21;
-ValeurCmp = 2N3904;
 IdModule  = synth:SOT23-JRL;
 EndCmp
 
@@ -2304,13 +2283,6 @@ IdModule  = synth:SM0603-JRL;
 EndCmp
 
 BeginCmp
-TimeStamp = /548B34C7;
-Reference = R173;
-ValeurCmp = 10K;
-IdModule  = synth:SM0603-JRL;
-EndCmp
-
-BeginCmp
 TimeStamp = /5453F620;
 Reference = R174;
 ValeurCmp = 2.2M;
@@ -2486,13 +2458,6 @@ IdModule  = synth:SM0603-JRL;
 EndCmp
 
 BeginCmp
-TimeStamp = /5453F4F8;
-Reference = R199;
-ValeurCmp = 330;
-IdModule  = synth:SM0603-JRL;
-EndCmp
-
-BeginCmp
 TimeStamp = /546C4289;
 Reference = R200;
 ValeurCmp = 47K;
@@ -2546,13 +2511,6 @@ TimeStamp = /5461303E;
 Reference = R207;
 ValeurCmp = 1K;
 IdModule  = synth:SM0603-JRL;
-EndCmp
-
-BeginCmp
-TimeStamp = /5453E90A;
-Reference = SW1;
-ValeurCmp = TACT_SWITCH;
-IdModule  = MyModules:TL1240;
 EndCmp
 
 BeginCmp
@@ -3176,13 +3134,6 @@ TimeStamp = /5453E2BA;
 Reference = U36;
 ValeurCmp = 74LV573;
 IdModule  = github-smd:SSOP-20;
-EndCmp
-
-BeginCmp
-TimeStamp = /5453F4E1;
-Reference = U37;
-ValeurCmp = 74LVC1G32;
-IdModule  = github-smd:SOT-23-5;
 EndCmp
 
 BeginCmp
