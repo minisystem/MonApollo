@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-02-16 7:25:43 PM
+Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-02-17 10:34:52 PM
 
 BeginCmp
 TimeStamp = /54548EFB;
@@ -3018,13 +3018,6 @@ IdModule  = synth:SO16-JRL;
 EndCmp
 
 BeginCmp
-TimeStamp = /5453EC30;
-Reference = U20;
-ValeurCmp = LM13700;
-IdModule  = synth:SO16-JRL;
-EndCmp
-
-BeginCmp
 TimeStamp = /5453F4C2;
 Reference = U21;
 ValeurCmp = TL072-;
@@ -3063,7 +3056,7 @@ BeginCmp
 TimeStamp = /548A1E88;
 Reference = U26;
 ValeurCmp = TL072-;
-IdModule  = github-smd:TSSOP-14;
+IdModule  = synth:TSSOP8-JRL;
 EndCmp
 
 BeginCmp
