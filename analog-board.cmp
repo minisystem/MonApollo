@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-02-17 10:34:52 PM
+Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-02-18 4:24:23 PM
 
 BeginCmp
 TimeStamp = /54548EFB;
@@ -1558,7 +1558,7 @@ BeginCmp
 TimeStamp = /5453F4DA;
 Reference = R69;
 ValeurCmp = 1K 3300ppm/K;
-IdModule  = github-smd:SMD-0805;
+IdModule  = MyModules:SM0805-HAND;
 EndCmp
 
 BeginCmp
@@ -2930,7 +2930,7 @@ BeginCmp
 TimeStamp = /548A103C;
 Reference = U7;
 ValeurCmp = TL072-;
-IdModule  = synth:TSSOP8-JRL;
+IdModule  = MyModules:TSSOP8-JRL;
 EndCmp
 
 BeginCmp
@@ -2986,7 +2986,7 @@ BeginCmp
 TimeStamp = /548A1E4B;
 Reference = U15;
 ValeurCmp = TL072-;
-IdModule  = synth:TSSOP8-JRL;
+IdModule  = MyModules:TSSOP8-JRL;
 EndCmp
 
 BeginCmp
@@ -3021,7 +3021,7 @@ BeginCmp
 TimeStamp = /5453F4C2;
 Reference = U21;
 ValeurCmp = TL072-;
-IdModule  = synth:TSSOP8-JRL;
+IdModule  = MyModules:TSSOP8-JRL;
 EndCmp
 
 BeginCmp
@@ -3056,7 +3056,7 @@ BeginCmp
 TimeStamp = /548A1E88;
 Reference = U26;
 ValeurCmp = TL072-;
-IdModule  = synth:TSSOP8-JRL;
+IdModule  = MyModules:TSSOP8-JRL;
 EndCmp
 
 BeginCmp
