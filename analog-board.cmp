@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-02-18 4:24:23 PM
+Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-02-19 10:09:54 PM
 
 BeginCmp
 TimeStamp = /54548EFB;
@@ -613,7 +613,7 @@ BeginCmp
 TimeStamp = /5453F1D1;
 Reference = C89;
 ValeurCmp = 47μ;
-IdModule  = synth:CAP_POL_5MM;
+IdModule  = MyModules:2MM-POL-CAP;
 EndCmp
 
 BeginCmp
@@ -3105,21 +3105,21 @@ BeginCmp
 TimeStamp = /545491E8;
 Reference = U33;
 ValeurCmp = TL074-;
-IdModule  = github-smd:TSSOP-16;
+IdModule  = github-smd:TSSOP-14;
 EndCmp
 
 BeginCmp
 TimeStamp = /546C6AE6;
 Reference = U34;
 ValeurCmp = TL074-;
-IdModule  = github-smd:TSSOP-16;
+IdModule  = github-smd:TSSOP-14;
 EndCmp
 
 BeginCmp
 TimeStamp = /5453E765;
 Reference = U35;
 ValeurCmp = TL074-;
-IdModule  = github-smd:TSSOP-16;
+IdModule  = github-smd:TSSOP-14;
 EndCmp
 
 BeginCmp
