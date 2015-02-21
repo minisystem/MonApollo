@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-02-19 10:09:54 PM
+Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-02-21 12:07:43 AM
 
 BeginCmp
 TimeStamp = /54548EFB;
@@ -2916,7 +2916,7 @@ BeginCmp
 TimeStamp = /5453E5AC;
 Reference = U5;
 ValeurCmp = TL074-;
-IdModule  = github-smd:TSSOP-14;
+IdModule  = SMD DIL:tssop-14;
 EndCmp
 
 BeginCmp
@@ -2937,7 +2937,7 @@ BeginCmp
 TimeStamp = /5453E65B;
 Reference = U8;
 ValeurCmp = TL074-;
-IdModule  = github-smd:TSSOP-14;
+IdModule  = SMD DIL:tssop-14;
 EndCmp
 
 BeginCmp
@@ -3028,28 +3028,28 @@ BeginCmp
 TimeStamp = /54548F23;
 Reference = U22;
 ValeurCmp = TL074-;
-IdModule  = github-smd:TSSOP-14;
+IdModule  = SMD DIL:tssop-14;
 EndCmp
 
 BeginCmp
 TimeStamp = /545490C7;
 Reference = U23;
 ValeurCmp = TL074-;
-IdModule  = github-smd:TSSOP-14;
+IdModule  = SMD DIL:tssop-14;
 EndCmp
 
 BeginCmp
 TimeStamp = /54549073;
 Reference = U24;
 ValeurCmp = TL074-;
-IdModule  = github-smd:TSSOP-14;
+IdModule  = SMD DIL:tssop-14;
 EndCmp
 
 BeginCmp
 TimeStamp = /5454901F;
 Reference = U25;
 ValeurCmp = TL074-;
-IdModule  = github-smd:TSSOP-14;
+IdModule  = SMD DIL:tssop-14;
 EndCmp
 
 BeginCmp
@@ -3063,14 +3063,14 @@ BeginCmp
 TimeStamp = /54549190;
 Reference = U27;
 ValeurCmp = TL074-;
-IdModule  = github-smd:TSSOP-14;
+IdModule  = SMD DIL:tssop-14;
 EndCmp
 
 BeginCmp
 TimeStamp = /5454913C;
 Reference = U28;
 ValeurCmp = TL074-;
-IdModule  = github-smd:TSSOP-14;
+IdModule  = SMD DIL:tssop-14;
 EndCmp
 
 BeginCmp
@@ -3091,7 +3091,7 @@ BeginCmp
 TimeStamp = /546B9B32;
 Reference = U31;
 ValeurCmp = TL074-;
-IdModule  = github-smd:TSSOP-14;
+IdModule  = SMD DIL:tssop-14;
 EndCmp
 
 BeginCmp
@@ -3105,21 +3105,21 @@ BeginCmp
 TimeStamp = /545491E8;
 Reference = U33;
 ValeurCmp = TL074-;
-IdModule  = github-smd:TSSOP-14;
+IdModule  = SMD DIL:tssop-14;
 EndCmp
 
 BeginCmp
 TimeStamp = /546C6AE6;
 Reference = U34;
 ValeurCmp = TL074-;
-IdModule  = github-smd:TSSOP-14;
+IdModule  = SMD DIL:tssop-14;
 EndCmp
 
 BeginCmp
 TimeStamp = /5453E765;
 Reference = U35;
 ValeurCmp = TL074-;
-IdModule  = github-smd:TSSOP-14;
+IdModule  = SMD DIL:tssop-14;
 EndCmp
 
 BeginCmp
@@ -3140,7 +3140,7 @@ BeginCmp
 TimeStamp = /5453F102;
 Reference = U39;
 ValeurCmp = TL074-;
-IdModule  = github-smd:TSSOP-14;
+IdModule  = SMD DIL:tssop-14;
 EndCmp
 
 BeginCmp
@@ -3168,14 +3168,14 @@ BeginCmp
 TimeStamp = /54604C87;
 Reference = U43;
 ValeurCmp = LM7812;
-IdModule  = github-smd:DPAK-2;
+IdModule  = MyModules:D2-PAK-5733-HEAT-SINK;
 EndCmp
 
 BeginCmp
 TimeStamp = /54604C96;
 Reference = U44;
 ValeurCmp = LM7912;
-IdModule  = github-smd:DPAK-2;
+IdModule  = MyModules:D2-PAK-5733-HEAT-SINK;
 EndCmp
 
 BeginCmp
@@ -3189,7 +3189,7 @@ BeginCmp
 TimeStamp = /54604CA5;
 Reference = U46;
 ValeurCmp = 7805;
-IdModule  = github-smd:DPAK-2;
+IdModule  = MyModules:D2-PAK-5733-HEAT-SINK;
 EndCmp
 
 BeginCmp
