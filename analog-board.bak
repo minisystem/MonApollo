@@ -1525,7 +1525,7 @@ OSC PWM LFO MOD
 Text GLabel 4000 22550 0    60   Input ~ 0
 PWM B CV
 Text GLabel 2750 21950 0    60   Input ~ 0
-OSC B MOD
+OSCB MOD
 $Comp
 L PNP Q11
 U 1 1 5453E6D1
@@ -5391,13 +5391,13 @@ F 3 "~" H 18600 27250 60  0000 C CNN
 	1    18600 27250
 	1    0    0    -1  
 $EndComp
-Text GLabel 18600 24100 0    60   Input ~ 0
-SH0
-Text GLabel 18600 25250 0    60   Input ~ 0
-SH1
 Text GLabel 18600 26100 0    60   Input ~ 0
-SH2
+SH0
 Text GLabel 18600 27050 0    60   Input ~ 0
+SH1
+Text GLabel 18600 25250 0    60   Input ~ 0
+SH2
+Text GLabel 18600 24100 0    60   Input ~ 0
 SH3
 Text GLabel 18650 28600 0    60   Input ~ 0
 SH4
