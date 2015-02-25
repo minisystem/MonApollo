@@ -2090,12 +2090,12 @@ $EndComp
 $Comp
 L C_US C92
 U 1 1 5453E8B0
-P 33750 17650
-F 0 "C92" H 33800 17750 50  0000 L CNN
-F 1 "1µ" H 33800 17550 50  0000 L CNN
-F 2 "~" H 33750 17650 60  0000 C CNN
-F 3 "~" H 33750 17650 60  0000 C CNN
-	1    33750 17650
+P 33750 18650
+F 0 "C92" H 33800 18750 50  0000 L CNN
+F 1 "1µ" H 33800 18550 50  0000 L CNN
+F 2 "~" H 33750 18650 60  0000 C CNN
+F 3 "~" H 33750 18650 60  0000 C CNN
+	1    33750 18650
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -5407,21 +5407,21 @@ Text GLabel 18650 29750 0    60   Input ~ 0
 SH6
 Text GLabel 18650 28600 0    60   Input ~ 0
 SH7
-Text GLabel 21550 24100 0    60   Input ~ 0
-SH8
-Text GLabel 21550 25250 0    60   Input ~ 0
-SH9
-Text GLabel 21550 26100 0    60   Input ~ 0
-SH10
 Text GLabel 21550 27050 0    60   Input ~ 0
+SH8
+Text GLabel 21550 26100 0    60   Input ~ 0
+SH9
+Text GLabel 21550 24100 0    60   Input ~ 0
+SH10
+Text GLabel 21550 25250 0    60   Input ~ 0
 SH11
-Text GLabel 21550 28600 0    60   Input ~ 0
-SH12
-Text GLabel 21550 29750 0    60   Input ~ 0
-SH13
 Text GLabel 21550 30600 0    60   Input ~ 0
-SH14
+SH12
 Text GLabel 21550 31550 0    60   Input ~ 0
+SH13
+Text GLabel 21550 28600 0    60   Input ~ 0
+SH14
+Text GLabel 21550 29750 0    60   Input ~ 0
 SH15
 $Comp
 L TL074- U25
@@ -5448,23 +5448,23 @@ $EndComp
 $Comp
 L TL074- U25
 U 3 1 5454902B
-P 22250 30500
-F 0 "U25" H 22300 30700 60  0000 C CNN
-F 1 "TL074-" H 22400 30300 50  0000 C CNN
-F 2 "~" H 22250 30500 60  0000 C CNN
-F 3 "~" H 22250 30500 60  0000 C CNN
-	3    22250 30500
-	1    0    0    -1  
-$EndComp
-$Comp
-L TL074- U25
-U 4 1 54549031
 P 22250 31450
 F 0 "U25" H 22300 31650 60  0000 C CNN
 F 1 "TL074-" H 22400 31250 50  0000 C CNN
 F 2 "~" H 22250 31450 60  0000 C CNN
 F 3 "~" H 22250 31450 60  0000 C CNN
-	4    22250 31450
+	3    22250 31450
+	1    0    0    -1  
+$EndComp
+$Comp
+L TL074- U25
+U 4 1 54549031
+P 22250 30500
+F 0 "U25" H 22300 30700 60  0000 C CNN
+F 1 "TL074-" H 22400 30300 50  0000 C CNN
+F 2 "~" H 22250 30500 60  0000 C CNN
+F 3 "~" H 22250 30500 60  0000 C CNN
+	4    22250 30500
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -7705,11 +7705,11 @@ Text GLabel 19950 25150 2    60   Output ~ 0
 PWM A EG2 AMT CV
 Text GLabel 19950 26000 2    60   Output ~ 0
 PWM A CV
-Text GLabel 22900 26950 2    60   Output ~ 0
-GLIDE AMT CV
 Text GLabel 22900 26000 2    60   Output ~ 0
-OSCA PITCH CV
+GLIDE AMT CV
 Text GLabel 22900 25150 2    60   Output ~ 0
+OSCA PITCH CV
+Text GLabel 22900 26950 2    60   Output ~ 0
 OSCB PITCH CV
 Text GLabel 22900 30500 2    60   Output ~ 0
 OSCB INIT CV
@@ -9284,7 +9284,7 @@ Text GLabel 15250 31300 0    40   Input ~ 0
 DB1
 Text GLabel 15250 31400 0    40   Input ~ 0
 DB2
-Text GLabel 24600 17350 2    60   Output ~ 0
+Text GLabel 35950 16850 2    60   Output ~ 0
 TUNE
 Text Notes 31400 1500 0    60   ~ 0
 NOISE + S&H from YUSYNTH\nLFO module is VCO SIP with 100nF integrator cap and 1nF FET reset cap
@@ -9800,7 +9800,7 @@ F 3 "" H 5450 7050 60  0000 C CNN
 	0    1    1    0   
 $EndComp
 Text GLabel 17200 18650 0    60   Input ~ 0
-OSB MIX CV
+OSCB MIX CV
 $Comp
 L R_US R94
 U 1 1 54A724BA
@@ -10660,7 +10660,7 @@ Wire Wire Line
 Wire Wire Line
 	28100 17800 28750 17800
 Wire Wire Line
-	23200 17350 24600 17350
+	23200 17350 24400 17350
 Wire Wire Line
 	33750 17100 33850 17100
 Wire Wire Line
@@ -11472,9 +11472,9 @@ Wire Wire Line
 	33300 17800 33200 17800
 Connection ~ 35200 17100
 Wire Wire Line
-	33750 17100 33750 17450
+	33750 17100 33750 18450
 Wire Wire Line
-	33750 21350 33750 17850
+	33750 21350 33750 18850
 Wire Wire Line
 	40500 16750 40350 16750
 Connection ~ 40500 16750
@@ -12879,4 +12879,8 @@ Wire Wire Line
 Wire Wire Line
 	27950 17750 27950 17350
 Connection ~ 8750 29450
+Wire Wire Line
+	35950 16850 35300 16850
+Wire Wire Line
+	35300 16850 35300 16500
 $EndSCHEMATC
