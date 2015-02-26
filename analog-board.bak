@@ -119,21 +119,21 @@ Text GLabel 30700 24750 0    40   Input ~ 0
 DB7
 Text GLabel 30700 24950 0    40   Input ~ 0
 ANALOG SW LATCH
-Text GLabel 32350 24050 2    40   Output ~ 0
-OSCA TRI
-Text GLabel 32350 24150 2    40   Output ~ 0
-OSCA SAW
 Text GLabel 32350 24250 2    40   Output ~ 0
+OSCA TRI
+Text GLabel 32350 24050 2    40   Output ~ 0
+OSCA SAW
+Text GLabel 32350 24150 2    40   Output ~ 0
 OSCA PULSE
-Text GLabel 32350 24350 2    40   Output ~ 0
+Text GLabel 32350 24750 2    40   Output ~ 0
 OSCB TRI
-Text GLabel 32350 24450 2    40   Output ~ 0
+Text GLabel 32350 24650 2    40   Output ~ 0
 OSCB SAW
 Text GLabel 32350 24550 2    40   Output ~ 0
 OSCB PULSE
-Text GLabel 32350 24650 2    40   Output ~ 0
+Text GLabel 32350 24350 2    40   Output ~ 0
 OSC SYNC
-Text GLabel 32350 24750 2    40   Output ~ 0
+Text GLabel 32350 24450 2    40   Output ~ 0
 OSCB MOD
 $Comp
 L -12V #PWR04
