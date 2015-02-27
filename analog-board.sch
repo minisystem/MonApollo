@@ -7691,29 +7691,29 @@ F 3 "" H 7550 19050 60  0000 C CNN
 	1    7550 19050
 	0    1    1    0   
 $EndComp
-Text GLabel 20000 29650 2    60   Output ~ 0
-OSCA FM AMT CV
-Text GLabel 20000 28500 2    60   Output ~ 0
-OSC EG2 AMT CV
-Text GLabel 19950 24000 2    60   Output ~ 0
-OSC LFO AMT CV
 Text GLabel 19950 26950 2    60   Output ~ 0
-PWM A LFO AMT CV
-Text GLabel 20000 31450 2    60   Output ~ 0
-OSCA INIT CV
-Text GLabel 19950 25150 2    60   Output ~ 0
-PWM A EG2 AMT CV
-Text GLabel 19950 26000 2    60   Output ~ 0
-PWM A CV
-Text GLabel 22900 26000 2    60   Output ~ 0
-GLIDE AMT CV
-Text GLabel 22900 25150 2    60   Output ~ 0
-OSCA PITCH CV
+OSCA FM AMT CV
 Text GLabel 22900 26950 2    60   Output ~ 0
-OSCB PITCH CV
-Text GLabel 22900 30500 2    60   Output ~ 0
-OSCB INIT CV
+OSC EG2 AMT CV
+Text GLabel 19950 25150 2    60   Output ~ 0
+OSC LFO AMT CV
+Text GLabel 20000 30500 2    60   Output ~ 0
+PWM A LFO AMT CV
+Text GLabel 20000 28500 2    60   Output ~ 0
+OSCA INIT CV
+Text GLabel 19950 24000 2    60   Output ~ 0
+PWM A EG2 AMT CV
+Text GLabel 20000 31450 2    60   Output ~ 0
+PWM A CV
+Text GLabel 22900 25150 2    60   Output ~ 0
+GLIDE AMT CV
 Text GLabel 22900 24000 2    60   Output ~ 0
+OSCA PITCH CV
+Text GLabel 22900 26000 2    60   Output ~ 0
+OSCB PITCH CV
+Text GLabel 22900 31450 2    60   Output ~ 0
+OSCB INIT CV
+Text GLabel 22900 30500 2    60   Output ~ 0
 PWM B CV
 $Comp
 L CONN_1 TP4
@@ -8982,11 +8982,11 @@ F 3 "~" H 39250 15300 60  0000 C CNN
 $EndComp
 Text Notes 36900 15350 0    60   ~ 0
 Adjust R(Iabc) for unity gain
-Text GLabel 22900 31450 2    60   Output ~ 0
-OSCA MIX CV
-Text GLabel 20000 30500 2    60   Output ~ 0
-NOISE MIX CV
 Text GLabel 22900 29650 2    60   Output ~ 0
+OSCA MIX CV
+Text GLabel 20000 29650 2    60   Output ~ 0
+NOISE MIX CV
+Text GLabel 22900 28500 2    60   Output ~ 0
 OSCB MIX CV
 Text GLabel 25700 28500 2    60   Output ~ 0
 KEYTRACK AMT CV
@@ -9002,9 +9002,9 @@ Text GLabel 25700 26000 2    60   Output ~ 0
 AMP LFO AMT CV
 Text GLabel 25700 25150 2    60   Output ~ 0
 RES CV
-Text GLabel 22900 28500 2    60   Output ~ 0
-VOL CV
 Text GLabel 25700 26950 2    60   Output ~ 0
+VOL CV
+Text GLabel 19950 26000 2    60   Output ~ 0
 LFO RATE CV
 Text GLabel 28350 23950 2    60   Output ~ 0
 EG1 ATT CV
