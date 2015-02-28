@@ -5908,13 +5908,13 @@ Text GLabel 8900 29450 2    60   Output ~ 0
 VDAC
 Text GLabel 24350 25250 0    60   Input ~ 0
 SH17
-Text GLabel 24350 27050 0    60   Input ~ 0
+Text GLabel 24350 26100 0    60   Input ~ 0
 SH19
 Text GLabel 24350 28600 0    60   Input ~ 0
 SH20
 Text GLabel 24350 29750 0    60   Input ~ 0
 SH21
-Text GLabel 24350 26100 0    60   Input ~ 0
+Text GLabel 24350 27050 0    60   Input ~ 0
 SH18
 Text GLabel 24350 30600 0    60   Input ~ 0
 SH22
@@ -8988,21 +8988,21 @@ Text GLabel 20000 29650 2    60   Output ~ 0
 NOISE MIX CV
 Text GLabel 22900 28500 2    60   Output ~ 0
 OSCB MIX CV
-Text GLabel 25700 28500 2    60   Output ~ 0
-KEYTRACK AMT CV
-Text GLabel 25700 30500 2    60   Output ~ 0
-FIL EG2 AMT CV
-Text GLabel 25700 24000 2    60   Output ~ 0
-CUTOFF CV
-Text GLabel 25700 29650 2    60   Output ~ 0
-FIL LFO AMT CV
-Text GLabel 25700 31450 2    60   Output ~ 0
-FIL OSCB  AMT CV
 Text GLabel 25700 26000 2    60   Output ~ 0
-AMP LFO AMT CV
-Text GLabel 25700 25150 2    60   Output ~ 0
-RES CV
+KEYTRACK AMT CV
 Text GLabel 25700 26950 2    60   Output ~ 0
+FIL EG2 AMT CV
+Text GLabel 25700 28500 2    60   Output ~ 0
+CUTOFF CV
+Text GLabel 25700 25150 2    60   Output ~ 0
+FIL LFO AMT CV
+Text GLabel 25700 24000 2    60   Output ~ 0
+FIL OSCB  AMT CV
+Text GLabel 25700 30500 2    60   Output ~ 0
+AMP LFO AMT CV
+Text GLabel 25700 29650 2    60   Output ~ 0
+RES CV
+Text GLabel 25700 31450 2    60   Output ~ 0
 VOL CV
 Text GLabel 19950 26000 2    60   Output ~ 0
 LFO RATE CV
