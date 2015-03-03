@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-02-21 12:07:43 AM
+Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-03-02 10:09:55 PM
 
 BeginCmp
 TimeStamp = /54548EFB;
@@ -589,6 +589,13 @@ IdModule  = synth:SM0603-JRL;
 EndCmp
 
 BeginCmp
+TimeStamp = /54F91C83;
+Reference = C85;
+ValeurCmp = 0.1µ;
+IdModule  = synth:SM0603-JRL;
+EndCmp
+
+BeginCmp
 TimeStamp = /548B934E;
 Reference = C86;
 ValeurCmp = 10p;
@@ -803,6 +810,111 @@ TimeStamp = /5460DAE0;
 Reference = C116;
 ValeurCmp = 2.2µ;
 IdModule  = github-smd:SMD-1206_Pol;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F91C9B;
+Reference = C117;
+ValeurCmp = 0.1µ;
+IdModule  = synth:SM0603-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F91C8F;
+Reference = C118;
+ValeurCmp = 0.1µ;
+IdModule  = synth:SM0603-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F91CA7;
+Reference = C119;
+ValeurCmp = 0.1µ;
+IdModule  = synth:SM0603-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F91BEC;
+Reference = C120;
+ValeurCmp = 0.1µ;
+IdModule  = synth:SM0603-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F91C35;
+Reference = C121;
+ValeurCmp = 0.1µ;
+IdModule  = synth:SM0603-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F91BF8;
+Reference = C122;
+ValeurCmp = 0.1µ;
+IdModule  = synth:SM0603-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F91C41;
+Reference = C123;
+ValeurCmp = 0.1µ;
+IdModule  = synth:SM0603-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F91C1C;
+Reference = C124;
+ValeurCmp = 0.1µ;
+IdModule  = synth:SM0603-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F91C65;
+Reference = C125;
+ValeurCmp = 0.1µ;
+IdModule  = synth:SM0603-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F91C28;
+Reference = C126;
+ValeurCmp = 0.1µ;
+IdModule  = synth:SM0603-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F91C71;
+Reference = C127;
+ValeurCmp = 0.1µ;
+IdModule  = synth:SM0603-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F91C04;
+Reference = C128;
+ValeurCmp = 0.1µ;
+IdModule  = synth:SM0603-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F91C4D;
+Reference = C129;
+ValeurCmp = 0.1µ;
+IdModule  = synth:SM0603-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F91C10;
+Reference = C130;
+ValeurCmp = 0.1µ;
+IdModule  = synth:SM0603-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F91C59;
+Reference = C131;
+ValeurCmp = 0.1µ;
+IdModule  = synth:SM0603-JRL;
 EndCmp
 
 BeginCmp
