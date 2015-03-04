@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-03-03 10:19:12 AM
+Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-03-03 10:59:21 PM
 
 BeginCmp
 TimeStamp = /54548EFB;
@@ -3315,7 +3315,7 @@ BeginCmp
 TimeStamp = /54604CA5;
 Reference = U46;
 ValeurCmp = 7805;
-IdModule  = MyModules:D2-PAK-5733-HEAT-SINK;
+IdModule  = github-smd:DPAK-3;
 EndCmp
 
 BeginCmp
