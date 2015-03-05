@@ -1,0 +1,6 @@
+#.gitignore MonApollo
+
+#ignore routing reference gerbers
+*.gbr
+*.drl
+
