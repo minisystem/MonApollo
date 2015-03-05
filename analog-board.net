@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source E:/Documents/KiCad/Polysynth/MonApollo/analog-board.sch)
-    (date "2015-03-03 10:59:37 PM")
+    (date "2015-03-04 2:47:44 PM")
     (tool "Eeschema (2015-01-11 BZR 5365)-product"))
   (components
     (comp (ref U36)
