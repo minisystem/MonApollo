@@ -5910,15 +5910,15 @@ Text GLabel 24350 25250 0    60   Input ~ 0
 SH17
 Text GLabel 24350 26100 0    60   Input ~ 0
 SH19
-Text GLabel 24350 28600 0    60   Input ~ 0
+Text GLabel 24350 31550 0    60   Input ~ 0
 SH20
-Text GLabel 24350 29750 0    60   Input ~ 0
+Text GLabel 24350 30600 0    60   Input ~ 0
 SH21
 Text GLabel 24350 27050 0    60   Input ~ 0
 SH18
-Text GLabel 24350 30600 0    60   Input ~ 0
+Text GLabel 24350 28600 0    60   Input ~ 0
 SH22
-Text GLabel 24350 31550 0    60   Input ~ 0
+Text GLabel 24350 29750 0    60   Input ~ 0
 SH23
 Text GLabel 24350 24100 0    60   Input ~ 0
 SH16
