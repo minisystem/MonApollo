@@ -7050,7 +7050,7 @@ F 3 "~" H 17400 24650 60  0000 C CNN
 	1    17400 24650
 	1    0    0    -1  
 $EndComp
-Text GLabel 27000 31600 0    60   Input ~ 0
+Text GLabel 27000 30650 0    60   Input ~ 0
 SH26
 $Comp
 L TL074- U33
@@ -7085,7 +7085,7 @@ F 3 "~" H 27000 26500 60  0000 C CNN
 	1    27000 26500
 	1    0    0    -1  
 $EndComp
-Text GLabel 27000 30650 0    60   Input ~ 0
+Text GLabel 27000 31600 0    60   Input ~ 0
 SH27
 $Comp
 L C_US C76
@@ -9122,7 +9122,7 @@ F 3 "~" H 27000 30150 60  0000 C CNN
 	1    27000 30150
 	1    0    0    -1  
 $EndComp
-Text GLabel 27000 24050 0    60   Input ~ 0
+Text GLabel 27000 25200 0    60   Input ~ 0
 SH30
 $Comp
 L TL074- U34
@@ -9157,7 +9157,7 @@ F 3 "~" H 27000 31050 60  0000 C CNN
 	1    27000 31050
 	1    0    0    -1  
 $EndComp
-Text GLabel 27000 25200 0    60   Input ~ 0
+Text GLabel 27000 24050 0    60   Input ~ 0
 SH31
 $Comp
 L C_US C80
