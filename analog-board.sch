@@ -5399,13 +5399,13 @@ Text GLabel 18600 24100 0    60   Input ~ 0
 SH2
 Text GLabel 18600 25250 0    60   Input ~ 0
 SH3
-Text GLabel 18650 31550 0    60   Input ~ 0
-SH4
-Text GLabel 18650 30600 0    60   Input ~ 0
-SH5
 Text GLabel 18650 28600 0    60   Input ~ 0
-SH6
+SH4
 Text GLabel 18650 29750 0    60   Input ~ 0
+SH5
+Text GLabel 18650 31550 0    60   Input ~ 0
+SH6
+Text GLabel 18650 30600 0    60   Input ~ 0
 SH7
 Text GLabel 21550 27050 0    60   Input ~ 0
 SH8
