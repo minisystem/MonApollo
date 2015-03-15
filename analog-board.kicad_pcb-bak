@@ -1632,7 +1632,7 @@
     (fp_circle (center 0 0) (end 1.6 0) (layer B.SilkS) (width 0.15))
     (pad 1 thru_hole circle (at 0 0) (size 2.5 2.5) (drill 1.35) (layers *.Cu *.Mask B.SilkS)
       (net 262 "Net-(R105-Pad2)"))
-    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/testpoint2.wrl"
+    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/TEST-POINT.wrl"
       (at (xyz 0 0 0))
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz 0 0 0))
@@ -1656,6 +1656,11 @@
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz 0 0 0))
     )
+    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/TEST-POINT.wrl"
+      (at (xyz 0 0 0))
+      (scale (xyz 0.3937 0.3937 0.3937))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module "MyModules:TEST POINT" (layer B.Cu) (tedit 549103A9) (tstamp 54E2AC20)
@@ -1670,7 +1675,7 @@
     (fp_circle (center 0 0) (end 1.6 0) (layer B.SilkS) (width 0.15))
     (pad 1 thru_hole circle (at 0 0) (size 2.5 2.5) (drill 1.35) (layers *.Cu *.Mask B.SilkS)
       (net 256 "Net-(R106-Pad1)"))
-    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/testpoint2.wrl"
+    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/TEST-POINT.wrl"
       (at (xyz 0 0 0))
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz 0 0 0))
@@ -1862,7 +1867,7 @@
     (fp_circle (center 0 0) (end 1.6 0) (layer B.SilkS) (width 0.15))
     (pad 1 thru_hole circle (at 0 0) (size 2.5 2.5) (drill 1.35) (layers *.Cu *.Mask B.SilkS)
       (net 354 "Net-(C92-Pad2)"))
-    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/testpoint2.wrl"
+    (model "E:/Documents/KiCad/MyLibs/MyModules/3D models/TEST-POINT.wrl"
       (at (xyz 0 0 0))
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz 0 0 0))
