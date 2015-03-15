@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-03-14 6:24:06 PM
+Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-03-15 4:58:36 PM
 
 BeginCmp
 TimeStamp = /54548EFB;
@@ -2845,6 +2845,55 @@ EndCmp
 BeginCmp
 TimeStamp = /5453F04C;
 Reference = TP30;
+ValeurCmp = CONN_1;
+IdModule  = MyModules:TEST POINT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5508A440;
+Reference = TP31;
+ValeurCmp = CONN_1;
+IdModule  = MyModules:TEST POINT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5508194B;
+Reference = TP32;
+ValeurCmp = CONN_1;
+IdModule  = MyModules:TEST POINT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5507F260;
+Reference = TP33;
+ValeurCmp = CONN_1;
+IdModule  = MyModules:TEST POINT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5507F4D6;
+Reference = TP34;
+ValeurCmp = CONN_1;
+IdModule  = MyModules:TEST POINT;
+EndCmp
+
+BeginCmp
+TimeStamp = /55073D82;
+Reference = TP35;
+ValeurCmp = CONN_1;
+IdModule  = MyModules:TEST POINT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5509304A;
+Reference = TP36;
+ValeurCmp = CONN_1;
+IdModule  = MyModules:TEST POINT;
+EndCmp
+
+BeginCmp
+TimeStamp = /550983DA;
+Reference = TP37;
 ValeurCmp = CONN_1;
 IdModule  = MyModules:TEST POINT;
 EndCmp
