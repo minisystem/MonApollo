@@ -4,3 +4,7 @@
 *.gbr
 *.drl
 
+#ignore 3D files for now:
+*.wrl
+/shapes3D
+/digital-shapes3D
