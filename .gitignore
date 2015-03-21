@@ -6,5 +6,8 @@
 
 #ignore 3D files for now:
 *.wrl
+*.FCStd
+*.dxf
+*.pdf
 /shapes3D
 /digital-shapes3D
