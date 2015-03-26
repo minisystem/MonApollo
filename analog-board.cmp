@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-03-15 4:58:36 PM
+Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-03-26 11:05:50 AM
 
 BeginCmp
 TimeStamp = /54548EFB;
@@ -2409,6 +2409,13 @@ IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
+TimeStamp = /5518356C;
+Reference = R173;
+ValeurCmp = 100K;
+IdModule  = MyModules:SM0603-R-JRL;
+EndCmp
+
+BeginCmp
 TimeStamp = /5453F620;
 Reference = R174;
 ValeurCmp = 2.2M;
@@ -2580,6 +2587,13 @@ BeginCmp
 TimeStamp = /546C42BC;
 Reference = R198;
 ValeurCmp = 12K;
+IdModule  = MyModules:SM0603-R-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /55150B93;
+Reference = R199;
+ValeurCmp = 100K;
 IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
@@ -2894,6 +2908,20 @@ EndCmp
 BeginCmp
 TimeStamp = /550983DA;
 Reference = TP37;
+ValeurCmp = CONN_1;
+IdModule  = MyModules:TEST POINT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5514D1FB;
+Reference = TP38;
+ValeurCmp = CONN_1;
+IdModule  = MyModules:TEST POINT;
+EndCmp
+
+BeginCmp
+TimeStamp = /55149539;
+Reference = TP39;
 ValeurCmp = CONN_1;
 IdModule  = MyModules:TEST POINT;
 EndCmp

@@ -1374,13 +1374,13 @@
     )
   )
 
-  (module synth:SOT363-JRL (layer F.Cu) (tedit 512395CF) (tstamp 54E2A31B)
+  (module synth:SOT363-JRL (layer F.Cu) (tedit 55141A80) (tstamp 54E2A31B)
     (at 73 143 270)
     (descr "SMALL OUTLINE TRANSISTOR; 6 LEADS")
     (tags "SMALL OUTLINE TRANSISTOR; 6 LEADS")
     (path /5453F478)
     (attr smd)
-    (fp_text reference Q6 (at 0.762 -2.032 270) (layer F.SilkS)
+    (fp_text reference Q6 (at -1.75 0 360) (layer F.SilkS)
       (effects (font (size 0.8128 0.8128) (thickness 0.1524)))
     )
     (fp_text value BCM857BS (at 1.016 2.286 270) (layer F.SilkS)
@@ -2543,11 +2543,11 @@
     )
   )
 
-  (module MyModules:SM0805-HAND (layer F.Cu) (tedit 512397DC) (tstamp 54E4CFD6)
+  (module MyModules:SM0805-HAND (layer F.Cu) (tedit 5513690D) (tstamp 54E4CFD6)
     (at 73 145)
     (path /5453F4DA)
     (attr smd)
-    (fp_text reference R69 (at 0 -1.397) (layer F.SilkS)
+    (fp_text reference R69 (at 0 1.5) (layer F.SilkS)
       (effects (font (size 0.8128 0.8128) (thickness 0.1524)))
     )
     (fp_text value "1K 3300ppm/K" (at 0 0) (layer F.SilkS) hide
@@ -2646,12 +2646,12 @@
     )
   )
 
-  (module MyModules:TSSOP8-JRL (layer F.Cu) (tedit 5513689F) (tstamp 54E50AA7)
+  (module MyModules:TSSOP8-JRL (layer F.Cu) (tedit 55141AAC) (tstamp 54E50AA7)
     (at 73 128 270)
     (path /5453F4C2)
     (attr smd)
-    (fp_text reference U21 (at 2 0 360) (layer F.SilkS)
-      (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
+    (fp_text reference U21 (at 1 -5.25 360) (layer F.SilkS)
+      (effects (font (size 0.8128 0.8128) (thickness 0.1524)))
     )
     (fp_text value TL072- (at 0.65 -0.1 360) (layer F.SilkS) hide
       (effects (font (size 0.762 0.762) (thickness 0.16002)))
@@ -4162,11 +4162,11 @@
     )
   )
 
-  (module MyModules:SM0603-C-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049ACD)
+  (module MyModules:SM0603-C-JRL (layer F.Cu) (tedit 55141889) (tstamp 55049ACD)
     (at 24 55)
     (path /54548FCF)
     (attr smd)
-    (fp_text reference C49 (at 0 -1.4) (layer F.SilkS)
+    (fp_text reference C49 (at 0 1.5) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 0.01µ (at 0 0) (layer F.SilkS) hide
@@ -4187,11 +4187,11 @@
     )
   )
 
-  (module MyModules:SM0603-C-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049AD6)
+  (module MyModules:SM0603-C-JRL (layer F.Cu) (tedit 55141886) (tstamp 55049AD6)
     (at 24 53)
     (path /54548FED)
     (attr smd)
-    (fp_text reference C50 (at 0 -1.4) (layer F.SilkS)
+    (fp_text reference C50 (at 0 -1.5) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 0.01µ (at 0 0) (layer F.SilkS) hide
@@ -4212,11 +4212,11 @@
     )
   )
 
-  (module MyModules:SM0603-C-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049ADF)
+  (module MyModules:SM0603-C-JRL (layer F.Cu) (tedit 551418B5) (tstamp 55049ADF)
     (at 12 53 180)
     (path /54548FF3)
     (attr smd)
-    (fp_text reference C51 (at 0 -1.4 180) (layer F.SilkS)
+    (fp_text reference C51 (at 0 1.5 180) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 0.01µ (at 0 0 180) (layer F.SilkS) hide
@@ -4237,11 +4237,11 @@
     )
   )
 
-  (module MyModules:SM0603-C-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049AE8)
+  (module MyModules:SM0603-C-JRL (layer F.Cu) (tedit 551418B6) (tstamp 55049AE8)
     (at 12 55 180)
     (path /54548FF9)
     (attr smd)
-    (fp_text reference C52 (at 0 -1.4 180) (layer F.SilkS)
+    (fp_text reference C52 (at 0 -1.5 180) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 0.01µ (at 0 0 180) (layer F.SilkS) hide
@@ -4262,11 +4262,11 @@
     )
   )
 
-  (module MyModules:SM0603-C-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049AF1)
+  (module MyModules:SM0603-C-JRL (layer F.Cu) (tedit 55141881) (tstamp 55049AF1)
     (at 39 55)
     (path /545490EB)
     (attr smd)
-    (fp_text reference C53 (at 0 -1.4) (layer F.SilkS)
+    (fp_text reference C53 (at 0 1.5) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 0.01µ (at 0 0) (layer F.SilkS) hide
@@ -4287,11 +4287,11 @@
     )
   )
 
-  (module MyModules:SM0603-C-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049AFA)
+  (module MyModules:SM0603-C-JRL (layer F.Cu) (tedit 5514187F) (tstamp 55049AFA)
     (at 39 53)
     (path /54549109)
     (attr smd)
-    (fp_text reference C54 (at 0 -1.4) (layer F.SilkS)
+    (fp_text reference C54 (at 0 -1.5) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 0.01µ (at 0 0) (layer F.SilkS) hide
@@ -4312,11 +4312,11 @@
     )
   )
 
-  (module MyModules:SM0603-C-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049B03)
+  (module MyModules:SM0603-C-JRL (layer F.Cu) (tedit 55141885) (tstamp 55049B03)
     (at 27 53 180)
     (path /5454910F)
     (attr smd)
-    (fp_text reference C55 (at 0 -1.4 180) (layer F.SilkS)
+    (fp_text reference C55 (at 0 1.5 180) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 0.01µ (at 0 0 180) (layer F.SilkS) hide
@@ -4337,11 +4337,11 @@
     )
   )
 
-  (module MyModules:SM0603-C-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049B0C)
+  (module MyModules:SM0603-C-JRL (layer F.Cu) (tedit 5514188A) (tstamp 55049B0C)
     (at 27 55 180)
     (path /54549115)
     (attr smd)
-    (fp_text reference C56 (at 0 -1.4 180) (layer F.SilkS)
+    (fp_text reference C56 (at 0 -1.5 180) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 0.01µ (at 0 0 180) (layer F.SilkS) hide
@@ -5912,11 +5912,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049D43)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55141B1F) (tstamp 55049D43)
     (at 19 130.5)
     (path /546AF5C5)
     (attr smd)
-    (fp_text reference R2 (at 0 -1.4) (layer F.SilkS)
+    (fp_text reference R2 (at 0 -1.5) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 12K (at 0 0) (layer F.SilkS) hide
@@ -5937,11 +5937,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049D4C)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55141B1C) (tstamp 55049D4C)
     (at 32 130.5 180)
     (path /5453E4FF)
     (attr smd)
-    (fp_text reference R3 (at 0 -1.4 180) (layer F.SilkS)
+    (fp_text reference R3 (at 0 1.5 180) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 12K (at 0 0 180) (layer F.SilkS) hide
@@ -6012,11 +6012,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049D67)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55141B47) (tstamp 55049D67)
     (at 19 134.5)
     (path /546AF5CB)
     (attr smd)
-    (fp_text reference R6 (at 0 -1.4) (layer F.SilkS)
+    (fp_text reference R6 (at -2.5 0) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 510 (at 0 0) (layer F.SilkS) hide
@@ -6037,11 +6037,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049D70)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55141B0C) (tstamp 55049D70)
     (at 32 134.5 180)
     (path /5453E505)
     (attr smd)
-    (fp_text reference R7 (at 0 -1.4 180) (layer F.SilkS)
+    (fp_text reference R7 (at -2.5 -1 180) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 510 (at 0 0 180) (layer F.SilkS) hide
@@ -6112,11 +6112,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049D8B)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55141B43) (tstamp 55049D8B)
     (at 19 136.5 180)
     (path /546AF5DD)
     (attr smd)
-    (fp_text reference R10 (at 0 -1.4 180) (layer F.SilkS)
+    (fp_text reference R10 (at 2.5 0 180) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 2.2M (at 0 0 180) (layer F.SilkS) hide
@@ -6137,11 +6137,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049D94)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55141B04) (tstamp 55049D94)
     (at 32 136.5)
     (path /5453E51D)
     (attr smd)
-    (fp_text reference R11 (at 0 -1.4) (layer F.SilkS)
+    (fp_text reference R11 (at 2.5 0) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 2.2M (at 0 0) (layer F.SilkS) hide
@@ -6212,11 +6212,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049DAF)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55141AEE) (tstamp 55049DAF)
     (at 15.5 142.5 270)
     (path /5453F36D)
     (attr smd)
-    (fp_text reference R14 (at 0 -1.4 270) (layer F.SilkS)
+    (fp_text reference R14 (at 2 0 360) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 68K (at 0 0 270) (layer F.SilkS) hide
@@ -6237,11 +6237,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049DB8)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55141AF0) (tstamp 55049DB8)
     (at 36 142.5 90)
     (path /5453E541)
     (attr smd)
-    (fp_text reference R15 (at 0 -1.4 90) (layer F.SilkS)
+    (fp_text reference R15 (at -2 0 180) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 68K (at 0 0 90) (layer F.SilkS) hide
@@ -6262,11 +6262,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049DC1)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55141B4A) (tstamp 55049DC1)
     (at 19 132.5)
     (path /546AF5D1)
     (attr smd)
-    (fp_text reference R16 (at 0 -1.4) (layer F.SilkS)
+    (fp_text reference R16 (at -2.5 0) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 510 (at 0 0) (layer F.SilkS) hide
@@ -6287,11 +6287,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049DCA)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55141B15) (tstamp 55049DCA)
     (at 32 132.5 180)
     (path /5453E50B)
     (attr smd)
-    (fp_text reference R17 (at 0 -1.4 180) (layer F.SilkS)
+    (fp_text reference R17 (at -2.5 1 180) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 510 (at 0 0 180) (layer F.SilkS) hide
@@ -6512,11 +6512,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049E1B)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55141B41) (tstamp 55049E1B)
     (at 19 138.5 180)
     (path /5453F399)
     (attr smd)
-    (fp_text reference R26 (at 0 -1.4 180) (layer F.SilkS)
+    (fp_text reference R26 (at 2.5 0 180) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 12K (at 0 0 180) (layer F.SilkS) hide
@@ -6537,11 +6537,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049E24)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55141AFC) (tstamp 55049E24)
     (at 32 138.5)
     (path /5453EACE)
     (attr smd)
-    (fp_text reference R27 (at 0 -1.4) (layer F.SilkS)
+    (fp_text reference R27 (at 2.5 0) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 12K (at 0 0) (layer F.SilkS) hide
@@ -6637,11 +6637,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049E48)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55141B27) (tstamp 55049E48)
     (at 23 127)
     (path /5453F373)
     (attr smd)
-    (fp_text reference R31 (at 0 -1.4) (layer F.SilkS)
+    (fp_text reference R31 (at 0 1.5) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 47K (at 0 0) (layer F.SilkS) hide
@@ -6662,11 +6662,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049E51)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55141B28) (tstamp 55049E51)
     (at 28 127 180)
     (path /5453E547)
     (attr smd)
-    (fp_text reference R32 (at 0 -1.4 180) (layer F.SilkS)
+    (fp_text reference R32 (at 0 -1.5 180) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 47K (at 0 0 180) (layer F.SilkS) hide
@@ -6737,11 +6737,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049E6C)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55141B37) (tstamp 55049E6C)
     (at 23 125)
     (path /5453F39F)
     (attr smd)
-    (fp_text reference R35 (at 0 -1.4) (layer F.SilkS)
+    (fp_text reference R35 (at 0 -1.5) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 91K (at 0 0) (layer F.SilkS) hide
@@ -6762,11 +6762,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049E75)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55141B36) (tstamp 55049E75)
     (at 28 125 180)
     (path /5453EAD4)
     (attr smd)
-    (fp_text reference R36 (at 0 -1.4 180) (layer F.SilkS)
+    (fp_text reference R36 (at 0 1.5 180) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 91K (at 0 0 180) (layer F.SilkS) hide
@@ -6862,11 +6862,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049E99)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55141B38) (tstamp 55049E99)
     (at 19 125)
     (path /5453F3A5)
     (attr smd)
-    (fp_text reference R40 (at 0 -1.4) (layer F.SilkS)
+    (fp_text reference R40 (at 0 -1.5) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 270K (at 0 0) (layer F.SilkS) hide
@@ -6887,11 +6887,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049EA2)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55141B33) (tstamp 55049EA2)
     (at 32 125 180)
     (path /548BD8A9)
     (attr smd)
-    (fp_text reference R41 (at 0 -1.4 180) (layer F.SilkS)
+    (fp_text reference R41 (at 0 1.5 180) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 270K (at 0 0 180) (layer F.SilkS) hide
@@ -7162,7 +7162,7 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55136865) (tstamp 55049F05)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55136865) (tstamp 551419FB)
     (at 71 121)
     (path /5453E661)
     (attr smd)
@@ -7562,11 +7562,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049F95)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55136900) (tstamp 55049F95)
     (at 68.5 144.5 180)
     (path /5453F4AC)
     (attr smd)
-    (fp_text reference R68 (at 0 -1.4 180) (layer F.SilkS)
+    (fp_text reference R68 (at 2.5 0 180) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 33K (at 0 0 180) (layer F.SilkS) hide
@@ -7737,11 +7737,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 528C3246) (tstamp 55049FD4)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55136903) (tstamp 55049FD4)
     (at 77.5 144.5)
     (path /5453F48C)
     (attr smd)
-    (fp_text reference R76 (at 0 -1.4) (layer F.SilkS)
+    (fp_text reference R76 (at 2.5 0) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 39K (at 0 0) (layer F.SilkS) hide
@@ -7862,11 +7862,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 528C3246) (tstamp 5504A001)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 551368FE) (tstamp 5504A001)
     (at 68.5 142.5)
     (path /5453F47E)
     (attr smd)
-    (fp_text reference R81 (at 0 -1.4) (layer F.SilkS)
+    (fp_text reference R81 (at -2.5 0) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 100K (at 0 0) (layer F.SilkS) hide
@@ -7937,11 +7937,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 528C3246) (tstamp 5504A01C)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55136907) (tstamp 5504A01C)
     (at 77.5 142.5 180)
     (path /5453F485)
     (attr smd)
-    (fp_text reference R84 (at 0 -1.4 180) (layer F.SilkS)
+    (fp_text reference R84 (at -2.5 0 180) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 100K (at 0 0 180) (layer F.SilkS) hide
@@ -9012,7 +9012,7 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55132A0F) (tstamp 5504A19F)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55141935) (tstamp 5504A19F)
     (at 128.5 142.5 90)
     (path /5453E6FB)
     (attr smd)
@@ -9137,7 +9137,7 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 551326AB) (tstamp 5504A1CC)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55141909) (tstamp 5504A1CC)
     (at 148.5 96)
     (path /5453E7EC)
     (attr smd)
@@ -9487,11 +9487,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55132699) (tstamp 5504A24A)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55141903) (tstamp 5504A24A)
     (at 144.5 100)
     (path /5453E82E)
     (attr smd)
-    (fp_text reference R146 (at -0.5 1.5) (layer F.SilkS)
+    (fp_text reference R146 (at 0 1.5) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 18K (at 0 0) (layer F.SilkS) hide
@@ -9712,11 +9712,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55132725) (tstamp 5504A29B)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 551418F5) (tstamp 5504A29B)
     (at 133.5 89 180)
     (path /5453E789)
     (attr smd)
-    (fp_text reference R155 (at 3 0 180) (layer F.SilkS)
+    (fp_text reference R155 (at -3 0 180) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 100K (at 0 0 180) (layer F.SilkS) hide
@@ -9737,11 +9737,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 528C3246) (tstamp 5504A2A4)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 551418FC) (tstamp 5504A2A4)
     (at 133.5 91 180)
     (path /5453E7E5)
     (attr smd)
-    (fp_text reference R156 (at 0 -1.4 180) (layer F.SilkS)
+    (fp_text reference R156 (at 0 -1.5 180) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 100K (at 0 0 180) (layer F.SilkS) hide
@@ -10712,11 +10712,11 @@
     )
   )
 
-  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 5513269C) (tstamp 5504A403)
+  (module MyModules:SM0603-R-JRL (layer F.Cu) (tedit 55141905) (tstamp 5504A403)
     (at 157.5 100)
     (path /546C4283)
     (attr smd)
-    (fp_text reference R196 (at -0.5 1.5) (layer F.SilkS)
+    (fp_text reference R196 (at 0 1.5) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 18K (at 0 0) (layer F.SilkS) hide
@@ -10987,11 +10987,11 @@
     )
   )
 
-  (module MyModules:SM0603-C-JRL (layer F.Cu) (tedit 528C3246) (tstamp 5504A9C9)
+  (module MyModules:SM0603-C-JRL (layer F.Cu) (tedit 55141B22) (tstamp 5504A9C9)
     (at 19 127 180)
     (path /548BBB6F)
     (attr smd)
-    (fp_text reference C3 (at 0 -1.4 180) (layer F.SilkS)
+    (fp_text reference C3 (at 2.5 0 180) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 10p (at 0 0 180) (layer F.SilkS) hide
@@ -11012,11 +11012,11 @@
     )
   )
 
-  (module MyModules:SM0603-C-JRL (layer F.Cu) (tedit 528C3246) (tstamp 5504A9D2)
+  (module MyModules:SM0603-C-JRL (layer F.Cu) (tedit 55141B2F) (tstamp 5504A9D2)
     (at 32 127)
     (path /548BCC49)
     (attr smd)
-    (fp_text reference C4 (at 0 -1.4) (layer F.SilkS)
+    (fp_text reference C4 (at 2.5 0) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
     (fp_text value 10p (at 0 0) (layer F.SilkS) hide
@@ -11112,7 +11112,7 @@
     )
   )
 
-  (module MyModules:SO16-JRL (layer F.Cu) (tedit 52805EFF) (tstamp 550533CB)
+  (module MyModules:SO16-JRL (layer F.Cu) (tedit 55141AF9) (tstamp 550533CB)
     (at 25.5 134 90)
     (descr "SMALL OUTLINE INTEGRATED CIRCUIT")
     (tags "SMALL OUTLINE INTEGRATED CIRCUIT")
@@ -11961,13 +11961,13 @@
     )
   )
 
-  (module MyModules:SO16-JRL (layer F.Cu) (tedit 551368A7) (tstamp 55053648)
+  (module MyModules:SO16-JRL (layer F.Cu) (tedit 55141A97) (tstamp 55053648)
     (at 73 135.5 90)
     (descr "SMALL OUTLINE INTEGRATED CIRCUIT")
     (tags "SMALL OUTLINE INTEGRATED CIRCUIT")
     (path /5453F419)
     (attr smd)
-    (fp_text reference U18 (at -5.75 0 180) (layer F.SilkS)
+    (fp_text reference U18 (at 4.5 5.25 180) (layer F.SilkS)
       (effects (font (size 0.8128 0.8128) (thickness 0.1524)))
     )
     (fp_text value LM13700 (at -0.635 0 90) (layer F.SilkS)
@@ -12080,13 +12080,13 @@
     )
   )
 
-  (module MyModules:SO16-JRL (layer F.Cu) (tedit 52805EFF) (tstamp 550536A3)
+  (module MyModules:SO16-JRL (layer F.Cu) (tedit 55141AC5) (tstamp 550536A3)
     (at 73 82 90)
     (descr "SMALL OUTLINE INTEGRATED CIRCUIT")
     (tags "SMALL OUTLINE INTEGRATED CIRCUIT")
     (path /5453EC0C)
     (attr smd)
-    (fp_text reference U19 (at -5.75 0 180) (layer F.SilkS)
+    (fp_text reference U19 (at 5.75 0 180) (layer F.SilkS)
       (effects (font (size 0.8128 0.8128) (thickness 0.1524)))
     )
     (fp_text value LM13700 (at -0.635 0 90) (layer F.SilkS)
@@ -12729,12 +12729,12 @@
     )
   )
 
-  (module "SMD DIL:tssop-14" (layer F.Cu) (tedit 5513292A) (tstamp 54E75FCA)
+  (module "SMD DIL:tssop-14" (layer F.Cu) (tedit 551418DD) (tstamp 54E75FCA)
     (at 137 73.5 270)
     (descr TSSOP-14)
     (path /5453E765)
-    (fp_text reference U35 (at -3 0 360) (layer F.SilkS)
-      (effects (font (size 0.50038 0.50038) (thickness 0.09906)))
+    (fp_text reference U35 (at -3.25 0 360) (layer F.SilkS)
+      (effects (font (size 0.8128 0.8128) (thickness 0.1524)))
     )
     (fp_text value TL074- (at 0 -1.143 270) (layer F.SilkS)
       (effects (font (size 0.50038 0.50038) (thickness 0.09906)))
@@ -13129,12 +13129,12 @@
     )
   )
 
-  (module "SMD DIL:tssop-14" (layer F.Cu) (tedit 49E9AE23) (tstamp 54E75F1A)
+  (module "SMD DIL:tssop-14" (layer F.Cu) (tedit 551418A7) (tstamp 54E75F1A)
     (at 33 54 90)
     (descr TSSOP-14)
     (path /545490C7)
-    (fp_text reference U23 (at 0 0.508 90) (layer F.SilkS)
-      (effects (font (size 0.50038 0.50038) (thickness 0.09906)))
+    (fp_text reference U23 (at 3.25 0 180) (layer F.SilkS)
+      (effects (font (size 0.8128 0.8128) (thickness 0.1524)))
     )
     (fp_text value TL074- (at 0 -1.143 90) (layer F.SilkS)
       (effects (font (size 0.50038 0.50038) (thickness 0.09906)))
@@ -13179,12 +13179,12 @@
     )
   )
 
-  (module "SMD DIL:tssop-14" (layer F.Cu) (tedit 49E9AE23) (tstamp 54E75F04)
+  (module "SMD DIL:tssop-14" (layer F.Cu) (tedit 551418CB) (tstamp 54E75F04)
     (at 18 54 90)
     (descr TSSOP-14)
     (path /54548F23)
-    (fp_text reference U22 (at 0 0.508 90) (layer F.SilkS)
-      (effects (font (size 0.50038 0.50038) (thickness 0.09906)))
+    (fp_text reference U22 (at 3.25 0 180) (layer F.SilkS)
+      (effects (font (size 0.8128 0.8128) (thickness 0.1524)))
     )
     (fp_text value TL074- (at 0 -1.143 90) (layer F.SilkS)
       (effects (font (size 0.50038 0.50038) (thickness 0.09906)))
@@ -13229,7 +13229,7 @@
     )
   )
 
-  (module "SMD DIL:tssop-14" (layer F.Cu) (tedit 551368E6) (tstamp 54E75EEE)
+  (module "SMD DIL:tssop-14" (layer F.Cu) (tedit 5514194B) (tstamp 54E75EEE)
     (at 73 117 270)
     (descr TSSOP-14)
     (path /5453E65B)
@@ -15431,11 +15431,11 @@
     )
   )
 
-  (module MyModules:SOT23-JRL (layer F.Cu) (tedit 5281A378) (tstamp 55057391)
+  (module MyModules:SOT23-JRL (layer F.Cu) (tedit 55141AF3) (tstamp 55057391)
     (at 32.5 142.5 90)
     (tags SOT23)
     (path /5453E517)
-    (fp_text reference Q2 (at 1.99898 -0.09906 180) (layer F.SilkS)
+    (fp_text reference Q2 (at -2 0 180) (layer F.SilkS)
       (effects (font (size 0.8128 0.8128) (thickness 0.1524)))
     )
     (fp_text value 2N3906 (at 0.0635 0 90) (layer F.SilkS) hide
