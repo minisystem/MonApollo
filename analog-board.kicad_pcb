@@ -69,7 +69,7 @@
     (pad_drill 0.889)
     (pad_to_mask_clearance 0.1)
     (aux_axis_origin 0 0)
-    (visible_elements 7FFEF77F)
+    (visible_elements 7FFFF77F)
     (pcbplotparams
       (layerselection 0x00030_80000001)
       (usegerberextensions false)
@@ -1248,7 +1248,7 @@
     )
   )
 
-  (module DIY:PIN_ARRAY_20X2 (layer B.Cu) (tedit 5515C1F4) (tstamp 54E2A29D)
+  (module DIY:PIN_ARRAY_20X2 (layer B.Cu) (tedit 55195F0C) (tstamp 54E2A29D)
     (at 147 8.5 180)
     (descr "Double rangee de contacts 2 x 12 pins")
     (tags CONN)
@@ -1256,7 +1256,7 @@
     (fp_text reference J3 (at -24.25 -3.75 180) (layer B.SilkS)
       (effects (font (size 1.016 1.016) (thickness 0.2032)) (justify mirror))
     )
-    (fp_text value CONN_20X2 (at 0 -3.81 180) (layer B.SilkS)
+    (fp_text value CONN_20X2 (at 0 -3.81 180) (layer B.SilkS) hide
       (effects (font (size 1.016 1.016) (thickness 0.2032)) (justify mirror))
     )
     (fp_line (start 25.4 -2.54) (end -25.4 -2.54) (layer B.SilkS) (width 0.3048))
