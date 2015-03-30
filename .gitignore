@@ -3,6 +3,7 @@
 #ignore routing reference gerbers
 *.gbr
 *.drl
+/Gerbers
 
 #ignore 3D files for now:
 *.wrl

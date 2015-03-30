@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-03-26 11:05:50 AM
+Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-03-30 2:27:08 PM
 
 BeginCmp
 TimeStamp = /54548EFB;
@@ -3392,7 +3392,7 @@ BeginCmp
 TimeStamp = /54604CA5;
 Reference = U46;
 ValeurCmp = 7805;
-IdModule  = github-smd:DPAK-3;
+IdModule  = github-smd:DPAK-2;
 EndCmp
 
 BeginCmp
