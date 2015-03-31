@@ -31,7 +31,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:MySynthParts
 LIBS:analog-board-cache
-EELAYER 25 0
+EELAYER 24 0
 EELAYER END
 $Descr E 44000 34000
 encoding utf-8
@@ -13478,4 +13478,6 @@ EXT_CV_IN
 Wire Wire Line
 	9400 20000 9750 20000
 Connection ~ 9750 20000
+Text Notes 13850 26600 0    100  ~ 0
+CVs are unipolar signals. Should \nV- be connected to GND instead?
 $EndSCHEMATC
