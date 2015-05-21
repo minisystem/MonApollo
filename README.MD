@@ -1,6 +1,5 @@
 Programmable Analog Monosynth
----------
-Prototype
+
 ========
 Digital Board
 ========
