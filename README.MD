@@ -1,18 +1,20 @@
+=============================
 Programmable Analog Monosynth
------------------------------
-========
+=============================
+Prototype 
+-------------
 Digital Board
-========
+-------------
 
 Digital board tested and working but there is some cross-talk on
 potentiometer ADC channels. Allowing sufficient settling time at ADC node between reads seems to mostly remedy this
 to <= 1 LSB.
 
-============
+------------
 Analog Board
-============
+------------
 DAC S&H tested and working. There is some cross-talk (<= 10mV) on adjacent CV traces, but these are currently floating. Need to test
-for crosstalk again once CV targetsare installed.
+for crosstalk again once CV targets are installed.
 
 Bugs discovered thus far:
 
