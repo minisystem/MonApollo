@@ -31,7 +31,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:MySynthParts
 LIBS:analog-board-cache
-EELAYER 24 0
+EELAYER 25 0
 EELAYER END
 $Descr E 44000 34000
 encoding utf-8
@@ -2340,11 +2340,11 @@ F 3 "" H 41500 4050 60  0000 C CNN
 	1    41500 4050
 	-1   0    0    -1  
 $EndComp
-Text GLabel 42300 4200 2    40   Input ~ 0
+Text GLabel 40850 7500 0    40   Input ~ 0
 DB0
-Text GLabel 42300 4300 2    40   Input ~ 0
+Text GLabel 40850 7600 0    40   Input ~ 0
 DB1
-Text GLabel 42300 4050 2    40   Input ~ 0
+Text GLabel 40800 8000 0    40   Input ~ 0
 LFO DMUX EN
 $Comp
 L -12V #PWR074
@@ -4048,7 +4048,7 @@ Text Notes 40500 3600 0    60   ~ 0
 SINE
 Text Notes 40500 3500 0    60   ~ 0
 TRI
-Text GLabel 42300 4400 2    40   Input ~ 0
+Text GLabel 40850 7700 0    40   Input ~ 0
 DB2
 Text Notes 31400 1300 0    100  ~ 0
 LFO + NOISE + S&H
@@ -10771,11 +10771,11 @@ Connection ~ 40500 15800
 Wire Wire Line
 	35850 16500 35950 16500
 Wire Wire Line
-	42300 4200 42200 4200
+	42200 4200 42550 4200
 Wire Wire Line
-	42300 4300 42200 4300
+	42200 4300 42700 4300
 Wire Wire Line
-	42200 4050 42300 4050
+	42200 4050 42700 4050
 Wire Wire Line
 	42200 3500 42350 3500
 Wire Wire Line
@@ -11212,7 +11212,7 @@ Connection ~ 36150 4700
 Wire Wire Line
 	42200 4600 42200 5200
 Wire Wire Line
-	42200 4400 42300 4400
+	42200 4400 42850 4400
 Wire Notes Line
 	31350 1100 31350 9250
 Wire Notes Line
@@ -13480,4 +13480,96 @@ Wire Wire Line
 Connection ~ 9750 20000
 Text Notes 13850 26600 0    100  ~ 0
 CVs are unipolar signals. Should \nV- be connected to GND instead?
+Text Notes 36650 5950 0    60   ~ 0
+R181 changed to 750K \nand R180 changed to\n10K on first prototype\nto get 10V-pp noise signal
+$Comp
+L 74HC75 U20
+U 1 1 5560FCFF
+P 41550 7850
+F 0 "U20" H 41900 8300 60  0000 C CNN
+F 1 "74HC75" H 41550 7850 60  0000 C CNN
+F 2 "" H 41550 7850 60  0000 C CNN
+F 3 "" H 41550 7850 60  0000 C CNN
+	1    41550 7850
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND_E #PWR0337
+U 1 1 556207D0
+P 41550 8550
+F 0 "#PWR0337" V 41550 8550 30  0001 C CNN
+F 1 "GND_E" H 41550 8480 30  0001 C CNN
+F 2 "~" H 41550 8550 60  0000 C CNN
+F 3 "~" H 41550 8550 60  0000 C CNN
+	1    41550 8550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	41550 8450 41550 8550
+$Comp
+L +5V #PWR0338
+U 1 1 55626424
+P 41550 7200
+F 0 "#PWR0338" H 41550 7300 30  0001 C CNN
+F 1 "+5V" H 41550 7450 60  0000 C TNN
+F 2 "~" H 41550 7200 60  0000 C CNN
+F 3 "~" H 41550 7200 60  0000 C CNN
+	1    41550 7200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	41550 7200 41550 7250
+Wire Wire Line
+	40800 8000 40850 8000
+Wire Wire Line
+	40850 8000 40850 8100
+$Comp
+L +12V #PWR0339
+U 1 1 55635D24
+P 42700 3850
+F 0 "#PWR0339" H 42700 3950 30  0001 C CNN
+F 1 "+12V" H 42700 4050 60  0000 C CNN
+F 2 "~" H 42700 3850 60  0000 C CNN
+F 3 "~" H 42700 3850 60  0000 C CNN
+	1    42700 3850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	42700 4050 42700 3850
+NoConn ~ 42250 7900
+NoConn ~ 42250 8000
+NoConn ~ 42250 8100
+NoConn ~ 42250 8200
+Wire Wire Line
+	42550 4200 42550 7500
+Wire Wire Line
+	42550 7500 42250 7500
+Wire Wire Line
+	42250 7600 42700 7600
+Wire Wire Line
+	42700 7600 42700 4300
+Wire Wire Line
+	42850 4400 42850 7700
+Wire Wire Line
+	42850 7700 42250 7700
+$Comp
+L GND_E #PWR0340
+U 1 1 5564046E
+P 40200 7900
+F 0 "#PWR0340" V 40200 7900 30  0001 C CNN
+F 1 "GND_E" H 40200 7830 30  0001 C CNN
+F 2 "~" H 40200 7900 60  0000 C CNN
+F 3 "~" H 40200 7900 60  0000 C CNN
+	1    40200 7900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	40850 7800 40200 7800
+Wire Wire Line
+	40200 7800 40200 7900
+NoConn ~ 42250 7800
+Text Notes 38300 25600 0    60   ~ 0
+*NOTE: 7912 and 7812 DO NOT HAVE THE SAME PIN OUT!
+Text Notes 39550 25050 0    60   ~ 0
+*
 $EndSCHEMATC

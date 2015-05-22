@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-03-30 2:27:08 PM
+Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-05-22 11:20:39 AM
 
 BeginCmp
 TimeStamp = /54548EFB;
@@ -3218,6 +3218,13 @@ TimeStamp = /5453EC0C;
 Reference = U19;
 ValeurCmp = LM13700;
 IdModule  = MyModules:SO16-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5560FCFF;
+Reference = U20;
+ValeurCmp = 74HC75;
+IdModule  = SMD DIL:tssop-16;
 EndCmp
 
 BeginCmp
