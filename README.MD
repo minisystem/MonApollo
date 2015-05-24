@@ -26,4 +26,8 @@ Bugs discovered thus far:
 2. LFO DG408 demultiplexer address lines are not latched, making LFO source addressing useless. Need to add 74LC75
 latch in next revision.
 2. C107 S&H sample cap footprint is 0805, but there are no NP0 or film caps in this footprint. Tried X7R and there was too much
-droop. Through-hole film cap is in there now and droop is better, but still about 50-60 mV per second.
+droop. Through-hole film cap is in there now and droop is better, but still about 50-60 mV per second. This could be 
+related to layout and leakage across PCB traces. A second look at layout shows definite room for improvement.
+3. Glide circuit: Q6 PNP matched pair BCM857BS was flipped in schematic, swapping collectors and emitters. Good grief! Can't be salavaged
+by a bodge, so will have to move on to VCO mod depth control and revisit glide in next PCB revision.
+4. Glide slew caps C47 and C48 are currently 0603 but need to be 0805 or 1206 or even throughhole if film caps are to be used.
