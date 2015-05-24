@@ -3832,8 +3832,8 @@ F 3 "~" H 38550 6350 60  0000 C CNN
 	1    38550 6350
 	1    0    0    -1  
 $EndComp
-Text Notes 39000 7300 0    60   ~ 0
-NP0 or FILM
+Text Notes 39000 7350 0    60   ~ 0
+NP0 or FILM\nNeed to change to larger footprint here!
 $Comp
 L GND #PWR0114
 U 1 1 5453F251
@@ -13574,4 +13574,8 @@ Wire Wire Line
 	42550 4400 42550 7500
 Text Notes 42450 7050 1    60   ~ 0
 Note: for ease of PCB layout order\nof mux addressing is not sequential
+Text Notes 18400 9150 0    60   ~ 0
+Need to change to\nlarger footprint here!
+Text Notes 18300 11000 0    60   ~ 0
+Need to change to\nlarger footprint here!
 $EndSCHEMATC

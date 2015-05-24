@@ -13572,4 +13572,6 @@ Wire Wire Line
 	42800 7700 42250 7700
 Wire Wire Line
 	42550 4400 42550 7500
+Text Notes 42450 7050 1    60   ~ 0
+Note: for ease of PCB layout order\nof mux addressing is not sequential
 $EndSCHEMATC
