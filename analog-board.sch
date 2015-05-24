@@ -10771,7 +10771,7 @@ Connection ~ 40500 15800
 Wire Wire Line
 	35850 16500 35950 16500
 Wire Wire Line
-	42200 4200 42550 4200
+	42200 4200 42800 4200
 Wire Wire Line
 	42200 4300 42700 4300
 Wire Wire Line
@@ -11212,7 +11212,7 @@ Connection ~ 36150 4700
 Wire Wire Line
 	42200 4600 42200 5200
 Wire Wire Line
-	42200 4400 42850 4400
+	42200 4400 42550 4400
 Wire Notes Line
 	31350 1100 31350 9250
 Wire Notes Line
@@ -13541,17 +13541,11 @@ NoConn ~ 42250 8000
 NoConn ~ 42250 8100
 NoConn ~ 42250 8200
 Wire Wire Line
-	42550 4200 42550 7500
-Wire Wire Line
 	42550 7500 42250 7500
 Wire Wire Line
 	42250 7600 42700 7600
 Wire Wire Line
 	42700 7600 42700 4300
-Wire Wire Line
-	42850 4400 42850 7700
-Wire Wire Line
-	42850 7700 42250 7700
 $Comp
 L GND_E #PWR0340
 U 1 1 5564046E
@@ -13572,4 +13566,12 @@ Text Notes 38300 25600 0    60   ~ 0
 *NOTE: 7912 and 7812 DO NOT HAVE THE SAME PIN OUT!
 Text Notes 39550 25050 0    60   ~ 0
 *
+Wire Wire Line
+	42800 4200 42800 7700
+Wire Wire Line
+	42800 7700 42250 7700
+Wire Wire Line
+	42550 4400 42550 7500
+Text Notes 42450 7050 1    60   ~ 0
+Note: for ease of PCB layout order\nof mux addressing is not sequential
 $EndSCHEMATC
