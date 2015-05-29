@@ -13578,4 +13578,10 @@ Text Notes 18400 9150 0    60   ~ 0
 Need to change to\nlarger footprint here!
 Text Notes 18300 11000 0    60   ~ 0
 Need to change to\nlarger footprint here!
+Text Notes 14600 13800 0    60   ~ 0
+Changed to 47K to\nprevent clipping
+Text Notes 14550 18900 0    60   ~ 0
+Changed to 47K to\nprevent clipping
+Text Notes 22350 16300 0    60   ~ 0
+Changed to 47K to\nprevent clipping
 $EndSCHEMATC
