@@ -10411,7 +10411,7 @@ Wire Wire Line
 Wire Wire Line
 	32400 2300 33400 2300
 Wire Wire Line
-	7000 15700 7400 15700
+	6450 15700 7400 15700
 Wire Wire Line
 	6250 14200 7000 14200
 Wire Wire Line
@@ -10505,7 +10505,7 @@ Wire Wire Line
 Wire Wire Line
 	6150 23100 5700 23100
 Wire Wire Line
-	7150 22100 7150 23900
+	7150 22100 7150 24350
 Wire Wire Line
 	2950 19800 2950 24400
 Connection ~ 2950 21950
@@ -13578,4 +13578,75 @@ Text Notes 18400 9150 0    60   ~ 0
 Need to change to\nlarger footprint here!
 Text Notes 18300 11000 0    60   ~ 0
 Need to change to\nlarger footprint here!
+Text Notes 14600 13800 0    60   ~ 0
+Changed to 47K to\nprevent clipping
+Text Notes 14550 18900 0    60   ~ 0
+Changed to 47K to\nprevent clipping
+Text Notes 22350 16300 0    60   ~ 0
+Changed to 47K to\nprevent clipping
+$Comp
+L R_US R?
+U 1 1 5576A3F2
+P 6450 15950
+F 0 "R?" V 6530 15950 50  0000 C CNN
+F 1 "220K" V 6370 15950 50  0000 C CNN
+F 2 "" H 6450 15950 60  0000 C CNN
+F 3 "" H 6450 15950 60  0000 C CNN
+	1    6450 15950
+	-1   0    0    1   
+$EndComp
+$Comp
+L -12V #PWR?
+U 1 1 5576C921
+P 6450 16200
+F 0 "#PWR?" H 6450 16300 30  0001 C CNN
+F 1 "-12V" H 6425 16475 60  0000 C CNN
+F 2 "~" H 6450 16200 60  0000 C CNN
+F 3 "~" H 6450 16200 60  0000 C CNN
+	1    6450 16200
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6450 15750 6450 15700
+Wire Wire Line
+	6450 16150 6450 16200
+Text Notes 6250 15600 0    60   ~ 0
+bias PWM MOD \nCVs down -5V
+Wire Wire Line
+	7150 24350 6200 24350
+$Comp
+L R_US R?
+U 1 1 55777063
+P 6200 24600
+F 0 "R?" V 6280 24600 50  0000 C CNN
+F 1 "220K" V 6120 24600 50  0000 C CNN
+F 2 "" H 6200 24600 60  0000 C CNN
+F 3 "" H 6200 24600 60  0000 C CNN
+	1    6200 24600
+	-1   0    0    1   
+$EndComp
+$Comp
+L -12V #PWR?
+U 1 1 55777069
+P 6200 24850
+F 0 "#PWR?" H 6200 24950 30  0001 C CNN
+F 1 "-12V" H 6175 25125 60  0000 C CNN
+F 2 "~" H 6200 24850 60  0000 C CNN
+F 3 "~" H 6200 24850 60  0000 C CNN
+	1    6200 24850
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6200 24350 6200 24400
+Wire Wire Line
+	6200 24800 6200 24850
+Text Notes 6000 24250 0    60   ~ 0
+bias PWM MOD \nCVs down -5V
+Connection ~ 7150 23900
+Text Notes 40700 16450 0    60   ~ 0
+J2 pins mixed up, results in \noutput being shorted to ground!
+Text Notes 35600 30650 0    60   ~ 0
+*NOTE: jumper 1K output resistor\non EG2 module; it forms a divider \nwith input resistors to EG2 \nmodulation depth VCAs
+Text Notes 16450 11100 0    60   ~ 0
+*NOTE: C47 and C48 values: need\nto experiment more with C47 and \nC48 values. Change to dual\nfootprint 0805 and TH.
 $EndSCHEMATC
