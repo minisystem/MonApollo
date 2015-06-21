@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-05-22 11:20:39 AM
+Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-06-21 6:24:27 PM
 
 BeginCmp
 TimeStamp = /54548EFB;
@@ -326,14 +326,14 @@ BeginCmp
 TimeStamp = /5453F436;
 Reference = C47;
 ValeurCmp = 470n;
-IdModule  = MyModules:SM0603-C-JRL;
+IdModule  = MyModules:CAP-5MM-BOX-0805-COMBO;
 EndCmp
 
 BeginCmp
 TimeStamp = /5453F468;
 Reference = C48;
 ValeurCmp = 470n;
-IdModule  = MyModules:SM0603-C-JRL;
+IdModule  = MyModules:CAP-5MM-BOX-0805-COMBO;
 EndCmp
 
 BeginCmp
@@ -746,7 +746,7 @@ BeginCmp
 TimeStamp = /5453F21F;
 Reference = C107;
 ValeurCmp = 100n;
-IdModule  = github-smd:SMD-0805;
+IdModule  = MyModules:CAP-5MM-BOX-0805-COMBO;
 EndCmp
 
 BeginCmp

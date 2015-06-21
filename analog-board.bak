@@ -13649,4 +13649,6 @@ Text Notes 35600 30650 0    60   ~ 0
 *NOTE: jumper 1K output resistor\non EG2 module; it forms a divider \nwith input resistors to EG2 \nmodulation depth VCAs
 Text Notes 16450 11100 0    60   ~ 0
 *NOTE: C47 and C48 values: need\nto experiment more with C47 and \nC48 values. Change to dual\nfootprint 0805 and TH.
+Text Notes 31500 31750 0    60   ~ 0
+External gate input doesn't work here.\nProbably because OR gate on digital board\ncan sink and source current, so holds output \nlow when external gate is applied?
 $EndSCHEMATC
