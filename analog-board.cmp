@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-06-21 6:24:27 PM
+Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-06-21 11:01:38 PM
 
 BeginCmp
 TimeStamp = /54548EFB;
@@ -2650,6 +2650,20 @@ BeginCmp
 TimeStamp = /5461303E;
 Reference = R207;
 ValeurCmp = 1K;
+IdModule  = MyModules:SM0603-R-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /55777063;
+Reference = R208;
+ValeurCmp = 220K;
+IdModule  = MyModules:SM0603-R-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5576A3F2;
+Reference = R209;
+ValeurCmp = 220K;
 IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
