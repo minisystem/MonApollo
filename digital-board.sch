@@ -1145,7 +1145,7 @@ L R_US R18
 U 1 1 54588441
 P 13150 1650
 F 0 "R18" V 13200 1800 50  0000 C CNN
-F 1 "10K" V 13070 1650 50  0000 C CNN
+F 1 "1K" V 13070 1650 50  0000 C CNN
 F 2 "~" H 13150 1650 60  0000 C CNN
 F 3 "~" H 13150 1650 60  0000 C CNN
 	1    13150 1650
@@ -6310,4 +6310,16 @@ Text GLabel 15450 17000 0    40   Input ~ 0
 ~SPI_EN
 Wire Wire Line
 	15450 17000 15550 17000
+Text Notes 12400 2500 0    40   ~ 0
+R18 changed to 1K from 10K\nMIDI THRU was loading UART\nline and causing glitches with \n10K pull up. 1K may present\nnoise problems though.
+Text Notes 15100 15350 0    60   ~ 0
+SPI LED LATCH 5
+Text Notes 15100 11700 0    60   ~ 0
+SPI LED LATCH 4
+Text Notes 15150 8000 0    60   ~ 0
+SPI LED LATCH 3
+Text Notes 15150 4350 0    60   ~ 0
+SPI LED LATCH 2
+Text Notes 15350 1400 0    60   ~ 0
+SPI LED LATCH 1
 $EndSCHEMATC
