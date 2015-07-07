@@ -3833,7 +3833,7 @@ F 3 "~" H 38550 6350 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text Notes 39000 7350 0    60   ~ 0
-NP0 or FILM\nNeed to change to larger footprint here!
+NP0 or FILM\n
 $Comp
 L GND #PWR0114
 U 1 1 5453F251
@@ -4028,16 +4028,14 @@ $EndComp
 $Comp
 L CONN_1 TP25
 U 1 1 5453F2E4
-P 38450 8050
-F 0 "TP25" H 38530 8050 40  0000 L CNN
-F 1 "CONN_1" H 38450 8150 30  0001 C CNN
-F 2 "~" H 38450 8050 60  0000 C CNN
-F 3 "~" H 38450 8050 60  0000 C CNN
-	1    38450 8050
-	1    0    0    -1  
+P 38650 7700
+F 0 "TP25" H 38730 7700 40  0000 L CNN
+F 1 "CONN_1" H 38650 7800 30  0001 C CNN
+F 2 "~" H 38650 7700 60  0000 C CNN
+F 3 "~" H 38650 7700 60  0000 C CNN
+	1    38650 7700
+	0    -1   -1   0   
 $EndComp
-Text GLabel 36400 4700 2    60   Output ~ 0
-LFO TUNE
 Text Notes 40500 3900 0    60   ~ 0
 S&H
 Text Notes 40500 3800 0    60   ~ 0
@@ -10585,10 +10583,6 @@ Text Notes 39550 25050 0    60   ~ 0
 *
 Text Notes 42450 7050 1    60   ~ 0
 Note: for ease of PCB layout order\nof mux addressing is not sequential
-Text Notes 18400 9150 0    60   ~ 0
-Need to change to\nlarger footprint here!
-Text Notes 18300 11000 0    60   ~ 0
-Need to change to\nlarger footprint here!
 Text Notes 14600 13800 0    60   ~ 0
 Changed to 47K to\nprevent clipping
 Text Notes 14550 18900 0    60   ~ 0
@@ -10648,7 +10642,7 @@ J2 pins mixed up, results in \noutput being shorted to ground!
 Text Notes 35600 30650 0    60   ~ 0
 *NOTE: jumper 1K output resistor\non EG2 module; it forms a divider \nwith input resistors to EG2 \nmodulation depth VCAs
 Text Notes 16450 11100 0    60   ~ 0
-*NOTE: C47 and C48 values: need\nto experiment more with C47 and \nC48 values. Change to dual\nfootprint 0805 and TH.
+*NOTE: C47 and C48 values: need\nto experiment more with C47 and \nC48 values. Changee to dual\nfootprint 0805 and TH.
 Text Notes 31500 31750 0    60   ~ 0
 External gate input doesn't work here.\nProbably because OR gate on digital board\ncan sink and source current, so holds output \nlow when external gate is applied?
 $Comp
@@ -11920,13 +11914,10 @@ Wire Wire Line
 	36550 8150 36300 8150
 Connection ~ 37000 8150
 Wire Wire Line
-	31650 4700 36400 4700
-Wire Wire Line
 	31650 4700 31650 8150
 Wire Wire Line
 	31650 8150 35900 8150
 Connection ~ 40250 5950
-Connection ~ 36150 4700
 Wire Wire Line
 	42200 4600 42200 5200
 Wire Wire Line
@@ -13726,4 +13717,40 @@ Text Notes 12750 15000 0    60   ~ 0
 PULSE output divider\nnetwork to get 10 Vpp
 Text Notes 12300 20800 0    60   ~ 0
 PULSE output\ndivider network\nto get 10 Vpp
+$Comp
+L R_US R215
+U 1 1 559CB5A4
+P 39000 8050
+F 0 "R215" V 39080 8050 50  0000 C CNN
+F 1 "10K" V 38920 8050 50  0000 C CNN
+F 2 "" H 39000 8050 60  0000 C CNN
+F 3 "" H 39000 8050 60  0000 C CNN
+	1    39000 8050
+	0    1    1    0   
+$EndComp
+Text GLabel 39300 8050 2    60   Output ~ 0
+LFO TUNE
+Wire Wire Line
+	38300 8050 38800 8050
+Wire Wire Line
+	38650 7850 38650 8050
+Connection ~ 38650 8050
+Text Notes 38750 7750 0    60   ~ 0
+S&H CLOCK
+Wire Wire Line
+	39200 8050 39300 8050
+Wire Wire Line
+	36150 4700 31650 4700
+Text Notes 17650 15850 0    60   ~ 0
+Can probably\nget rid of mixer\nVCA trimmers
+Text Notes 19500 18150 0    60   ~ 0
+Can probably\nget rid of mixer\nVCA trimmers
+Text Notes 17600 20750 0    60   ~ 0
+Can probably\nget rid of mixer\nVCA trimmers
+Text Notes 37650 17800 0    60   ~ 0
+Can probably\nget rid of volume\nVCA trimmer
+Text Notes 38650 16500 0    60   ~ 0
+Can probably\nget rid of volume\nVCA trimmer
+Text Notes 35450 16200 0    60   ~ 0
+Move C100 to after\nvolume VCA?
 $EndSCHEMATC
