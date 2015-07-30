@@ -31,7 +31,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:MySynthParts
 LIBS:analog-board-cache
-EELAYER 25 0
+EELAYER 24 0
 EELAYER END
 $Descr E 44000 34000
 encoding utf-8
@@ -13759,4 +13759,8 @@ Wire Wire Line
 Wire Wire Line
 	39100 15500 39100 16650
 Connection ~ 39100 16650
+Text Notes 2500 7650 0    60   ~ 0
+Changed to 470K\nto minimize offset
+Text Notes 24600 8700 0    60   ~ 0
+Changed to 470K\nto minimize offset
 $EndSCHEMATC
