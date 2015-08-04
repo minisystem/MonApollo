@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-07-07 11:46:29 AM
+Cmp-Mod V01 Created by Cvpcb (2014-09-02 BZR 5112)-product   date = 2015-08-01 8:28:58 PM
 
 BeginCmp
 TimeStamp = /54548EFB;
@@ -939,6 +939,13 @@ IdModule  = MyModules:2MM-POL-CAP;
 EndCmp
 
 BeginCmp
+TimeStamp = /55BDB02B;
+Reference = C135;
+ValeurCmp = 10p;
+IdModule  = MyModules:SM0603-C-JRL;
+EndCmp
+
+BeginCmp
 TimeStamp = /5453F114;
 Reference = D1;
 ValeurCmp = DIODE;
@@ -1020,6 +1027,13 @@ TimeStamp = /54613032;
 Reference = D12;
 ValeurCmp = LED;
 IdModule  = synth:LED-0805-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BDDA0C;
+Reference = D13;
+ValeurCmp = 1N4148;
+IdModule  = MyModules:SOD323-JRL;
 EndCmp
 
 BeginCmp
@@ -2640,6 +2654,13 @@ IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
+TimeStamp = /55BE3A1D;
+Reference = R205;
+ValeurCmp = 10K;
+IdModule  = MyModules:SM0603-R-JRL;
+EndCmp
+
+BeginCmp
 TimeStamp = /54613038;
 Reference = R206;
 ValeurCmp = 1K;
@@ -2707,6 +2728,20 @@ TimeStamp = /559CB5A4;
 Reference = R215;
 ValeurCmp = 10K;
 IdModule  = synth:SM0603-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BDADA6;
+Reference = R216;
+ValeurCmp = 270K;
+IdModule  = MyModules:SM0603-R-JRL;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BE103B;
+Reference = R217;
+ValeurCmp = 22K;
+IdModule  = MyModules:SM0603-R-JRL;
 EndCmp
 
 BeginCmp
