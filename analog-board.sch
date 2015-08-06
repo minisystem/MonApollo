@@ -31,7 +31,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:MySynthParts
 LIBS:analog-board-cache
-EELAYER 24 0
+EELAYER 25 0
 EELAYER END
 $Descr E 44000 34000
 encoding utf-8
@@ -13867,4 +13867,6 @@ Wire Wire Line
 	37700 18850 37700 18750
 Text Notes 37950 19100 0    60   ~ 0
 TUNE COMPARATOR
+Text Notes 35000 23300 0    60   ~ 0
+SPARE
 $EndSCHEMATC
