@@ -31,7 +31,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:MySynthParts
 LIBS:analog-board-cache
-EELAYER 24 0
+EELAYER 25 0
 EELAYER END
 $Descr E 44000 34000
 encoding utf-8
@@ -13762,7 +13762,7 @@ L C_US C135
 U 1 1 55BDB02B
 P 37900 20150
 F 0 "C135" H 37950 20250 50  0000 L CNN
-F 1 "10p" H 37950 20050 50  0000 L CNN
+F 1 "47p" H 37950 20050 50  0000 L CNN
 F 2 "~" H 37900 20150 60  0000 C CNN
 F 3 "~" H 37900 20150 60  0000 C CNN
 	1    37900 20150
@@ -13867,4 +13867,8 @@ Wire Wire Line
 	37700 18850 37700 18750
 Text Notes 37950 19100 0    60   ~ 0
 TUNE COMPARATOR
+Text Notes 35000 23300 0    60   ~ 0
+SPARE
+Text Notes 37150 20550 0    60   ~ 0
+C135 changed from 10pF to 47pF\non breadboard to improve clock\nedge
 $EndSCHEMATC
