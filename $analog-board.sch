@@ -13880,7 +13880,7 @@ Wire Notes Line
 Wire Notes Line
 	22850 7600 22850 4400
 Text Notes 22900 4800 0    60   ~ 0
-PITCH MODULATION OF FILTER IS NOW IRRELEVANT:\nIt is now integrated with filter cutoff CV. This whole section\ncan be deleted and components used for other features. \nPerhaps a Scott Sites dual OTA VCA for final volume VCA?
+PITCH MODULATION OF FILTER IS NOW IRRELEVANT:\nIt is now integrated with filter cutoff CV. This whole section\ncan be deleted and components used for other features. \nPerhaps a Mike Simms dual OTA VCA for final volume VCA?
 Text Notes 32950 14050 0    60   ~ 0
 THIS VCF SCALE TRIMMER MAY\nNOT BE REQUIRED NOW THAT\nFILTER TRACKING IS AUTOTUNED?
 $EndSCHEMATC

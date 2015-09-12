@@ -13871,4 +13871,14 @@ Text Notes 35000 23300 0    60   ~ 0
 SPARE
 Text Notes 37150 20550 0    60   ~ 0
 C135 changed from 10pF to 47pF\non breadboard to improve clock\nedge
+Wire Notes Line
+	22850 4400 29200 4400
+Wire Notes Line
+	29200 4400 29200 7600
+Wire Notes Line
+	29200 7600 22850 7600
+Wire Notes Line
+	22850 7600 22850 4400
+Text Notes 22900 4800 0    60   ~ 0
+PITCH MODULATION OF FILTER IS NOW IRRELEVANT:\nIt is now integrated with filter cutoff CV. This whole section\ncan be deleted and components used for other features. \nPerhaps a Scott Sites dual OTA VCA for final volume VCA?
 $EndSCHEMATC
