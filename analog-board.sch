@@ -13883,4 +13883,6 @@ Text Notes 22900 4800 0    60   ~ 0
 PITCH MODULATION OF FILTER IS NOW IRRELEVANT:\nIt is now integrated with filter cutoff CV. This whole section\ncan be deleted and components used for other features. \nPerhaps a Scott Sites dual OTA VCA for final volume VCA?
 Text Notes 32950 14050 0    60   ~ 0
 THIS VCF SCALE TRIMMER MAY\nNOT BE REQUIRED NOW THAT\nFILTER TRACKING IS AUTOTUNED?
+Text Notes 37250 24500 0    100  ~ 20
+THIS RECTIFIER IS \nCOMPLETELY WRONG.\nNO IDEA WHY I DID THIS\nSTUPID THING
 $EndSCHEMATC

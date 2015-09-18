@@ -1,0 +1,5945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>E:/Documents/KiCad/Polysynth/MonApollo/analog-board.sch</source>
+    <date>2015-09-15 1:12:26 PM</date>
+    <tool>Eeschema (2015-01-11 BZR 5365)-product</tool>
+  </design>
+  <components>
+    <comp ref="U36">
+      <value>74LV573</value>
+      <fields>
+        <field name="Digikey">SN74LV573APWR</field>
+      </fields>
+      <libsource lib="74xx" part="74LS573"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E2BA</tstamp>
+    </comp>
+    <comp ref="C88">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E2C0</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E310</tstamp>
+    </comp>
+    <comp ref="VCO1">
+      <value>VCO</value>
+      <libsource lib="MySynthParts" part="VCO"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E316</tstamp>
+    </comp>
+    <comp ref="VCO2">
+      <value>VCO</value>
+      <libsource lib="MySynthParts" part="VCO"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E339</tstamp>
+    </comp>
+    <comp ref="U11">
+      <value>DG212B</value>
+      <footprint>github-smd:TSSOP-16</footprint>
+      <libsource lib="MySynthParts" part="DG212B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E34A</tstamp>
+    </comp>
+    <comp ref="U12">
+      <value>DG212B</value>
+      <libsource lib="MySynthParts" part="DG212B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E362</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E374</tstamp>
+    </comp>
+    <comp ref="C22">
+      <value>1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E37A</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E380</tstamp>
+    </comp>
+    <comp ref="VCFA1">
+      <value>VCF_VCA</value>
+      <libsource lib="MySynthParts" part="VCF_VCA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E38C</tstamp>
+    </comp>
+    <comp ref="R70">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E392</tstamp>
+    </comp>
+    <comp ref="R71">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E398</tstamp>
+    </comp>
+    <comp ref="R72">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E39E</tstamp>
+    </comp>
+    <comp ref="R77">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E3A4</tstamp>
+    </comp>
+    <comp ref="R73">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E3C2</tstamp>
+    </comp>
+    <comp ref="R74">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E3C8</tstamp>
+    </comp>
+    <comp ref="R75">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E3CE</tstamp>
+    </comp>
+    <comp ref="R78">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E3D4</tstamp>
+    </comp>
+    <comp ref="R79">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E3E0</tstamp>
+    </comp>
+    <comp ref="R87">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E3E6</tstamp>
+    </comp>
+    <comp ref="R89">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E3EC</tstamp>
+    </comp>
+    <comp ref="TR8">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="POT_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E3F2</tstamp>
+    </comp>
+    <comp ref="Q7">
+      <value>2N3906</value>
+      <libsource lib="device" part="PNP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E3F8</tstamp>
+    </comp>
+    <comp ref="R91">
+      <value>2.2M</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E3FE</tstamp>
+    </comp>
+    <comp ref="R93">
+      <value>18K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E422</tstamp>
+    </comp>
+    <comp ref="R99">
+      <value>47K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E428</tstamp>
+    </comp>
+    <comp ref="R97">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E435</tstamp>
+    </comp>
+    <comp ref="R98">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E43B</tstamp>
+    </comp>
+    <comp ref="R101">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E441</tstamp>
+    </comp>
+    <comp ref="TR10">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="POT_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E447</tstamp>
+    </comp>
+    <comp ref="Q9">
+      <value>2N3906</value>
+      <libsource lib="device" part="PNP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E44D</tstamp>
+    </comp>
+    <comp ref="R102">
+      <value>2.2M</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E453</tstamp>
+    </comp>
+    <comp ref="R103">
+      <value>18K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E471</tstamp>
+    </comp>
+    <comp ref="R105">
+      <value>47K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E477</tstamp>
+    </comp>
+    <comp ref="R80">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E484</tstamp>
+    </comp>
+    <comp ref="R88">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E48A</tstamp>
+    </comp>
+    <comp ref="R90">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E490</tstamp>
+    </comp>
+    <comp ref="TR9">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="POT_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E496</tstamp>
+    </comp>
+    <comp ref="Q8">
+      <value>2N3906</value>
+      <libsource lib="device" part="PNP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E49C</tstamp>
+    </comp>
+    <comp ref="R92">
+      <value>2.2M</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E4A2</tstamp>
+    </comp>
+    <comp ref="R100">
+      <value>47K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E4CC</tstamp>
+    </comp>
+    <comp ref="R107">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E4DB</tstamp>
+    </comp>
+    <comp ref="R108">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E4E1</tstamp>
+    </comp>
+    <comp ref="R106">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E4ED</tstamp>
+    </comp>
+    <comp ref="R109">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E4F3</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E4FF</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E505</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E50B</tstamp>
+    </comp>
+    <comp ref="TR2">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="POT_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E511</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>2N3906</value>
+      <libsource lib="device" part="PNP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E517</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>2.2M</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E51D</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>68K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E541</tstamp>
+    </comp>
+    <comp ref="R32">
+      <value>47K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E547</tstamp>
+    </comp>
+    <comp ref="Q4">
+      <value>2N3906</value>
+      <libsource lib="device" part="PNP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E56E</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>18K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E598</tstamp>
+    </comp>
+    <comp ref="R34">
+      <value>47K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E59E</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>TL074-</value>
+      <libsource lib="MySynthParts" part="TL074-"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E5AC</tstamp>
+    </comp>
+    <comp ref="R63">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E5C4</tstamp>
+    </comp>
+    <comp ref="R67">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E5CA</tstamp>
+    </comp>
+    <comp ref="R45">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E5E3</tstamp>
+    </comp>
+    <comp ref="R50">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E5EF</tstamp>
+    </comp>
+    <comp ref="R44">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E632</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>DG212B</value>
+      <libsource lib="MySynthParts" part="DG212B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E638</tstamp>
+    </comp>
+    <comp ref="R58">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E644</tstamp>
+    </comp>
+    <comp ref="R60">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E64A</tstamp>
+    </comp>
+    <comp ref="R59">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E650</tstamp>
+    </comp>
+    <comp ref="U8">
+      <value>TL074-</value>
+      <libsource lib="MySynthParts" part="TL074-"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E65B</tstamp>
+    </comp>
+    <comp ref="R52">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E661</tstamp>
+    </comp>
+    <comp ref="R62">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E67F</tstamp>
+    </comp>
+    <comp ref="R56">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E697</tstamp>
+    </comp>
+    <comp ref="R46">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E6A3</tstamp>
+    </comp>
+    <comp ref="R47">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E6A9</tstamp>
+    </comp>
+    <comp ref="Q11">
+      <value>2N3906</value>
+      <libsource lib="device" part="PNP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E6D1</tstamp>
+    </comp>
+    <comp ref="R127">
+      <value>68K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E6FB</tstamp>
+    </comp>
+    <comp ref="R137">
+      <value>47K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E701</tstamp>
+    </comp>
+    <comp ref="Q12">
+      <value>2N3906</value>
+      <libsource lib="device" part="PNP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E727</tstamp>
+    </comp>
+    <comp ref="R128">
+      <value>68K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E751</tstamp>
+    </comp>
+    <comp ref="R138">
+      <value>47K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E757</tstamp>
+    </comp>
+    <comp ref="U35">
+      <value>TL074-</value>
+      <libsource lib="MySynthParts" part="TL074-"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E765</tstamp>
+    </comp>
+    <comp ref="R164">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E76B</tstamp>
+    </comp>
+    <comp ref="R157">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E77D</tstamp>
+    </comp>
+    <comp ref="R155">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E789</tstamp>
+    </comp>
+    <comp ref="Q13">
+      <value>2N3906</value>
+      <libsource lib="device" part="PNP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E7A8</tstamp>
+    </comp>
+    <comp ref="R129">
+      <value>68K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E7D2</tstamp>
+    </comp>
+    <comp ref="R139">
+      <value>47K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E7D8</tstamp>
+    </comp>
+    <comp ref="R156">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E7E5</tstamp>
+    </comp>
+    <comp ref="R132">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E7EC</tstamp>
+    </comp>
+    <comp ref="R135">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E7F2</tstamp>
+    </comp>
+    <comp ref="R140">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E7F8</tstamp>
+    </comp>
+    <comp ref="TR15">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="POT_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E7FE</tstamp>
+    </comp>
+    <comp ref="Q14">
+      <value>2N3906</value>
+      <libsource lib="device" part="PNP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E804</tstamp>
+    </comp>
+    <comp ref="R145">
+      <value>2.2M</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E80A</tstamp>
+    </comp>
+    <comp ref="R146">
+      <value>18K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E82E</tstamp>
+    </comp>
+    <comp ref="R152">
+      <value>47K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E834</tstamp>
+    </comp>
+    <comp ref="R163">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E848</tstamp>
+    </comp>
+    <comp ref="R154">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E85A</tstamp>
+    </comp>
+    <comp ref="R153">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E860</tstamp>
+    </comp>
+    <comp ref="R167">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E86D</tstamp>
+    </comp>
+    <comp ref="R165">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E885</tstamp>
+    </comp>
+    <comp ref="C97">
+      <value>1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E898</tstamp>
+    </comp>
+    <comp ref="C92">
+      <value>1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E8B0</tstamp>
+    </comp>
+    <comp ref="EG1">
+      <value>EG</value>
+      <libsource lib="MySynthParts" part="EG"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E8B6</tstamp>
+    </comp>
+    <comp ref="C94">
+      <value>1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E8DA</tstamp>
+    </comp>
+    <comp ref="C93">
+      <value>1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E8F2</tstamp>
+    </comp>
+    <comp ref="EG2">
+      <value>EG</value>
+      <libsource lib="MySynthParts" part="EG"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E910</tstamp>
+    </comp>
+    <comp ref="C104">
+      <value>1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E934</tstamp>
+    </comp>
+    <comp ref="C103">
+      <value>1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E94C</tstamp>
+    </comp>
+    <comp ref="C100">
+      <value>22µ</value>
+      <libsource lib="MySynthParts" part="CP_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E975</tstamp>
+    </comp>
+    <comp ref="R39">
+      <value>1K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E97B</tstamp>
+    </comp>
+    <comp ref="R204">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EA1A</tstamp>
+    </comp>
+    <comp ref="C111">
+      <value>100pF</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EA20</tstamp>
+    </comp>
+    <comp ref="U45">
+      <value>DG408</value>
+      <libsource lib="MySynthParts" part="DG408"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EA2D</tstamp>
+    </comp>
+    <comp ref="C114">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EA42</tstamp>
+    </comp>
+    <comp ref="C115">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EA54</tstamp>
+    </comp>
+    <comp ref="C98">
+      <value>1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EA61</tstamp>
+    </comp>
+    <comp ref="C99">
+      <value>1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EA79</tstamp>
+    </comp>
+    <comp ref="U38">
+      <value>0 - 10V</value>
+      <libsource lib="MySynthParts" part="ENV10V"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EA87</tstamp>
+    </comp>
+    <comp ref="U41">
+      <value>0 - 10V</value>
+      <libsource lib="MySynthParts" part="ENV10V"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EA93</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>OUT</value>
+      <libsource lib="MySynthParts" part="JACK_MONO_SW"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EA99</tstamp>
+    </comp>
+    <comp ref="TR19">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="POT_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EAA6</tstamp>
+    </comp>
+    <comp ref="R64">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EAB2</tstamp>
+    </comp>
+    <comp ref="R57">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EAC6</tstamp>
+    </comp>
+    <comp ref="R27">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EACE</tstamp>
+    </comp>
+    <comp ref="R36">
+      <value>91K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EAD4</tstamp>
+    </comp>
+    <comp ref="Q3">
+      <value>2N3906</value>
+      <libsource lib="device" part="PNP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EAF8</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>68K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EB22</tstamp>
+    </comp>
+    <comp ref="R33">
+      <value>47K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EB28</tstamp>
+    </comp>
+    <comp ref="R37">
+      <value>91K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EB4C</tstamp>
+    </comp>
+    <comp ref="R42">
+      <value>270K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EB52</tstamp>
+    </comp>
+    <comp ref="Q5">
+      <value>2N3906</value>
+      <libsource lib="device" part="PNP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EB72</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>18K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EBA2</tstamp>
+    </comp>
+    <comp ref="R38">
+      <value>47K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EBA8</tstamp>
+    </comp>
+    <comp ref="R43">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EBB6</tstamp>
+    </comp>
+    <comp ref="R48">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EBBD</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>LM13700</value>
+      <libsource lib="MySynthParts" part="LM13700"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EBCA</tstamp>
+    </comp>
+    <comp ref="R28">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EBD6</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>LM13700</value>
+      <libsource lib="MySynthParts" part="LM13700"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EBDC</tstamp>
+    </comp>
+    <comp ref="R29">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EBE8</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>LM13700</value>
+      <libsource lib="MySynthParts" part="LM13700"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EBEE</tstamp>
+    </comp>
+    <comp ref="R30">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EBF4</tstamp>
+    </comp>
+    <comp ref="U19">
+      <value>LM13700</value>
+      <libsource lib="MySynthParts" part="LM13700"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EC0C</tstamp>
+    </comp>
+    <comp ref="R133">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EC3C</tstamp>
+    </comp>
+    <comp ref="U30">
+      <value>LM13700</value>
+      <libsource lib="MySynthParts" part="LM13700"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EC42</tstamp>
+    </comp>
+    <comp ref="R131">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EC4E</tstamp>
+    </comp>
+    <comp ref="U29">
+      <value>LM13700</value>
+      <libsource lib="MySynthParts" part="LM13700"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EC54</tstamp>
+    </comp>
+    <comp ref="R134">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EC60</tstamp>
+    </comp>
+    <comp ref="R151">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EC7E</tstamp>
+    </comp>
+    <comp ref="U32">
+      <value>LM13700</value>
+      <libsource lib="MySynthParts" part="LM13700"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EC84</tstamp>
+    </comp>
+    <comp ref="TP5">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EFFE</tstamp>
+    </comp>
+    <comp ref="TP6">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F004</tstamp>
+    </comp>
+    <comp ref="TP1">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F00A</tstamp>
+    </comp>
+    <comp ref="TP2">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F010</tstamp>
+    </comp>
+    <comp ref="TP7">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F016</tstamp>
+    </comp>
+    <comp ref="TP17">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F01C</tstamp>
+    </comp>
+    <comp ref="TP15">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F022</tstamp>
+    </comp>
+    <comp ref="TP16">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F028</tstamp>
+    </comp>
+    <comp ref="TP22">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F03A</tstamp>
+    </comp>
+    <comp ref="TP29">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F040</tstamp>
+    </comp>
+    <comp ref="TP24">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F046</tstamp>
+    </comp>
+    <comp ref="TP30">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F04C</tstamp>
+    </comp>
+    <comp ref="TP10">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F052</tstamp>
+    </comp>
+    <comp ref="TP11">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F058</tstamp>
+    </comp>
+    <comp ref="TP12">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F05E</tstamp>
+    </comp>
+    <comp ref="TP28">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F064</tstamp>
+    </comp>
+    <comp ref="TR16">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="POT_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F078</tstamp>
+    </comp>
+    <comp ref="R161">
+      <value>3.3M</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F07E</tstamp>
+    </comp>
+    <comp ref="R160">
+      <value>10K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F091</tstamp>
+    </comp>
+    <comp ref="TR6">
+      <value>20K</value>
+      <libsource lib="MySynthParts" part="POT_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F0AE</tstamp>
+    </comp>
+    <comp ref="TR7">
+      <value>20K</value>
+      <libsource lib="MySynthParts" part="POT_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F0B8</tstamp>
+    </comp>
+    <comp ref="LFO1">
+      <value>VCO</value>
+      <libsource lib="MySynthParts" part="VCO"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F0DE</tstamp>
+    </comp>
+    <comp ref="TR22">
+      <value>20K</value>
+      <libsource lib="MySynthParts" part="POT_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F0EF</tstamp>
+    </comp>
+    <comp ref="R176">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F0FB</tstamp>
+    </comp>
+    <comp ref="U39">
+      <value>TL074-</value>
+      <libsource lib="MySynthParts" part="TL074-"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F102</tstamp>
+    </comp>
+    <comp ref="R182">
+      <value>120K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F108</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>DIODE</value>
+      <libsource lib="device" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F10E</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>DIODE</value>
+      <libsource lib="device" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F114</tstamp>
+    </comp>
+    <comp ref="R187">
+      <value>18K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F11A</tstamp>
+    </comp>
+    <comp ref="R195">
+      <value>18K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F120</tstamp>
+    </comp>
+    <comp ref="R186">
+      <value>1.5K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F126</tstamp>
+    </comp>
+    <comp ref="Q18">
+      <value>NPN</value>
+      <libsource lib="device" part="NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F17B</tstamp>
+    </comp>
+    <comp ref="C95">
+      <value>10μ</value>
+      <libsource lib="MySynthParts" part="CP_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F181</tstamp>
+    </comp>
+    <comp ref="R180">
+      <value>15K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F187</tstamp>
+    </comp>
+    <comp ref="R181">
+      <value>470K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F190</tstamp>
+    </comp>
+    <comp ref="C101">
+      <value>10p</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F196</tstamp>
+    </comp>
+    <comp ref="TP23">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F1AF</tstamp>
+    </comp>
+    <comp ref="R179">
+      <value>10K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F1B9</tstamp>
+    </comp>
+    <comp ref="R178">
+      <value>22</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F1C2</tstamp>
+    </comp>
+    <comp ref="C89">
+      <value>47μ</value>
+      <libsource lib="MySynthParts" part="CP_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F1D1</tstamp>
+    </comp>
+    <comp ref="R177">
+      <value>150K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F1E1</tstamp>
+    </comp>
+    <comp ref="C91">
+      <value>47μ</value>
+      <libsource lib="MySynthParts" part="CP_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F1F1</tstamp>
+    </comp>
+    <comp ref="R172">
+      <value>47K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F1F8</tstamp>
+    </comp>
+    <comp ref="Q17">
+      <value>NPN</value>
+      <libsource lib="device" part="NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F202</tstamp>
+    </comp>
+    <comp ref="Q19">
+      <value>J111</value>
+      <libsource lib="device" part="FET_N"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F219</tstamp>
+    </comp>
+    <comp ref="C107">
+      <value>100n</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F21F</tstamp>
+    </comp>
+    <comp ref="R203">
+      <value>470K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F225</tstamp>
+    </comp>
+    <comp ref="C110">
+      <value>1.5n</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F22B</tstamp>
+    </comp>
+    <comp ref="R201">
+      <value>10K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F23E</tstamp>
+    </comp>
+    <comp ref="R197">
+      <value>2.2meg</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F258</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>DIODE</value>
+      <libsource lib="device" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F266</tstamp>
+    </comp>
+    <comp ref="R193">
+      <value>1K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F274</tstamp>
+    </comp>
+    <comp ref="R191">
+      <value>10K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F27C</tstamp>
+    </comp>
+    <comp ref="R185">
+      <value>10K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F28C</tstamp>
+    </comp>
+    <comp ref="R184">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F292</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>DIODE</value>
+      <libsource lib="device" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F2A9</tstamp>
+    </comp>
+    <comp ref="R194">
+      <value>20K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F2AF</tstamp>
+    </comp>
+    <comp ref="R189">
+      <value>1K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F2C7</tstamp>
+    </comp>
+    <comp ref="C102">
+      <value>4.7n</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F2CD</tstamp>
+    </comp>
+    <comp ref="TP27">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F2DE</tstamp>
+    </comp>
+    <comp ref="TP25">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F2E4</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>2N3906</value>
+      <libsource lib="device" part="PNP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F343</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>68K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F36D</tstamp>
+    </comp>
+    <comp ref="R31">
+      <value>47K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F373</tstamp>
+    </comp>
+    <comp ref="R26">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F399</tstamp>
+    </comp>
+    <comp ref="R35">
+      <value>91K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F39F</tstamp>
+    </comp>
+    <comp ref="R40">
+      <value>270K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F3A5</tstamp>
+    </comp>
+    <comp ref="R66">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F3DB</tstamp>
+    </comp>
+    <comp ref="R65">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F3E2</tstamp>
+    </comp>
+    <comp ref="R82">
+      <value>4.7K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F3F5</tstamp>
+    </comp>
+    <comp ref="U18">
+      <value>LM13700</value>
+      <libsource lib="MySynthParts" part="LM13700"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F419</tstamp>
+    </comp>
+    <comp ref="C47">
+      <value>470n</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F436</tstamp>
+    </comp>
+    <comp ref="R83">
+      <value>4.7K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F43C</tstamp>
+    </comp>
+    <comp ref="R85">
+      <value>4.7K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F447</tstamp>
+    </comp>
+    <comp ref="C48">
+      <value>470n</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F468</tstamp>
+    </comp>
+    <comp ref="R86">
+      <value>4.7K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F46E</tstamp>
+    </comp>
+    <comp ref="Q6">
+      <value>BCM857BS</value>
+      <libsource lib="MySynthParts" part="BCM857BS"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F478</tstamp>
+    </comp>
+    <comp ref="R81">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F47E</tstamp>
+    </comp>
+    <comp ref="R84">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F485</tstamp>
+    </comp>
+    <comp ref="R76">
+      <value>39K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F48C</tstamp>
+    </comp>
+    <comp ref="R68">
+      <value>33K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F4AC</tstamp>
+    </comp>
+    <comp ref="U21">
+      <value>TL072-</value>
+      <libsource lib="MySynthParts" part="TL072-"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F4C2</tstamp>
+    </comp>
+    <comp ref="TP13">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F4CE</tstamp>
+    </comp>
+    <comp ref="TP14">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F4D4</tstamp>
+    </comp>
+    <comp ref="R69">
+      <value>1K 3300ppm/K</value>
+      <libsource lib="MySynthParts" part="R_TEMPCO"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F4DA</tstamp>
+    </comp>
+    <comp ref="Q10">
+      <value>2N3906</value>
+      <libsource lib="device" part="PNP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F524</tstamp>
+    </comp>
+    <comp ref="R126">
+      <value>68K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F54E</tstamp>
+    </comp>
+    <comp ref="R136">
+      <value>47K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F554</tstamp>
+    </comp>
+    <comp ref="R130">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F56D</tstamp>
+    </comp>
+    <comp ref="R162">
+      <value>390K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F5AE</tstamp>
+    </comp>
+    <comp ref="TR20">
+      <value>20K</value>
+      <libsource lib="MySynthParts" part="POT_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F5BE</tstamp>
+    </comp>
+    <comp ref="TR18">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="POT_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F5C4</tstamp>
+    </comp>
+    <comp ref="R170">
+      <value>18K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F5CA</tstamp>
+    </comp>
+    <comp ref="R171">
+      <value>18K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F5D0</tstamp>
+    </comp>
+    <comp ref="R169">
+      <value>680K**</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F5EA</tstamp>
+    </comp>
+    <comp ref="C90">
+      <value>100n</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F5F2</tstamp>
+    </comp>
+    <comp ref="Q15">
+      <value>2N3906</value>
+      <libsource lib="device" part="PNP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F601</tstamp>
+    </comp>
+    <comp ref="TR17">
+      <value>20K</value>
+      <libsource lib="MySynthParts" part="POT_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F607</tstamp>
+    </comp>
+    <comp ref="R166">
+      <value>27K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F60D</tstamp>
+    </comp>
+    <comp ref="R174">
+      <value>2.2M</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F620</tstamp>
+    </comp>
+    <comp ref="TR21">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="POT_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F628</tstamp>
+    </comp>
+    <comp ref="C96">
+      <value>1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453F63F</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>AD5556</value>
+      <libsource lib="analog-board-cache" part="AD5556"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54548EEF</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54548EF5</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>1µ</value>
+      <libsource lib="MySynthParts" part="CP_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54548EFB</tstamp>
+    </comp>
+    <comp ref="U22">
+      <value>TL074-</value>
+      <libsource lib="MySynthParts" part="TL074-"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54548F23</tstamp>
+    </comp>
+    <comp ref="U10">
+      <value>ADR01</value>
+      <libsource lib="MySynthParts" part="ADR01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54548F29</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>1µ</value>
+      <libsource lib="MySynthParts" part="CP_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54548F49</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54548F4F</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54548F55</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>1µ</value>
+      <libsource lib="MySynthParts" part="CP_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54548F5B</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>1µ</value>
+      <libsource lib="MySynthParts" part="CP_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54548F61</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54548F67</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54548F6D</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>5.6p</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54548F91</tstamp>
+    </comp>
+    <comp ref="U9">
+      <value>AD8672</value>
+      <libsource lib="MySynthParts" part="AD8672"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54548F99</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>5.6p</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54548FA5</tstamp>
+    </comp>
+    <comp ref="C49">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54548FCF</tstamp>
+    </comp>
+    <comp ref="C50">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54548FED</tstamp>
+    </comp>
+    <comp ref="C51">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54548FF3</tstamp>
+    </comp>
+    <comp ref="C52">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54548FF9</tstamp>
+    </comp>
+    <comp ref="U25">
+      <value>TL074-</value>
+      <libsource lib="MySynthParts" part="TL074-"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5454901F</tstamp>
+    </comp>
+    <comp ref="C61">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54549043</tstamp>
+    </comp>
+    <comp ref="C62">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54549061</tstamp>
+    </comp>
+    <comp ref="C63">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54549067</tstamp>
+    </comp>
+    <comp ref="C64">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5454906D</tstamp>
+    </comp>
+    <comp ref="U24">
+      <value>TL074-</value>
+      <libsource lib="MySynthParts" part="TL074-"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54549073</tstamp>
+    </comp>
+    <comp ref="C57">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54549097</tstamp>
+    </comp>
+    <comp ref="C58">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>545490B5</tstamp>
+    </comp>
+    <comp ref="C59">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>545490BB</tstamp>
+    </comp>
+    <comp ref="C60">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>545490C1</tstamp>
+    </comp>
+    <comp ref="U23">
+      <value>TL074-</value>
+      <libsource lib="MySynthParts" part="TL074-"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>545490C7</tstamp>
+    </comp>
+    <comp ref="C53">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>545490EB</tstamp>
+    </comp>
+    <comp ref="C54">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54549109</tstamp>
+    </comp>
+    <comp ref="C55">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5454910F</tstamp>
+    </comp>
+    <comp ref="C56">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54549115</tstamp>
+    </comp>
+    <comp ref="U13">
+      <value>DG408</value>
+      <libsource lib="MySynthParts" part="DG408"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54549125</tstamp>
+    </comp>
+    <comp ref="U28">
+      <value>TL074-</value>
+      <libsource lib="MySynthParts" part="TL074-"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5454913C</tstamp>
+    </comp>
+    <comp ref="C69">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54549160</tstamp>
+    </comp>
+    <comp ref="C70">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5454917E</tstamp>
+    </comp>
+    <comp ref="C71">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54549184</tstamp>
+    </comp>
+    <comp ref="C72">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5454918A</tstamp>
+    </comp>
+    <comp ref="U27">
+      <value>TL074-</value>
+      <libsource lib="MySynthParts" part="TL074-"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54549190</tstamp>
+    </comp>
+    <comp ref="C65">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>545491B4</tstamp>
+    </comp>
+    <comp ref="C66">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>545491D2</tstamp>
+    </comp>
+    <comp ref="C67">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>545491D8</tstamp>
+    </comp>
+    <comp ref="C68">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>545491DE</tstamp>
+    </comp>
+    <comp ref="U33">
+      <value>TL074-</value>
+      <libsource lib="MySynthParts" part="TL074-"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>545491E8</tstamp>
+    </comp>
+    <comp ref="C73">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54549200</tstamp>
+    </comp>
+    <comp ref="C74">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5454920C</tstamp>
+    </comp>
+    <comp ref="C25">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54549229</tstamp>
+    </comp>
+    <comp ref="U14">
+      <value>DG408</value>
+      <libsource lib="MySynthParts" part="DG408"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5454923D</tstamp>
+    </comp>
+    <comp ref="C26">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5454925A</tstamp>
+    </comp>
+    <comp ref="C24">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54549266</tstamp>
+    </comp>
+    <comp ref="U16">
+      <value>DG408</value>
+      <libsource lib="MySynthParts" part="DG408"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5454927A</tstamp>
+    </comp>
+    <comp ref="C37">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54549297</tstamp>
+    </comp>
+    <comp ref="C39">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>545492B1</tstamp>
+    </comp>
+    <comp ref="C23">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>545492BD</tstamp>
+    </comp>
+    <comp ref="U17">
+      <value>DG408</value>
+      <libsource lib="MySynthParts" part="DG408"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>545492C9</tstamp>
+    </comp>
+    <comp ref="C38">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>545492E4</tstamp>
+    </comp>
+    <comp ref="C40">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>545492F8</tstamp>
+    </comp>
+    <comp ref="C31">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54549303</tstamp>
+    </comp>
+    <comp ref="C33">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5454930F</tstamp>
+    </comp>
+    <comp ref="C43">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5454931B</tstamp>
+    </comp>
+    <comp ref="C45">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54549327</tstamp>
+    </comp>
+    <comp ref="C35">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54549333</tstamp>
+    </comp>
+    <comp ref="C41">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5454933F</tstamp>
+    </comp>
+    <comp ref="TP9">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54549474</tstamp>
+    </comp>
+    <comp ref="TP8">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5454947A</tstamp>
+    </comp>
+    <comp ref="C32">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54549480</tstamp>
+    </comp>
+    <comp ref="C34">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5454948C</tstamp>
+    </comp>
+    <comp ref="C44">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54549498</tstamp>
+    </comp>
+    <comp ref="C46">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>545494A4</tstamp>
+    </comp>
+    <comp ref="C36">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>545494B0</tstamp>
+    </comp>
+    <comp ref="C42">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>545494BC</tstamp>
+    </comp>
+    <comp ref="C75">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>545494E5</tstamp>
+    </comp>
+    <comp ref="C76">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>545494F8</tstamp>
+    </comp>
+    <comp ref="U43">
+      <value>LM7812</value>
+      <libsource lib="regul" part="LM7812"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54604C87</tstamp>
+    </comp>
+    <comp ref="U44">
+      <value>LM7912</value>
+      <libsource lib="regul" part="LM7912"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54604C96</tstamp>
+    </comp>
+    <comp ref="U46">
+      <value>7805</value>
+      <libsource lib="regul" part="7805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54604CA5</tstamp>
+    </comp>
+    <comp ref="C105">
+      <value>1000µ</value>
+      <libsource lib="MySynthParts" part="CP_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54607ECD</tstamp>
+    </comp>
+    <comp ref="C106">
+      <value>1000µ</value>
+      <libsource lib="MySynthParts" part="CP_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54608A1A</tstamp>
+    </comp>
+    <comp ref="C108">
+      <value>1000µ</value>
+      <libsource lib="MySynthParts" part="CP_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54609568</tstamp>
+    </comp>
+    <comp ref="C109">
+      <value>1000µ</value>
+      <libsource lib="MySynthParts" part="CP_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5460956E</tstamp>
+    </comp>
+    <comp ref="C112">
+      <value>2.2µ</value>
+      <libsource lib="MySynthParts" part="CP_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5460AC20</tstamp>
+    </comp>
+    <comp ref="C113">
+      <value>2.2µ</value>
+      <libsource lib="MySynthParts" part="CP_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5460AC26</tstamp>
+    </comp>
+    <comp ref="C116">
+      <value>2.2µ</value>
+      <libsource lib="MySynthParts" part="CP_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5460DAE0</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>AC IN</value>
+      <libsource lib="MySynthParts" part="JACK_MONO_SW"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5460FDDE</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>DIODE</value>
+      <libsource lib="device" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546113DC</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>DIODE</value>
+      <libsource lib="device" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546113E9</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>LED</value>
+      <libsource lib="device" part="LED"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54613025</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>LED</value>
+      <libsource lib="device" part="LED"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54613032</tstamp>
+    </comp>
+    <comp ref="R206">
+      <value>1K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54613038</tstamp>
+    </comp>
+    <comp ref="R207">
+      <value>1K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5461303E</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>DIODE</value>
+      <libsource lib="device" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54614763</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>DIODE</value>
+      <libsource lib="device" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54614784</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>DIODE</value>
+      <libsource lib="device" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5461478A</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>DIODE</value>
+      <libsource lib="device" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54614790</tstamp>
+    </comp>
+    <comp ref="R175">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546A62DC</tstamp>
+    </comp>
+    <comp ref="R51">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546A9C1E</tstamp>
+    </comp>
+    <comp ref="R49">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546AAB16</tstamp>
+    </comp>
+    <comp ref="TP4">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546ACBFC</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546AF5C5</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546AF5CB</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546AF5D1</tstamp>
+    </comp>
+    <comp ref="TR1">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="POT_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546AF5D7</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>2.2M</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546AF5DD</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546AF60A</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546AF610</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546AF616</tstamp>
+    </comp>
+    <comp ref="TR3">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="POT_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546AF61C</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>2.2M</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546AF622</tstamp>
+    </comp>
+    <comp ref="TP3">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B731F</tstamp>
+    </comp>
+    <comp ref="TR5">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="POT_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EB6C</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>2.2M</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EB78</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EB66</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EB60</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EB5A</tstamp>
+    </comp>
+    <comp ref="TR4">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="POT_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E568</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>2.2M</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E574</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E562</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E55C</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453E556</tstamp>
+    </comp>
+    <comp ref="R61">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B88CE</tstamp>
+    </comp>
+    <comp ref="R55">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B88E6</tstamp>
+    </comp>
+    <comp ref="R110">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B98F4</tstamp>
+    </comp>
+    <comp ref="R114">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B98FA</tstamp>
+    </comp>
+    <comp ref="R122">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B9900</tstamp>
+    </comp>
+    <comp ref="TR11">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="POT_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B9906</tstamp>
+    </comp>
+    <comp ref="R116">
+      <value>2.2M</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B990C</tstamp>
+    </comp>
+    <comp ref="R111">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B9933</tstamp>
+    </comp>
+    <comp ref="R115">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B9939</tstamp>
+    </comp>
+    <comp ref="R123">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B993F</tstamp>
+    </comp>
+    <comp ref="TR12">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="POT_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B9945</tstamp>
+    </comp>
+    <comp ref="R117">
+      <value>2.2M</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B994B</tstamp>
+    </comp>
+    <comp ref="R112">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B9972</tstamp>
+    </comp>
+    <comp ref="R118">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B9978</tstamp>
+    </comp>
+    <comp ref="R124">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B997E</tstamp>
+    </comp>
+    <comp ref="TR13">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="POT_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B9984</tstamp>
+    </comp>
+    <comp ref="R120">
+      <value>2.2M</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B998A</tstamp>
+    </comp>
+    <comp ref="R113">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B9AB9</tstamp>
+    </comp>
+    <comp ref="R119">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B9ABF</tstamp>
+    </comp>
+    <comp ref="R125">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B9AC5</tstamp>
+    </comp>
+    <comp ref="TR14">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="POT_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B9ACB</tstamp>
+    </comp>
+    <comp ref="R121">
+      <value>2.2M</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B9AD1</tstamp>
+    </comp>
+    <comp ref="U31">
+      <value>TL074-</value>
+      <libsource lib="MySynthParts" part="TL074-"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B9B32</tstamp>
+    </comp>
+    <comp ref="R142">
+      <value>91K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B9B4A</tstamp>
+    </comp>
+    <comp ref="R148">
+      <value>270K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B9B50</tstamp>
+    </comp>
+    <comp ref="TP19">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B9B56</tstamp>
+    </comp>
+    <comp ref="R141">
+      <value>91K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B9B7C</tstamp>
+    </comp>
+    <comp ref="R147">
+      <value>270K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B9B82</tstamp>
+    </comp>
+    <comp ref="TP18">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546B9B88</tstamp>
+    </comp>
+    <comp ref="R144">
+      <value>91K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546BA293</tstamp>
+    </comp>
+    <comp ref="R150">
+      <value>270K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546BA299</tstamp>
+    </comp>
+    <comp ref="TP21">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546BA29F</tstamp>
+    </comp>
+    <comp ref="R143">
+      <value>91K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546BA8AE</tstamp>
+    </comp>
+    <comp ref="R149">
+      <value>270K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546BA8B4</tstamp>
+    </comp>
+    <comp ref="TP20">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546BA8BA</tstamp>
+    </comp>
+    <comp ref="R159">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546BD66F</tstamp>
+    </comp>
+    <comp ref="R158">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546BF545</tstamp>
+    </comp>
+    <comp ref="R96">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EC2A</tstamp>
+    </comp>
+    <comp ref="R104">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5453EC18</tstamp>
+    </comp>
+    <comp ref="R95">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546C1A62</tstamp>
+    </comp>
+    <comp ref="R183">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546C4247</tstamp>
+    </comp>
+    <comp ref="R188">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546C424D</tstamp>
+    </comp>
+    <comp ref="R190">
+      <value>510</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546C4253</tstamp>
+    </comp>
+    <comp ref="TR23">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="POT_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546C4259</tstamp>
+    </comp>
+    <comp ref="Q20">
+      <value>2N3906</value>
+      <libsource lib="device" part="PNP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546C425F</tstamp>
+    </comp>
+    <comp ref="R192">
+      <value>2.2M</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546C4265</tstamp>
+    </comp>
+    <comp ref="R196">
+      <value>18K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546C4283</tstamp>
+    </comp>
+    <comp ref="R200">
+      <value>47K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546C4289</tstamp>
+    </comp>
+    <comp ref="R198">
+      <value>12K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546C42BC</tstamp>
+    </comp>
+    <comp ref="R202">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546C49C0</tstamp>
+    </comp>
+    <comp ref="TP26">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546C5BBD</tstamp>
+    </comp>
+    <comp ref="U34">
+      <value>TL074-</value>
+      <libsource lib="MySynthParts" part="TL074-"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546C6AE6</tstamp>
+    </comp>
+    <comp ref="C77">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546C6AFE</tstamp>
+    </comp>
+    <comp ref="C78">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546C6B0A</tstamp>
+    </comp>
+    <comp ref="C79">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546C6B1E</tstamp>
+    </comp>
+    <comp ref="C80">
+      <value>0.01µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546C6B2C</tstamp>
+    </comp>
+    <comp ref="C27">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546C6C58</tstamp>
+    </comp>
+    <comp ref="C29">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546C6C64</tstamp>
+    </comp>
+    <comp ref="C28">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546C6C70</tstamp>
+    </comp>
+    <comp ref="C30">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>546C6C7C</tstamp>
+    </comp>
+    <comp ref="Q16">
+      <value>2N3906</value>
+      <libsource lib="device" part="PNP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>547AA787</tstamp>
+    </comp>
+    <comp ref="R168">
+      <value>27K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>547AA78D</tstamp>
+    </comp>
+    <comp ref="U40">
+      <value>DG419</value>
+      <libsource lib="analog_switches" part="DG419"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54889044</tstamp>
+    </comp>
+    <comp ref="U42">
+      <value>10 - 0V</value>
+      <libsource lib="MySynthParts" part="ENV10V"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5489FDD7</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>TL072-</value>
+      <libsource lib="MySynthParts" part="TL072-"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>548A103C</tstamp>
+    </comp>
+    <comp ref="U15">
+      <value>TL072-</value>
+      <libsource lib="MySynthParts" part="TL072-"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>548A1E4B</tstamp>
+    </comp>
+    <comp ref="U26">
+      <value>TL072-</value>
+      <libsource lib="MySynthParts" part="TL072-"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>548A1E88</tstamp>
+    </comp>
+    <comp ref="C82">
+      <value>10p</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>548B7082</tstamp>
+    </comp>
+    <comp ref="C81">
+      <value>10p</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>548B84F0</tstamp>
+    </comp>
+    <comp ref="C86">
+      <value>10p</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>548B934E</tstamp>
+    </comp>
+    <comp ref="C83">
+      <value>10p</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>548B9F8E</tstamp>
+    </comp>
+    <comp ref="C84">
+      <value>10p</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>548BAE04</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>10p</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>548BBB6F</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>10p</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>548BCC49</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>10p</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>548BD8AF</tstamp>
+    </comp>
+    <comp ref="R54">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>548BD9D8</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>10p</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>548BD9DE</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>10p</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>548E0F16</tstamp>
+    </comp>
+    <comp ref="R53">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>548E0F37</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>10p</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>548E0F3F</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>10p</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>548E30AF</tstamp>
+    </comp>
+    <comp ref="C87">
+      <value>10p</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>548E33F4</tstamp>
+    </comp>
+    <comp ref="R41">
+      <value>270K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>548BD8A9</tstamp>
+    </comp>
+    <comp ref="R94">
+      <value>18K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54A724BA</tstamp>
+    </comp>
+    <comp ref="P2">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54961D96</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>CONN_20X2</value>
+      <libsource lib="analog-board-cache" part="CONN_20X2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54E2FF36</tstamp>
+    </comp>
+    <comp ref="C120">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54F91BEC</tstamp>
+    </comp>
+    <comp ref="C122">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54F91BF8</tstamp>
+    </comp>
+    <comp ref="C128">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54F91C04</tstamp>
+    </comp>
+    <comp ref="C130">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54F91C10</tstamp>
+    </comp>
+    <comp ref="C124">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54F91C1C</tstamp>
+    </comp>
+    <comp ref="C126">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54F91C28</tstamp>
+    </comp>
+    <comp ref="C121">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54F91C35</tstamp>
+    </comp>
+    <comp ref="C123">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54F91C41</tstamp>
+    </comp>
+    <comp ref="C129">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54F91C4D</tstamp>
+    </comp>
+    <comp ref="C131">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54F91C59</tstamp>
+    </comp>
+    <comp ref="C125">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54F91C65</tstamp>
+    </comp>
+    <comp ref="C127">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54F91C71</tstamp>
+    </comp>
+    <comp ref="C85">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54F91C83</tstamp>
+    </comp>
+    <comp ref="C118">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54F91C8F</tstamp>
+    </comp>
+    <comp ref="C117">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54F91C9B</tstamp>
+    </comp>
+    <comp ref="C119">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54F91CA7</tstamp>
+    </comp>
+    <comp ref="C132">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54FA3AB0</tstamp>
+    </comp>
+    <comp ref="C133">
+      <value>0.1µ</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54FA3F34</tstamp>
+    </comp>
+    <comp ref="TP35">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55073D82</tstamp>
+    </comp>
+    <comp ref="TP33">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5507F260</tstamp>
+    </comp>
+    <comp ref="TP34">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5507F4D6</tstamp>
+    </comp>
+    <comp ref="TP32">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5508194B</tstamp>
+    </comp>
+    <comp ref="TP31">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5508A440</tstamp>
+    </comp>
+    <comp ref="TP36">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5509304A</tstamp>
+    </comp>
+    <comp ref="TP37">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>550983DA</tstamp>
+    </comp>
+    <comp ref="TP39">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55149539</tstamp>
+    </comp>
+    <comp ref="TP38">
+      <value>CONN_1</value>
+      <libsource lib="MySynthParts" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5514D1FB</tstamp>
+    </comp>
+    <comp ref="R199">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55150B93</tstamp>
+    </comp>
+    <comp ref="R173">
+      <value>100K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5518356C</tstamp>
+    </comp>
+    <comp ref="U20">
+      <value>74HC75</value>
+      <libsource lib="MySynthParts" part="74HC75"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5560FCFF</tstamp>
+    </comp>
+    <comp ref="R209">
+      <value>220K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5576A3F2</tstamp>
+    </comp>
+    <comp ref="R208">
+      <value>220K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55777063</tstamp>
+    </comp>
+    <comp ref="R210">
+      <value>3.3K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5591F737</tstamp>
+    </comp>
+    <comp ref="R213">
+      <value>10K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55936022</tstamp>
+    </comp>
+    <comp ref="R214">
+      <value>9.1K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55936916</tstamp>
+    </comp>
+    <comp ref="R211">
+      <value>10K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55941C2E</tstamp>
+    </comp>
+    <comp ref="R212">
+      <value>9.1K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55941C34</tstamp>
+    </comp>
+    <comp ref="R215">
+      <value>10K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>559CB5A4</tstamp>
+    </comp>
+    <comp ref="C134">
+      <value>22µ</value>
+      <libsource lib="MySynthParts" part="CP_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55A0FDA4</tstamp>
+    </comp>
+    <comp ref="R216">
+      <value>270K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55BDADA6</tstamp>
+    </comp>
+    <comp ref="C135">
+      <value>47p</value>
+      <libsource lib="MySynthParts" part="C_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55BDB02B</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>1N4148</value>
+      <libsource lib="device" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55BDDA0C</tstamp>
+    </comp>
+    <comp ref="R217">
+      <value>22K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55BE103B</tstamp>
+    </comp>
+    <comp ref="R205">
+      <value>10K</value>
+      <libsource lib="MySynthParts" part="R_US"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55BE3A1D</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="conn" part="CONN_01X02">
+      <footprints>
+        <fp>Pin_Header_Straight_1X02</fp>
+        <fp>Pin_Header_Angled_1X02</fp>
+        <fp>Socket_Strip_Straight_1X02</fp>
+        <fp>Socket_Strip_Angled_1X02</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="regul" part="7905">
+      <aliases>
+        <alias>LM7905</alias>
+        <alias>LM7912</alias>
+        <alias>79L05</alias>
+      </aliases>
+      <description>Linear Regulator -5V</description>
+      <docs>regulator\lm79xx.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">7905</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="VI" type="input"/>
+        <pin num="3" name="VO" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="regul" part="7805">
+      <aliases>
+        <alias>LM7805</alias>
+        <alias>LM7812</alias>
+        <alias>78L05</alias>
+      </aliases>
+      <description>Linear Regulator +5V</description>
+      <docs>regulator\lm78xx.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">7805</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VI" type="input"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="VO" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="FET_N">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">FET_N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="S" type="passive"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="G" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="DIODE">
+      <description>Diode simple</description>
+      <footprints>
+        <fp>D?</fp>
+        <fp>S*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">DIODE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="LED">
+      <footprints>
+        <fp>LED-3MM</fp>
+        <fp>LED-5MM</fp>
+        <fp>LED-10MM</fp>
+        <fp>LED-0603</fp>
+        <fp>LED-0805</fp>
+        <fp>LED-1206</fp>
+        <fp>LEDV</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="PNP">
+      <docs>transistors/bipolar/*.*</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">PNP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="NPN">
+      <docs>transistors/bipolar/*.*</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">NPN</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74LS573">
+      <description>8 bits Latch 3 state Out</description>
+      <docs>74xx/74hc573.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS573</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OE" type="input"/>
+        <pin num="2" name="D0" type="input"/>
+        <pin num="3" name="D1" type="input"/>
+        <pin num="4" name="D2" type="input"/>
+        <pin num="5" name="D3" type="input"/>
+        <pin num="6" name="D4" type="input"/>
+        <pin num="7" name="D5" type="input"/>
+        <pin num="8" name="D6" type="input"/>
+        <pin num="9" name="D7" type="input"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="Load" type="input"/>
+        <pin num="12" name="Q7" type="3state"/>
+        <pin num="13" name="Q6" type="3state"/>
+        <pin num="14" name="Q5" type="3state"/>
+        <pin num="15" name="Q4" type="3state"/>
+        <pin num="16" name="Q3" type="3state"/>
+        <pin num="17" name="Q2" type="3state"/>
+        <pin num="18" name="Q1" type="3state"/>
+        <pin num="19" name="Q0" type="3state"/>
+        <pin num="20" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="analog_switches" part="DG419">
+      <description>Analog Switch ( 8pins)</description>
+      <docs>analog_mux&amp;switches/DG417-DG419.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">DG419</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COM" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="V+" type="power_in"/>
+        <pin num="5" name="VCC" type="input"/>
+        <pin num="6" name="A/B" type="input"/>
+        <pin num="7" name="V-" type="power_in"/>
+        <pin num="8" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="BCM857BS">
+      <docs>transistors/bipolar/*.*</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BCM857BS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E1" type="passive"/>
+        <pin num="2" name="B1" type="input"/>
+        <pin num="3" name="C2" type="passive"/>
+        <pin num="4" name="E2" type="passive"/>
+        <pin num="5" name="B2" type="input"/>
+        <pin num="6" name="C1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="CONN_1">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="74HC75">
+      <description>4 bits Latch</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74HC75</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~Q0" type="output"/>
+        <pin num="2" name="D0" type="input"/>
+        <pin num="3" name="D1" type="input"/>
+        <pin num="4" name="E23" type="input"/>
+        <pin num="5" name="VCC" type="power_in"/>
+        <pin num="6" name="D2" type="input"/>
+        <pin num="7" name="D3" type="input"/>
+        <pin num="8" name="~Q3" type="output"/>
+        <pin num="9" name="Q3" type="output"/>
+        <pin num="10" name="Q2" type="output"/>
+        <pin num="11" name="~Q2" type="output"/>
+        <pin num="12" name="GND" type="input"/>
+        <pin num="13" name="E01" type="input"/>
+        <pin num="14" name="~Q1" type="output"/>
+        <pin num="15" name="Q1" type="output"/>
+        <pin num="16" name="Q0" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="CP_US">
+      <footprints>
+        <fp>CP*</fp>
+        <fp>SM*</fp>
+        <fp>C?</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP_US</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="AD8672">
+      <description>Dual Op amp (low power)</description>
+      <docs>ns/lm158.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AD8672</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="~" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="ADR01">
+      <description>LowDrop Linear Regulator (QPACK 5 pins)</description>
+      <docs>regulator/lp3963.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ADR01</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TEMP" type="power_out"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VIN" type="input"/>
+        <pin num="4" name="VOUT" type="power_out"/>
+        <pin num="5" name="TRIM" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="DG408">
+      <description>Analog Multiplexer 8:1</description>
+      <docs>http://www.vishay.com/docs/70062/dg408.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">DG408</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A0" type="input"/>
+        <pin num="2" name="EN" type="input"/>
+        <pin num="3" name="V-" type="power_in"/>
+        <pin num="4" name="S0" type="passive"/>
+        <pin num="5" name="S1" type="passive"/>
+        <pin num="6" name="S2" type="passive"/>
+        <pin num="7" name="S3" type="passive"/>
+        <pin num="8" name="D" type="passive"/>
+        <pin num="9" name="S7" type="passive"/>
+        <pin num="10" name="S6" type="passive"/>
+        <pin num="11" name="S5" type="passive"/>
+        <pin num="12" name="S4" type="passive"/>
+        <pin num="13" name="V+" type="power_in"/>
+        <pin num="14" name="GND" type="power_in"/>
+        <pin num="15" name="A2" type="input"/>
+        <pin num="16" name="A1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="DG212B">
+      <description>Quad CMOS Analog Switch</description>
+      <docs>http://www.vishay.com/docs/70040/70040.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">DG212B</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="~" type="input"/>
+        <pin num="4" name="V-" type="input"/>
+        <pin num="5" name="GND" type="output"/>
+        <pin num="6" name="~" type="input"/>
+        <pin num="7" name="~" type="input"/>
+        <pin num="8" name="~" type="input"/>
+        <pin num="9" name="~" type="input"/>
+        <pin num="10" name="~" type="input"/>
+        <pin num="11" name="~" type="input"/>
+        <pin num="12" name="VL" type="output"/>
+        <pin num="13" name="V+" type="input"/>
+        <pin num="14" name="~" type="input"/>
+        <pin num="15" name="~" type="input"/>
+        <pin num="16" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="C_US">
+      <footprints>
+        <fp>CP*</fp>
+        <fp>SM*</fp>
+        <fp>C?</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_US</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="ENV10V">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ENV10V</field>
+      </fields>
+    </libpart>
+    <libpart lib="MySynthParts" part="JACK_MONO_SW">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JACK_MONO_SW</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="EG">
+      <fields>
+        <field name="Reference">EG</field>
+        <field name="Value">EG</field>
+      </fields>
+      <pins>
+        <pin num="1" name="V+" type="input"/>
+        <pin num="2" name="GATE" type="input"/>
+        <pin num="3" name="V-" type="input"/>
+        <pin num="4" name="GND" type="input"/>
+        <pin num="5" name="INV" type="input"/>
+        <pin num="6" name="OUT" type="input"/>
+        <pin num="7" name="S" type="input"/>
+        <pin num="8" name="R" type="input"/>
+        <pin num="9" name="D" type="input"/>
+        <pin num="10" name="A" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="LM13700">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM13700</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="-" type="input"/>
+        <pin num="5" name="~" type="input"/>
+        <pin num="6" name="V-" type="input"/>
+        <pin num="7" name="~" type="input"/>
+        <pin num="8" name="~" type="passive"/>
+        <pin num="9" name="~" type="passive"/>
+        <pin num="10" name="~" type="input"/>
+        <pin num="11" name="V+" type="input"/>
+        <pin num="12" name="~" type="input"/>
+        <pin num="13" name="-" type="input"/>
+        <pin num="14" name="+" type="input"/>
+        <pin num="15" name="~" type="input"/>
+        <pin num="16" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="POT_US">
+      <footprints>
+        <fp>R_POT*</fp>
+        <fp>PAD_3</fp>
+        <fp>R_TRIM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">VR</field>
+        <field name="Value">POT_US</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="R_TEMPCO">
+      <footprints>
+        <fp>R?</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_TEMPCO</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="TL072-">
+      <description>Dual Op amp (low power)</description>
+      <docs>ns/lm158.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TL072-</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="~" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="VCO">
+      <description>VCO 12 SIP</description>
+      <fields>
+        <field name="Reference">VCO</field>
+        <field name="Value">VCO</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="V+" type="input"/>
+        <pin num="3" name="V-" type="input"/>
+        <pin num="4" name="PITCH" type="input"/>
+        <pin num="5" name="SCALE" type="input"/>
+        <pin num="6" name="GND" type="input"/>
+        <pin num="7" name="~" type="input"/>
+        <pin num="8" name="~" type="input"/>
+        <pin num="9" name="~" type="input"/>
+        <pin num="10" name="PWM" type="input"/>
+        <pin num="11" name="SYNC" type="input"/>
+        <pin num="12" name="GND" type="input"/>
+        <pin num="~" name="SCALE" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="R_US">
+      <footprints>
+        <fp>R?</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="analog-board-cache" part="AD5556">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AD5556</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DB5" type="input"/>
+        <pin num="2" name="DB4" type="input"/>
+        <pin num="3" name="DB3" type="input"/>
+        <pin num="4" name="DB2" type="input"/>
+        <pin num="5" name="DB1" type="input"/>
+        <pin num="6" name="DB0" type="input"/>
+        <pin num="7" name="NC" type="input"/>
+        <pin num="8" name="NC" type="input"/>
+        <pin num="9" name="ROFS" type="input"/>
+        <pin num="10" name="RFB" type="input"/>
+        <pin num="11" name="R1" type="input"/>
+        <pin num="12" name="RCOM" type="input"/>
+        <pin num="13" name="REF" type="output"/>
+        <pin num="14" name="IOUT" type="output"/>
+        <pin num="15" name="LDAC" type="input"/>
+        <pin num="16" name="~WR" type="input"/>
+        <pin num="17" name="MSB" type="input"/>
+        <pin num="18" name="~RS" type="input"/>
+        <pin num="19" name="GND" type="output"/>
+        <pin num="20" name="DB13" type="input"/>
+        <pin num="21" name="DB12" type="input"/>
+        <pin num="22" name="DB11" type="input"/>
+        <pin num="23" name="DB10" type="input"/>
+        <pin num="24" name="DB9" type="input"/>
+        <pin num="25" name="DB8" type="input"/>
+        <pin num="26" name="DB7" type="input"/>
+        <pin num="27" name="DB6" type="input"/>
+        <pin num="28" name="VDD" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="TL074-">
+      <description>Quad Op amp.</description>
+      <docs>op_amps/lm324.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TL074-</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V+" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="~" type="output"/>
+        <pin num="8" name="~" type="output"/>
+        <pin num="9" name="-" type="input"/>
+        <pin num="10" name="+" type="input"/>
+        <pin num="11" name="V-" type="power_in"/>
+        <pin num="12" name="+" type="input"/>
+        <pin num="13" name="-" type="input"/>
+        <pin num="14" name="~" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="VCF_VCA">
+      <fields>
+        <field name="Reference">VCF</field>
+        <field name="Value">VCF_VCA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="input"/>
+        <pin num="2" name="AMP" type="input"/>
+        <pin num="3" name="RES" type="input"/>
+        <pin num="4" name="V+" type="input"/>
+        <pin num="5" name="V-" type="input"/>
+        <pin num="6" name="OFFSET" type="input"/>
+        <pin num="7" name="FREQ" type="input"/>
+        <pin num="8" name="GND" type="input"/>
+        <pin num="9" name="GND" type="input"/>
+        <pin num="10" name="OUT" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="analog-board-cache" part="CONN_20X2">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_20X2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+        <pin num="11" name="P11" type="passive"/>
+        <pin num="12" name="P12" type="passive"/>
+        <pin num="13" name="P13" type="passive"/>
+        <pin num="14" name="P14" type="passive"/>
+        <pin num="15" name="P15" type="passive"/>
+        <pin num="16" name="P16" type="passive"/>
+        <pin num="17" name="P17" type="passive"/>
+        <pin num="18" name="P18" type="passive"/>
+        <pin num="19" name="P19" type="passive"/>
+        <pin num="20" name="P20" type="passive"/>
+        <pin num="21" name="P21" type="passive"/>
+        <pin num="22" name="P22" type="passive"/>
+        <pin num="23" name="P23" type="passive"/>
+        <pin num="24" name="P24" type="passive"/>
+        <pin num="25" name="~" type="passive"/>
+        <pin num="26" name="P26" type="passive"/>
+        <pin num="27" name="P27" type="passive"/>
+        <pin num="28" name="P28" type="passive"/>
+        <pin num="29" name="P29" type="passive"/>
+        <pin num="30" name="P30" type="passive"/>
+        <pin num="31" name="P31" type="passive"/>
+        <pin num="32" name="P32" type="passive"/>
+        <pin num="33" name="P33" type="passive"/>
+        <pin num="34" name="P34" type="passive"/>
+        <pin num="35" name="P35" type="passive"/>
+        <pin num="36" name="P36" type="passive"/>
+        <pin num="37" name="P37" type="passive"/>
+        <pin num="38" name="P38" type="passive"/>
+        <pin num="39" name="P39" type="passive"/>
+        <pin num="40" name="P40" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="device">
+      <uri>C:\kicad-winbuilder-3.4\kicad\share\library\device.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>C:\kicad-winbuilder-3.4\kicad\share\library\conn.lib</uri>
+    </library>
+    <library logical="regul">
+      <uri>C:\kicad-winbuilder-3.4\kicad\share\library\regul.lib</uri>
+    </library>
+    <library logical="74xx">
+      <uri>C:\kicad-winbuilder-3.4\kicad\share\library\74xx.lib</uri>
+    </library>
+    <library logical="analog_switches">
+      <uri>C:\kicad-winbuilder-3.4\kicad\share\library\analog_switches.lib</uri>
+    </library>
+    <library logical="MySynthParts">
+      <uri>E:\Documents\KiCad\MyLibs\MySynthParts.lib</uri>
+    </library>
+    <library logical="analog-board-cache">
+      <uri>E:\Documents\KiCad\Polysynth\MonApollo\analog-board-cache.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(C16-Pad1)">
+      <node ref="U8" pin="9"/>
+      <node ref="R62" pin="2"/>
+      <node ref="C16" pin="1"/>
+      <node ref="R56" pin="1"/>
+    </net>
+    <net code="2" name="PWM B CV">
+      <node ref="U25" pin="13"/>
+      <node ref="U25" pin="14"/>
+      <node ref="R46" pin="2"/>
+    </net>
+    <net code="3" name="Net-(C16-Pad2)">
+      <node ref="C16" pin="2"/>
+      <node ref="VCO2" pin="10"/>
+      <node ref="U8" pin="8"/>
+      <node ref="R62" pin="1"/>
+    </net>
+    <net code="4" name="OSC PWM LFO MOD">
+      <node ref="R34" pin="2"/>
+      <node ref="R45" pin="2"/>
+      <node ref="U4" pin="6"/>
+      <node ref="U3" pin="5"/>
+      <node ref="TP1" pin="1"/>
+    </net>
+    <net code="5" name="Net-(R47-Pad2)">
+      <node ref="U4" pin="7"/>
+      <node ref="R47" pin="2"/>
+    </net>
+    <net code="6" name="Net-(Q11-Pad3)">
+      <node ref="U29" pin="1"/>
+      <node ref="Q11" pin="3"/>
+    </net>
+    <net code="7" name="Net-(Q11-Pad1)">
+      <node ref="Q11" pin="1"/>
+      <node ref="R127" pin="2"/>
+    </net>
+    <net code="8" name="Net-(R137-Pad2)">
+      <node ref="R137" pin="2"/>
+      <node ref="U29" pin="5"/>
+      <node ref="R141" pin="2"/>
+    </net>
+    <net code="9" name="PWM A LFO AMT CV">
+      <node ref="R23" pin="1"/>
+      <node ref="U23" pin="9"/>
+      <node ref="U23" pin="8"/>
+    </net>
+    <net code="10" name="Net-(R175-Pad2)">
+      <node ref="R175" pin="2"/>
+      <node ref="TR19" pin="2"/>
+    </net>
+    <net code="11" name="Net-(R50-Pad1)">
+      <node ref="U7" pin="7"/>
+      <node ref="TP6" pin="1"/>
+      <node ref="R55" pin="2"/>
+      <node ref="R50" pin="1"/>
+    </net>
+    <net code="12" name="PWM A CV">
+      <node ref="R44" pin="2"/>
+      <node ref="U23" pin="14"/>
+      <node ref="U23" pin="13"/>
+    </net>
+    <net code="13" name="Net-(R60-Pad2)">
+      <node ref="U4" pin="15"/>
+      <node ref="R60" pin="2"/>
+    </net>
+    <net code="14" name="Net-(R58-Pad2)">
+      <node ref="U4" pin="2"/>
+      <node ref="R58" pin="2"/>
+    </net>
+    <net code="15" name="Net-(R52-Pad1)">
+      <node ref="R52" pin="1"/>
+      <node ref="R56" pin="2"/>
+      <node ref="TP7" pin="1"/>
+      <node ref="U8" pin="7"/>
+    </net>
+    <net code="16" name="Net-(Q14-Pad1)">
+      <node ref="Q14" pin="1"/>
+      <node ref="R146" pin="2"/>
+    </net>
+    <net code="17" name="Net-(R132-Pad2)">
+      <node ref="R135" pin="2"/>
+      <node ref="R132" pin="2"/>
+      <node ref="U32" pin="14"/>
+    </net>
+    <net code="18" name="Net-(R145-Pad1)">
+      <node ref="TR15" pin="2"/>
+      <node ref="R145" pin="1"/>
+    </net>
+    <net code="19" name="Net-(R163-Pad1)">
+      <node ref="U35" pin="8"/>
+      <node ref="R163" pin="1"/>
+      <node ref="TP29" pin="1"/>
+      <node ref="R165" pin="2"/>
+    </net>
+    <net code="20" name="Net-(R152-Pad2)">
+      <node ref="R153" pin="2"/>
+      <node ref="R152" pin="2"/>
+      <node ref="U32" pin="12"/>
+    </net>
+    <net code="21" name="Net-(R153-Pad1)">
+      <node ref="R163" pin="2"/>
+      <node ref="R154" pin="1"/>
+      <node ref="U35" pin="9"/>
+      <node ref="R153" pin="1"/>
+    </net>
+    <net code="22" name="Net-(C87-Pad2)">
+      <node ref="C87" pin="2"/>
+      <node ref="R167" pin="1"/>
+      <node ref="R168" pin="2"/>
+      <node ref="U35" pin="1"/>
+    </net>
+    <net code="23" name="Net-(Q12-Pad3)">
+      <node ref="U30" pin="16"/>
+      <node ref="Q12" pin="3"/>
+    </net>
+    <net code="24" name="Net-(Q12-Pad1)">
+      <node ref="R128" pin="2"/>
+      <node ref="Q12" pin="1"/>
+    </net>
+    <net code="25" name="Net-(R138-Pad2)">
+      <node ref="R143" pin="2"/>
+      <node ref="U30" pin="12"/>
+      <node ref="R138" pin="2"/>
+    </net>
+    <net code="26" name="Net-(Q13-Pad3)">
+      <node ref="U30" pin="1"/>
+      <node ref="Q13" pin="3"/>
+    </net>
+    <net code="27" name="Net-(Q13-Pad1)">
+      <node ref="R129" pin="2"/>
+      <node ref="Q13" pin="1"/>
+    </net>
+    <net code="28" name="Net-(R139-Pad2)">
+      <node ref="R144" pin="2"/>
+      <node ref="R139" pin="2"/>
+      <node ref="U30" pin="5"/>
+    </net>
+    <net code="29" name="Net-(R140-Pad2)">
+      <node ref="R140" pin="2"/>
+      <node ref="U32" pin="13"/>
+      <node ref="R145" pin="2"/>
+    </net>
+    <net code="30" name="Net-(Q9-Pad1)">
+      <node ref="R103" pin="2"/>
+      <node ref="Q9" pin="1"/>
+    </net>
+    <net code="31" name="Net-(Q9-Pad3)">
+      <node ref="U2" pin="1"/>
+      <node ref="Q9" pin="3"/>
+    </net>
+    <net code="32" name="Net-(R97-Pad2)">
+      <node ref="R97" pin="2"/>
+      <node ref="R98" pin="2"/>
+      <node ref="U2" pin="3"/>
+    </net>
+    <net code="33" name="Net-(R90-Pad2)">
+      <node ref="U19" pin="4"/>
+      <node ref="R92" pin="2"/>
+      <node ref="R90" pin="2"/>
+    </net>
+    <net code="34" name="Net-(R92-Pad1)">
+      <node ref="R92" pin="1"/>
+      <node ref="TR9" pin="2"/>
+    </net>
+    <net code="35" name="Net-(R80-Pad2)">
+      <node ref="U19" pin="3"/>
+      <node ref="R80" pin="2"/>
+      <node ref="R88" pin="2"/>
+    </net>
+    <net code="36" name="Net-(Q8-Pad3)">
+      <node ref="Q8" pin="3"/>
+      <node ref="U19" pin="1"/>
+    </net>
+    <net code="37" name="Net-(Q7-Pad1)">
+      <node ref="Q7" pin="1"/>
+      <node ref="R93" pin="2"/>
+    </net>
+    <net code="38" name="Net-(R89-Pad2)">
+      <node ref="R91" pin="2"/>
+      <node ref="R89" pin="2"/>
+      <node ref="U19" pin="13"/>
+    </net>
+    <net code="39" name="Net-(R91-Pad1)">
+      <node ref="TR8" pin="2"/>
+      <node ref="R91" pin="1"/>
+    </net>
+    <net code="40" name="Net-(R79-Pad2)">
+      <node ref="R79" pin="2"/>
+      <node ref="R87" pin="2"/>
+      <node ref="U19" pin="14"/>
+    </net>
+    <net code="41" name="Net-(Q7-Pad3)">
+      <node ref="U19" pin="16"/>
+      <node ref="Q7" pin="3"/>
+    </net>
+    <net code="42" name="Net-(R106-Pad1)">
+      <node ref="U19" pin="12"/>
+      <node ref="R99" pin="2"/>
+      <node ref="R106" pin="1"/>
+      <node ref="TP17" pin="1"/>
+    </net>
+    <net code="43" name="Net-(R101-Pad2)">
+      <node ref="R101" pin="2"/>
+      <node ref="U2" pin="4"/>
+      <node ref="R102" pin="2"/>
+    </net>
+    <net code="44" name="Net-(R102-Pad1)">
+      <node ref="TR10" pin="2"/>
+      <node ref="R102" pin="1"/>
+    </net>
+    <net code="45" name="Net-(R1-Pad2)">
+      <node ref="U3" pin="3"/>
+      <node ref="R9" pin="2"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="46" name="Net-(R24-Pad1)">
+      <node ref="R24" pin="1"/>
+      <node ref="TR4" pin="2"/>
+    </net>
+    <net code="47" name="Net-(R20-Pad2)">
+      <node ref="U3" pin="4"/>
+      <node ref="R20" pin="2"/>
+      <node ref="R24" pin="2"/>
+    </net>
+    <net code="48" name="OSC EG2 AMT CV">
+      <node ref="R15" pin="1"/>
+      <node ref="U24" pin="14"/>
+      <node ref="U24" pin="13"/>
+    </net>
+    <net code="49" name="Net-(R32-Pad2)">
+      <node ref="R36" pin="2"/>
+      <node ref="U1" pin="5"/>
+      <node ref="R32" pin="2"/>
+    </net>
+    <net code="50" name="Net-(Q2-Pad1)">
+      <node ref="R15" pin="2"/>
+      <node ref="Q2" pin="1"/>
+    </net>
+    <net code="51" name="Net-(Q2-Pad3)">
+      <node ref="Q2" pin="3"/>
+      <node ref="U1" pin="1"/>
+    </net>
+    <net code="52" name="Net-(Q4-Pad3)">
+      <node ref="Q4" pin="3"/>
+      <node ref="U3" pin="1"/>
+    </net>
+    <net code="53" name="Net-(Q4-Pad1)">
+      <node ref="R23" pin="2"/>
+      <node ref="Q4" pin="1"/>
+    </net>
+    <net code="54" name="Net-(Q8-Pad1)">
+      <node ref="R94" pin="2"/>
+      <node ref="Q8" pin="1"/>
+    </net>
+    <net code="55" name="Net-(R100-Pad2)">
+      <node ref="TP16" pin="1"/>
+      <node ref="R100" pin="2"/>
+      <node ref="R108" pin="1"/>
+      <node ref="U19" pin="5"/>
+    </net>
+    <net code="56" name="Net-(R106-Pad2)">
+      <node ref="U26" pin="2"/>
+      <node ref="R107" pin="2"/>
+      <node ref="R108" pin="2"/>
+      <node ref="R106" pin="2"/>
+      <node ref="R109" pin="1"/>
+    </net>
+    <net code="57" name="Net-(C92-Pad2)">
+      <node ref="TP30" pin="1"/>
+      <node ref="R109" pin="2"/>
+      <node ref="U26" pin="1"/>
+      <node ref="C92" pin="2"/>
+    </net>
+    <net code="58" name="Net-(U11-Pad7)">
+      <node ref="VCO1" pin="11"/>
+      <node ref="U11" pin="7"/>
+    </net>
+    <net code="59" name="Net-(R17-Pad2)">
+      <node ref="U1" pin="4"/>
+      <node ref="R3" pin="2"/>
+      <node ref="R17" pin="2"/>
+    </net>
+    <net code="60" name="Net-(R11-Pad2)">
+      <node ref="TR2" pin="2"/>
+      <node ref="R11" pin="2"/>
+    </net>
+    <net code="61" name="Net-(R160-Pad2)">
+      <node ref="R161" pin="2"/>
+      <node ref="U35" pin="10"/>
+      <node ref="R160" pin="2"/>
+    </net>
+    <net code="62" name="Net-(R161-Pad1)">
+      <node ref="R161" pin="1"/>
+      <node ref="TR16" pin="2"/>
+    </net>
+    <net code="63" name="Net-(TR6-Pad3)">
+      <node ref="VCO1" pin="5"/>
+      <node ref="TR6" pin="3"/>
+      <node ref="VCO1" pin="~"/>
+    </net>
+    <net code="64" name="Net-(TR7-Pad3)">
+      <node ref="VCO2" pin="5"/>
+      <node ref="VCO2" pin="~"/>
+      <node ref="TR7" pin="3"/>
+    </net>
+    <net code="65" name="EG2">
+      <node ref="R111" pin="1"/>
+      <node ref="U40" pin="1"/>
+      <node ref="R5" pin="1"/>
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="66" name="Net-(R13-Pad2)">
+      <node ref="R13" pin="2"/>
+      <node ref="R5" pin="2"/>
+      <node ref="U3" pin="14"/>
+    </net>
+    <net code="67" name="Net-(Q5-Pad3)">
+      <node ref="U3" pin="16"/>
+      <node ref="Q5" pin="3"/>
+    </net>
+    <net code="68" name="Net-(Q5-Pad1)">
+      <node ref="R22" pin="2"/>
+      <node ref="Q5" pin="1"/>
+    </net>
+    <net code="69" name="PWM A EG2 AMT CV">
+      <node ref="R22" pin="1"/>
+      <node ref="U22" pin="2"/>
+      <node ref="U22" pin="1"/>
+    </net>
+    <net code="70" name="OSC PWM EG2 MOD">
+      <node ref="TP2" pin="1"/>
+      <node ref="U3" pin="12"/>
+      <node ref="R38" pin="2"/>
+      <node ref="R43" pin="2"/>
+      <node ref="U4" pin="11"/>
+    </net>
+    <net code="71" name="Net-(R48-Pad2)">
+      <node ref="R48" pin="2"/>
+      <node ref="U4" pin="10"/>
+    </net>
+    <net code="72" name="Net-(R208-Pad2)">
+      <node ref="R48" pin="1"/>
+      <node ref="R52" pin="2"/>
+      <node ref="U8" pin="6"/>
+      <node ref="R208" pin="2"/>
+      <node ref="R47" pin="1"/>
+      <node ref="R46" pin="1"/>
+    </net>
+    <net code="73" name="Net-(C95-Pad2)">
+      <node ref="R180" pin="2"/>
+      <node ref="C95" pin="2"/>
+    </net>
+    <net code="74" name="Net-(C101-Pad1)">
+      <node ref="U39" pin="13"/>
+      <node ref="R181" pin="2"/>
+      <node ref="C101" pin="1"/>
+      <node ref="R180" pin="1"/>
+    </net>
+    <net code="75" name="Net-(LFO1-Pad7)">
+      <node ref="U45" pin="4"/>
+      <node ref="R182" pin="2"/>
+      <node ref="LFO1" pin="7"/>
+    </net>
+    <net code="76" name="Net-(C95-Pad1)">
+      <node ref="R177" pin="1"/>
+      <node ref="R179" pin="2"/>
+      <node ref="TP23" pin="1"/>
+      <node ref="C95" pin="1"/>
+      <node ref="Q18" pin="3"/>
+    </net>
+    <net code="77" name="Net-(LFO1-Pad5)">
+      <node ref="LFO1" pin="~"/>
+      <node ref="LFO1" pin="5"/>
+      <node ref="TR22" pin="3"/>
+    </net>
+    <net code="78" name="Net-(R186-Pad1)">
+      <node ref="R195" pin="2"/>
+      <node ref="R186" pin="1"/>
+      <node ref="U39" pin="2"/>
+    </net>
+    <net code="79" name="GND">
+      <node ref="U39" pin="12"/>
+      <node ref="Q18" pin="1"/>
+      <node ref="LFO1" pin="1"/>
+      <node ref="C47" pin="2"/>
+      <node ref="R187" pin="2"/>
+      <node ref="R186" pin="2"/>
+      <node ref="D1" pin="2"/>
+      <node ref="D2" pin="1"/>
+      <node ref="R33" pin="1"/>
+      <node ref="U5" pin="10"/>
+      <node ref="Q3" pin="2"/>
+      <node ref="Q5" pin="2"/>
+      <node ref="C104" pin="2"/>
+      <node ref="C115" pin="2"/>
+      <node ref="C103" pin="2"/>
+      <node ref="R31" pin="1"/>
+      <node ref="R185" pin="2"/>
+      <node ref="D3" pin="1"/>
+      <node ref="R194" pin="2"/>
+      <node ref="Q1" pin="2"/>
+      <node ref="C48" pin="2"/>
+      <node ref="Q6" pin="2"/>
+      <node ref="C99" pin="2"/>
+      <node ref="J2" pin="1"/>
+      <node ref="C98" pin="2"/>
+      <node ref="Q6" pin="6"/>
+      <node ref="R160" pin="1"/>
+      <node ref="TR19" pin="3"/>
+      <node ref="U5" pin="3"/>
+      <node ref="VCFA1" pin="9"/>
+      <node ref="VCFA1" pin="8"/>
+      <node ref="R101" pin="1"/>
+      <node ref="U20" pin="7"/>
+      <node ref="R98" pin="1"/>
+      <node ref="C85" pin="2"/>
+      <node ref="C131" pin="1"/>
+      <node ref="C125" pin="1"/>
+      <node ref="R99" pin="1"/>
+      <node ref="C127" pin="1"/>
+      <node ref="R89" pin="1"/>
+      <node ref="Q7" pin="2"/>
+      <node ref="J3" pin="39"/>
+      <node ref="C25" pin="2"/>
+      <node ref="C49" pin="2"/>
+      <node ref="U14" pin="14"/>
+      <node ref="C60" pin="2"/>
+      <node ref="C120" pin="2"/>
+      <node ref="Q8" pin="2"/>
+      <node ref="C59" pin="2"/>
+      <node ref="C133" pin="1"/>
+      <node ref="C58" pin="2"/>
+      <node ref="TP32" pin="1"/>
+      <node ref="TP31" pin="1"/>
+      <node ref="TP36" pin="1"/>
+      <node ref="TP37" pin="1"/>
+      <node ref="R100" pin="1"/>
+      <node ref="C132" pin="2"/>
+      <node ref="R87" pin="1"/>
+      <node ref="LFO1" pin="6"/>
+      <node ref="R201" pin="2"/>
+      <node ref="C107" pin="2"/>
+      <node ref="LFO1" pin="12"/>
+      <node ref="LFO1" pin="10"/>
+      <node ref="C89" pin="2"/>
+      <node ref="C118" pin="2"/>
+      <node ref="C117" pin="1"/>
+      <node ref="Q17" pin="3"/>
+      <node ref="C119" pin="1"/>
+      <node ref="Q17" pin="2"/>
+      <node ref="EG2" pin="4"/>
+      <node ref="R193" pin="2"/>
+      <node ref="C55" pin="2"/>
+      <node ref="C56" pin="2"/>
+      <node ref="R217" pin="1"/>
+      <node ref="U36" pin="10"/>
+      <node ref="R205" pin="2"/>
+      <node ref="U13" pin="14"/>
+      <node ref="C53" pin="2"/>
+      <node ref="U45" pin="11"/>
+      <node ref="C114" pin="2"/>
+      <node ref="U45" pin="14"/>
+      <node ref="U45" pin="9"/>
+      <node ref="U45" pin="10"/>
+      <node ref="C62" pin="2"/>
+      <node ref="C69" pin="2"/>
+      <node ref="C54" pin="2"/>
+      <node ref="R38" pin="1"/>
+      <node ref="C63" pin="2"/>
+      <node ref="C64" pin="2"/>
+      <node ref="C57" pin="2"/>
+      <node ref="C45" pin="2"/>
+      <node ref="Q15" pin="2"/>
+      <node ref="C38" pin="2"/>
+      <node ref="C36" pin="1"/>
+      <node ref="C46" pin="1"/>
+      <node ref="C44" pin="1"/>
+      <node ref="C34" pin="1"/>
+      <node ref="C35" pin="2"/>
+      <node ref="C41" pin="2"/>
+      <node ref="C32" pin="1"/>
+      <node ref="C37" pin="2"/>
+      <node ref="U16" pin="14"/>
+      <node ref="U17" pin="14"/>
+      <node ref="C39" pin="2"/>
+      <node ref="R188" pin="1"/>
+      <node ref="R190" pin="1"/>
+      <node ref="Q20" pin="2"/>
+      <node ref="R125" pin="1"/>
+      <node ref="R119" pin="1"/>
+      <node ref="U31" pin="12"/>
+      <node ref="R124" pin="1"/>
+      <node ref="R118" pin="1"/>
+      <node ref="C23" pin="2"/>
+      <node ref="U31" pin="5"/>
+      <node ref="U31" pin="3"/>
+      <node ref="C43" pin="2"/>
+      <node ref="J3" pin="40"/>
+      <node ref="C33" pin="2"/>
+      <node ref="C31" pin="2"/>
+      <node ref="C40" pin="2"/>
+      <node ref="C80" pin="2"/>
+      <node ref="D9" pin="1"/>
+      <node ref="D10" pin="2"/>
+      <node ref="D11" pin="2"/>
+      <node ref="D12" pin="1"/>
+      <node ref="U4" pin="5"/>
+      <node ref="C76" pin="2"/>
+      <node ref="C75" pin="2"/>
+      <node ref="D8" pin="2"/>
+      <node ref="C42" pin="1"/>
+      <node ref="U12" pin="5"/>
+      <node ref="U11" pin="5"/>
+      <node ref="R69" pin="2"/>
+      <node ref="Q10" pin="2"/>
+      <node ref="C77" pin="2"/>
+      <node ref="C116" pin="2"/>
+      <node ref="C113" pin="1"/>
+      <node ref="C112" pin="2"/>
+      <node ref="C109" pin="1"/>
+      <node ref="C108" pin="2"/>
+      <node ref="C106" pin="1"/>
+      <node ref="C105" pin="2"/>
+      <node ref="U46" pin="2"/>
+      <node ref="U44" pin="1"/>
+      <node ref="C78" pin="2"/>
+      <node ref="U43" pin="2"/>
+      <node ref="U5" pin="12"/>
+      <node ref="C79" pin="2"/>
+      <node ref="D6" pin="2"/>
+      <node ref="U10" pin="2"/>
+      <node ref="U9" pin="3"/>
+      <node ref="U9" pin="5"/>
+      <node ref="C9" pin="2"/>
+      <node ref="C11" pin="1"/>
+      <node ref="C61" pin="2"/>
+      <node ref="C10" pin="1"/>
+      <node ref="C8" pin="2"/>
+      <node ref="C15" pin="2"/>
+      <node ref="C17" pin="2"/>
+      <node ref="C18" pin="2"/>
+      <node ref="R19" pin="1"/>
+      <node ref="C51" pin="2"/>
+      <node ref="U15" pin="5"/>
+      <node ref="C52" pin="2"/>
+      <node ref="U26" pin="3"/>
+      <node ref="R8" pin="1"/>
+      <node ref="U15" pin="3"/>
+      <node ref="U35" pin="12"/>
+      <node ref="U31" pin="10"/>
+      <node ref="C90" pin="2"/>
+      <node ref="R200" pin="1"/>
+      <node ref="U8" pin="3"/>
+      <node ref="R9" pin="1"/>
+      <node ref="R20" pin="1"/>
+      <node ref="R13" pin="1"/>
+      <node ref="R21" pin="1"/>
+      <node ref="R123" pin="1"/>
+      <node ref="R115" pin="1"/>
+      <node ref="R122" pin="1"/>
+      <node ref="R114" pin="1"/>
+      <node ref="R16" pin="1"/>
+      <node ref="R6" pin="1"/>
+      <node ref="C50" pin="2"/>
+      <node ref="R135" pin="1"/>
+      <node ref="R138" pin="1"/>
+      <node ref="C70" pin="2"/>
+      <node ref="C71" pin="2"/>
+      <node ref="R152" pin="1"/>
+      <node ref="C72" pin="2"/>
+      <node ref="C65" pin="2"/>
+      <node ref="Q14" pin="2"/>
+      <node ref="R140" pin="1"/>
+      <node ref="VCO2" pin="12"/>
+      <node ref="EG1" pin="4"/>
+      <node ref="U35" pin="5"/>
+      <node ref="C74" pin="2"/>
+      <node ref="C93" pin="2"/>
+      <node ref="C94" pin="2"/>
+      <node ref="R139" pin="1"/>
+      <node ref="Q13" pin="2"/>
+      <node ref="U35" pin="3"/>
+      <node ref="C21" pin="2"/>
+      <node ref="C123" pin="1"/>
+      <node ref="C129" pin="1"/>
+      <node ref="R90" pin="1"/>
+      <node ref="R88" pin="1"/>
+      <node ref="C26" pin="2"/>
+      <node ref="R105" pin="1"/>
+      <node ref="VCO1" pin="1"/>
+      <node ref="C24" pin="2"/>
+      <node ref="Q9" pin="2"/>
+      <node ref="R7" pin="1"/>
+      <node ref="VCO2" pin="6"/>
+      <node ref="VCO2" pin="1"/>
+      <node ref="C124" pin="2"/>
+      <node ref="C20" pin="2"/>
+      <node ref="C22" pin="2"/>
+      <node ref="C130" pin="2"/>
+      <node ref="C19" pin="2"/>
+      <node ref="U8" pin="10"/>
+      <node ref="C128" pin="2"/>
+      <node ref="C122" pin="2"/>
+      <node ref="C88" pin="2"/>
+      <node ref="VCO1" pin="12"/>
+      <node ref="U36" pin="1"/>
+      <node ref="C126" pin="2"/>
+      <node ref="VCO1" pin="6"/>
+      <node ref="C121" pin="1"/>
+      <node ref="C1" pin="2"/>
+      <node ref="U8" pin="12"/>
+      <node ref="R137" pin="1"/>
+      <node ref="C30" pin="1"/>
+      <node ref="C27" pin="2"/>
+      <node ref="Q11" pin="2"/>
+      <node ref="C29" pin="2"/>
+      <node ref="C28" pin="1"/>
+      <node ref="C96" pin="2"/>
+      <node ref="C66" pin="2"/>
+      <node ref="C68" pin="2"/>
+      <node ref="Q4" pin="2"/>
+      <node ref="C67" pin="2"/>
+      <node ref="Q16" pin="2"/>
+      <node ref="R136" pin="1"/>
+      <node ref="U8" pin="5"/>
+      <node ref="U40" pin="7"/>
+      <node ref="C2" pin="2"/>
+      <node ref="Q12" pin="2"/>
+      <node ref="U6" pin="19"/>
+      <node ref="U7" pin="3"/>
+      <node ref="U6" pin="17"/>
+      <node ref="U7" pin="5"/>
+      <node ref="U5" pin="5"/>
+      <node ref="U20" pin="12"/>
+      <node ref="R212" pin="1"/>
+      <node ref="Q2" pin="2"/>
+      <node ref="R214" pin="1"/>
+      <node ref="R17" pin="1"/>
+      <node ref="C73" pin="2"/>
+      <node ref="R34" pin="1"/>
+      <node ref="U40" pin="3"/>
+      <node ref="R32" pin="1"/>
+      <node ref="C97" pin="2"/>
+    </net>
+    <net code="80" name="Net-(LFO1-Pad8)">
+      <node ref="U45" pin="6"/>
+      <node ref="LFO1" pin="8"/>
+    </net>
+    <net code="81" name="Net-(C111-Pad1)">
+      <node ref="U35" pin="13"/>
+      <node ref="R204" pin="1"/>
+      <node ref="R202" pin="2"/>
+      <node ref="C111" pin="1"/>
+    </net>
+    <net code="82" name="Net-(C111-Pad2)">
+      <node ref="C111" pin="2"/>
+      <node ref="R204" pin="2"/>
+      <node ref="R39" pin="1"/>
+      <node ref="U35" pin="14"/>
+    </net>
+    <net code="83" name="Net-(C87-Pad1)">
+      <node ref="C87" pin="1"/>
+      <node ref="R165" pin="1"/>
+      <node ref="R167" pin="2"/>
+      <node ref="U35" pin="2"/>
+    </net>
+    <net code="84" name="Net-(C92-Pad1)">
+      <node ref="C92" pin="1"/>
+      <node ref="VCFA1" pin="1"/>
+    </net>
+    <net code="85" name="Net-(Q3-Pad3)">
+      <node ref="U2" pin="16"/>
+      <node ref="Q3" pin="3"/>
+    </net>
+    <net code="86" name="Net-(Q3-Pad1)">
+      <node ref="Q3" pin="1"/>
+      <node ref="R18" pin="2"/>
+    </net>
+    <net code="87" name="Net-(R33-Pad2)">
+      <node ref="U2" pin="12"/>
+      <node ref="R33" pin="2"/>
+      <node ref="R37" pin="2"/>
+    </net>
+    <net code="88" name="OSC LFO AMT CV">
+      <node ref="U22" pin="7"/>
+      <node ref="U22" pin="6"/>
+      <node ref="R18" pin="1"/>
+    </net>
+    <net code="89" name="Net-(R21-Pad2)">
+      <node ref="U3" pin="13"/>
+      <node ref="R21" pin="2"/>
+      <node ref="R25" pin="2"/>
+    </net>
+    <net code="90" name="Net-(R25-Pad1)">
+      <node ref="R25" pin="1"/>
+      <node ref="TR5" pin="2"/>
+    </net>
+    <net code="91" name="Net-(C100-Pad2)">
+      <node ref="R183" pin="1"/>
+      <node ref="C100" pin="2"/>
+    </net>
+    <net code="92" name="Net-(U20-Pad10)">
+      <node ref="U20" pin="10"/>
+      <node ref="U45" pin="1"/>
+    </net>
+    <net code="93" name="Net-(C4-Pad1)">
+      <node ref="U5" pin="2"/>
+      <node ref="C4" pin="1"/>
+      <node ref="R41" pin="2"/>
+      <node ref="R36" pin="1"/>
+    </net>
+    <net code="94" name="Net-(C13-Pad2)">
+      <node ref="R64" pin="1"/>
+      <node ref="U5" pin="7"/>
+      <node ref="C13" pin="2"/>
+      <node ref="R54" pin="2"/>
+    </net>
+    <net code="95" name="Net-(C13-Pad1)">
+      <node ref="C13" pin="1"/>
+      <node ref="R54" pin="1"/>
+      <node ref="U5" pin="6"/>
+      <node ref="R51" pin="1"/>
+    </net>
+    <net code="96" name="OSC LFO MOD">
+      <node ref="C5" pin="2"/>
+      <node ref="R65" pin="1"/>
+      <node ref="U4" pin="14"/>
+      <node ref="TP5" pin="1"/>
+      <node ref="R42" pin="1"/>
+      <node ref="U5" pin="8"/>
+    </net>
+    <net code="97" name="Net-(C5-Pad1)">
+      <node ref="R42" pin="2"/>
+      <node ref="U5" pin="9"/>
+      <node ref="C5" pin="1"/>
+      <node ref="R37" pin="1"/>
+    </net>
+    <net code="98" name="OSC EG2 MOD">
+      <node ref="C4" pin="2"/>
+      <node ref="U4" pin="3"/>
+      <node ref="U5" pin="1"/>
+      <node ref="R66" pin="1"/>
+      <node ref="R41" pin="1"/>
+      <node ref="TP4" pin="1"/>
+    </net>
+    <net code="99" name="Net-(C3-Pad2)">
+      <node ref="R40" pin="1"/>
+      <node ref="C3" pin="2"/>
+      <node ref="U5" pin="14"/>
+      <node ref="TP3" pin="1"/>
+      <node ref="R67" pin="1"/>
+    </net>
+    <net code="100" name="Net-(C84-Pad2)">
+      <node ref="U31" pin="7"/>
+      <node ref="TP21" pin="1"/>
+      <node ref="R150" pin="1"/>
+      <node ref="R159" pin="2"/>
+      <node ref="C84" pin="2"/>
+    </net>
+    <net code="101" name="Net-(C84-Pad1)">
+      <node ref="R150" pin="2"/>
+      <node ref="R144" pin="1"/>
+      <node ref="U31" pin="6"/>
+      <node ref="C84" pin="1"/>
+    </net>
+    <net code="102" name="Net-(C83-Pad2)">
+      <node ref="TP20" pin="1"/>
+      <node ref="U31" pin="8"/>
+      <node ref="R149" pin="1"/>
+      <node ref="C83" pin="2"/>
+      <node ref="R157" pin="2"/>
+    </net>
+    <net code="103" name="Net-(C83-Pad1)">
+      <node ref="R149" pin="2"/>
+      <node ref="U31" pin="9"/>
+      <node ref="C83" pin="1"/>
+      <node ref="R143" pin="1"/>
+    </net>
+    <net code="104" name="Net-(C12-Pad1)">
+      <node ref="R49" pin="1"/>
+      <node ref="U8" pin="2"/>
+      <node ref="R53" pin="2"/>
+      <node ref="C12" pin="1"/>
+    </net>
+    <net code="105" name="Net-(C12-Pad2)">
+      <node ref="R53" pin="1"/>
+      <node ref="C12" pin="2"/>
+      <node ref="R57" pin="2"/>
+      <node ref="U8" pin="1"/>
+    </net>
+    <net code="106" name="-12V">
+      <node ref="TR10" pin="1"/>
+      <node ref="U12" pin="4"/>
+      <node ref="TR3" pin="1"/>
+      <node ref="C93" pin="1"/>
+      <node ref="C129" pin="2"/>
+      <node ref="TR9" pin="1"/>
+      <node ref="C23" pin="1"/>
+      <node ref="C36" pin="2"/>
+      <node ref="C38" pin="1"/>
+      <node ref="VCFA1" pin="5"/>
+      <node ref="C20" pin="1"/>
+      <node ref="C113" pin="2"/>
+      <node ref="U32" pin="6"/>
+      <node ref="U34" pin="11"/>
+      <node ref="U16" pin="3"/>
+      <node ref="C37" pin="1"/>
+      <node ref="C32" pin="2"/>
+      <node ref="TR16" pin="1"/>
+      <node ref="C19" pin="1"/>
+      <node ref="TR15" pin="1"/>
+      <node ref="U30" pin="6"/>
+      <node ref="U17" pin="3"/>
+      <node ref="C34" pin="2"/>
+      <node ref="C44" pin="2"/>
+      <node ref="VCO2" pin="3"/>
+      <node ref="C46" pin="2"/>
+      <node ref="U4" pin="4"/>
+      <node ref="C42" pin="2"/>
+      <node ref="C121" pin="2"/>
+      <node ref="VCO1" pin="3"/>
+      <node ref="TR13" pin="1"/>
+      <node ref="TR14" pin="1"/>
+      <node ref="C103" pin="1"/>
+      <node ref="U2" pin="6"/>
+      <node ref="TR23" pin="1"/>
+      <node ref="U35" pin="11"/>
+      <node ref="U45" pin="3"/>
+      <node ref="U44" pin="3"/>
+      <node ref="U31" pin="11"/>
+      <node ref="C123" pin="2"/>
+      <node ref="R207" pin="2"/>
+      <node ref="C114" pin="1"/>
+      <node ref="D10" pin="1"/>
+      <node ref="EG1" pin="3"/>
+      <node ref="U33" pin="11"/>
+      <node ref="U29" pin="6"/>
+      <node ref="C96" pin="1"/>
+      <node ref="TR8" pin="1"/>
+      <node ref="TR21" pin="3"/>
+      <node ref="C30" pin="2"/>
+      <node ref="U27" pin="11"/>
+      <node ref="C117" pin="2"/>
+      <node ref="U21" pin="4"/>
+      <node ref="TR18" pin="3"/>
+      <node ref="R162" pin="2"/>
+      <node ref="C127" pin="2"/>
+      <node ref="C28" pin="2"/>
+      <node ref="U24" pin="11"/>
+      <node ref="TR2" pin="1"/>
+      <node ref="U39" pin="11"/>
+      <node ref="U3" pin="6"/>
+      <node ref="U18" pin="6"/>
+      <node ref="U28" pin="11"/>
+      <node ref="U13" pin="3"/>
+      <node ref="U19" pin="6"/>
+      <node ref="C24" pin="1"/>
+      <node ref="C119" pin="2"/>
+      <node ref="LFO1" pin="3"/>
+      <node ref="U14" pin="3"/>
+      <node ref="U23" pin="11"/>
+      <node ref="C133" pin="2"/>
+      <node ref="TR19" pin="1"/>
+      <node ref="U9" pin="4"/>
+      <node ref="C99" pin="1"/>
+      <node ref="C11" pin="2"/>
+      <node ref="U26" pin="4"/>
+      <node ref="U15" pin="4"/>
+      <node ref="TR1" pin="1"/>
+      <node ref="EG2" pin="3"/>
+      <node ref="TR5" pin="1"/>
+      <node ref="TR11" pin="1"/>
+      <node ref="U8" pin="11"/>
+      <node ref="TR12" pin="1"/>
+      <node ref="TR4" pin="1"/>
+      <node ref="U11" pin="4"/>
+      <node ref="U1" pin="6"/>
+      <node ref="C131" pin="2"/>
+      <node ref="C125" pin="2"/>
+      <node ref="U22" pin="11"/>
+      <node ref="U7" pin="4"/>
+      <node ref="U5" pin="11"/>
+      <node ref="R208" pin="1"/>
+      <node ref="TP34" pin="1"/>
+      <node ref="C10" pin="2"/>
+      <node ref="U25" pin="11"/>
+      <node ref="R209" pin="1"/>
+    </net>
+    <net code="107" name="+12V">
+      <node ref="R28" pin="2"/>
+      <node ref="TR15" pin="3"/>
+      <node ref="EG2" pin="1"/>
+      <node ref="U19" pin="11"/>
+      <node ref="EG1" pin="1"/>
+      <node ref="C94" pin="1"/>
+      <node ref="U2" pin="11"/>
+      <node ref="C97" pin="1"/>
+      <node ref="U35" pin="4"/>
+      <node ref="U32" pin="11"/>
+      <node ref="U1" pin="11"/>
+      <node ref="R26" pin="2"/>
+      <node ref="TP33" pin="1"/>
+      <node ref="U5" pin="4"/>
+      <node ref="R27" pin="2"/>
+      <node ref="R184" pin="1"/>
+      <node ref="C120" pin="1"/>
+      <node ref="TR9" pin="3"/>
+      <node ref="C98" pin="1"/>
+      <node ref="TR10" pin="3"/>
+      <node ref="C132" pin="1"/>
+      <node ref="U39" pin="4"/>
+      <node ref="U18" pin="11"/>
+      <node ref="LFO1" pin="2"/>
+      <node ref="R76" pin="2"/>
+      <node ref="R178" pin="1"/>
+      <node ref="C118" pin="1"/>
+      <node ref="TR8" pin="3"/>
+      <node ref="C85" pin="1"/>
+      <node ref="C130" pin="1"/>
+      <node ref="R151" pin="2"/>
+      <node ref="C22" pin="1"/>
+      <node ref="C124" pin="1"/>
+      <node ref="VCFA1" pin="4"/>
+      <node ref="R134" pin="2"/>
+      <node ref="U45" pin="2"/>
+      <node ref="R131" pin="2"/>
+      <node ref="VCO2" pin="2"/>
+      <node ref="U30" pin="11"/>
+      <node ref="R133" pin="2"/>
+      <node ref="C115" pin="1"/>
+      <node ref="C21" pin="1"/>
+      <node ref="VCO1" pin="2"/>
+      <node ref="C104" pin="1"/>
+      <node ref="C126" pin="1"/>
+      <node ref="TR16" pin="3"/>
+      <node ref="C122" pin="1"/>
+      <node ref="C128" pin="1"/>
+      <node ref="U45" pin="13"/>
+      <node ref="J3" pin="2"/>
+      <node ref="J3" pin="1"/>
+      <node ref="TR13" pin="3"/>
+      <node ref="TR14" pin="3"/>
+      <node ref="TR23" pin="3"/>
+      <node ref="U31" pin="4"/>
+      <node ref="TR21" pin="1"/>
+      <node ref="U29" pin="11"/>
+      <node ref="R130" pin="2"/>
+      <node ref="U21" pin="8"/>
+      <node ref="TR18" pin="1"/>
+      <node ref="TR11" pin="3"/>
+      <node ref="U8" pin="4"/>
+      <node ref="TR12" pin="3"/>
+      <node ref="TR5" pin="3"/>
+      <node ref="TR4" pin="3"/>
+      <node ref="U15" pin="8"/>
+      <node ref="U10" pin="3"/>
+      <node ref="U22" pin="4"/>
+      <node ref="U9" pin="8"/>
+      <node ref="U25" pin="4"/>
+      <node ref="C9" pin="1"/>
+      <node ref="R96" pin="2"/>
+      <node ref="R104" pin="2"/>
+      <node ref="R95" pin="2"/>
+      <node ref="C8" pin="1"/>
+      <node ref="C17" pin="1"/>
+      <node ref="TR1" pin="3"/>
+      <node ref="TR3" pin="3"/>
+      <node ref="C18" pin="1"/>
+      <node ref="U26" pin="8"/>
+      <node ref="U11" pin="13"/>
+      <node ref="U12" pin="13"/>
+      <node ref="U4" pin="13"/>
+      <node ref="R206" pin="1"/>
+      <node ref="R198" pin="2"/>
+      <node ref="D9" pin="2"/>
+      <node ref="U24" pin="4"/>
+      <node ref="U43" pin="3"/>
+      <node ref="U46" pin="1"/>
+      <node ref="U34" pin="4"/>
+      <node ref="C112" pin="1"/>
+      <node ref="C39" pin="1"/>
+      <node ref="U17" pin="13"/>
+      <node ref="TR2" pin="3"/>
+      <node ref="R29" pin="2"/>
+      <node ref="U3" pin="11"/>
+      <node ref="R30" pin="2"/>
+      <node ref="U13" pin="13"/>
+      <node ref="U23" pin="4"/>
+      <node ref="U28" pin="4"/>
+      <node ref="C29" pin="1"/>
+      <node ref="C27" pin="1"/>
+      <node ref="U7" pin="8"/>
+      <node ref="U40" pin="4"/>
+      <node ref="C33" pin="1"/>
+      <node ref="C40" pin="1"/>
+      <node ref="C31" pin="1"/>
+      <node ref="R216" pin="2"/>
+      <node ref="C43" pin="1"/>
+      <node ref="U27" pin="4"/>
+      <node ref="U33" pin="4"/>
+      <node ref="C26" pin="1"/>
+      <node ref="U14" pin="13"/>
+      <node ref="U16" pin="13"/>
+      <node ref="C25" pin="1"/>
+      <node ref="C41" pin="1"/>
+      <node ref="C45" pin="1"/>
+      <node ref="C35" pin="1"/>
+    </net>
+    <net code="108" name="Net-(R205-Pad1)">
+      <node ref="R216" pin="1"/>
+      <node ref="U26" pin="6"/>
+      <node ref="R205" pin="1"/>
+    </net>
+    <net code="109" name="Net-(C82-Pad1)">
+      <node ref="U31" pin="13"/>
+      <node ref="C82" pin="1"/>
+      <node ref="R148" pin="2"/>
+      <node ref="R142" pin="1"/>
+    </net>
+    <net code="110" name="Net-(C82-Pad2)">
+      <node ref="TP19" pin="1"/>
+      <node ref="R148" pin="1"/>
+      <node ref="R155" pin="2"/>
+      <node ref="U31" pin="14"/>
+      <node ref="C82" pin="2"/>
+    </net>
+    <net code="111" name="TUNE">
+      <node ref="R217" pin="2"/>
+      <node ref="J3" pin="4"/>
+      <node ref="D13" pin="2"/>
+    </net>
+    <net code="112" name="LFO">
+      <node ref="U45" pin="8"/>
+      <node ref="R132" pin="1"/>
+      <node ref="TP28" pin="1"/>
+      <node ref="R1" pin="1"/>
+      <node ref="J3" pin="5"/>
+      <node ref="R112" pin="1"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="113" name="LFO TUNE">
+      <node ref="J3" pin="6"/>
+      <node ref="R215" pin="1"/>
+    </net>
+    <net code="114" name="LFO RESET">
+      <node ref="LFO1" pin="11"/>
+      <node ref="J3" pin="7"/>
+    </net>
+    <net code="115" name="DB0">
+      <node ref="U13" pin="1"/>
+      <node ref="U17" pin="1"/>
+      <node ref="U14" pin="1"/>
+      <node ref="U16" pin="1"/>
+      <node ref="U20" pin="2"/>
+      <node ref="J3" pin="8"/>
+      <node ref="U36" pin="2"/>
+    </net>
+    <net code="116" name="DB1">
+      <node ref="U36" pin="3"/>
+      <node ref="J3" pin="9"/>
+      <node ref="U16" pin="16"/>
+      <node ref="U20" pin="3"/>
+      <node ref="U17" pin="16"/>
+      <node ref="U14" pin="16"/>
+      <node ref="U13" pin="16"/>
+    </net>
+    <net code="117" name="DB2">
+      <node ref="U13" pin="15"/>
+      <node ref="U20" pin="6"/>
+      <node ref="U36" pin="4"/>
+      <node ref="J3" pin="10"/>
+      <node ref="U17" pin="15"/>
+      <node ref="U16" pin="15"/>
+      <node ref="U14" pin="15"/>
+    </net>
+    <net code="118" name="/DAC13">
+      <node ref="J3" pin="20"/>
+      <node ref="U6" pin="20"/>
+    </net>
+    <net code="119" name="/DAC5">
+      <node ref="J3" pin="30"/>
+      <node ref="U6" pin="1"/>
+    </net>
+    <net code="120" name="DB3">
+      <node ref="J3" pin="11"/>
+      <node ref="U36" pin="5"/>
+    </net>
+    <net code="121" name="/DAC12">
+      <node ref="J3" pin="21"/>
+      <node ref="U6" pin="21"/>
+    </net>
+    <net code="122" name="OSCB MIX CV">
+      <node ref="R94" pin="1"/>
+      <node ref="U25" pin="1"/>
+      <node ref="U25" pin="2"/>
+    </net>
+    <net code="123" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2"/>
+    </net>
+    <net code="124" name="EG2 DEC CV">
+      <node ref="EG2" pin="9"/>
+      <node ref="U34" pin="7"/>
+      <node ref="U34" pin="6"/>
+    </net>
+    <net code="125" name="SH28">
+      <node ref="U17" pin="12"/>
+      <node ref="U33" pin="10"/>
+      <node ref="C75" pin="1"/>
+    </net>
+    <net code="126" name="SH30">
+      <node ref="U17" pin="10"/>
+      <node ref="C74" pin="1"/>
+      <node ref="U33" pin="5"/>
+    </net>
+    <net code="127" name="EG2 SUS CV">
+      <node ref="U34" pin="9"/>
+      <node ref="U34" pin="8"/>
+      <node ref="EG2" pin="7"/>
+    </net>
+    <net code="128" name="SH26">
+      <node ref="U34" pin="10"/>
+      <node ref="C79" pin="1"/>
+      <node ref="U17" pin="6"/>
+    </net>
+    <net code="129" name="SH31">
+      <node ref="U17" pin="9"/>
+      <node ref="C73" pin="1"/>
+      <node ref="U33" pin="3"/>
+    </net>
+    <net code="130" name="Net-(C134-Pad2)">
+      <node ref="C134" pin="2"/>
+      <node ref="R202" pin="1"/>
+      <node ref="TP26" pin="1"/>
+    </net>
+    <net code="131" name="EG2 ATT CV">
+      <node ref="U34" pin="2"/>
+      <node ref="U34" pin="1"/>
+      <node ref="EG2" pin="10"/>
+    </net>
+    <net code="132" name="SH29">
+      <node ref="U33" pin="12"/>
+      <node ref="U17" pin="11"/>
+      <node ref="C76" pin="1"/>
+    </net>
+    <net code="133" name="Net-(R104-Pad1)">
+      <node ref="U2" pin="2"/>
+      <node ref="R104" pin="1"/>
+    </net>
+    <net code="134" name="EG2 POL">
+      <node ref="J3" pin="38"/>
+      <node ref="U40" pin="6"/>
+    </net>
+    <net code="135" name="+5V">
+      <node ref="C2" pin="1"/>
+      <node ref="C1" pin="1"/>
+      <node ref="U20" pin="5"/>
+      <node ref="C116" pin="1"/>
+      <node ref="U6" pin="28"/>
+      <node ref="TP35" pin="1"/>
+      <node ref="U46" pin="3"/>
+      <node ref="U40" pin="5"/>
+      <node ref="U12" pin="12"/>
+      <node ref="U4" pin="12"/>
+      <node ref="U11" pin="12"/>
+      <node ref="U36" pin="20"/>
+      <node ref="C88" pin="1"/>
+    </net>
+    <net code="136" name="Net-(EG2-Pad6)">
+      <node ref="U40" pin="2"/>
+      <node ref="EG2" pin="6"/>
+    </net>
+    <net code="137" name="Net-(U8-Pad13)">
+      <node ref="U8" pin="14"/>
+      <node ref="U8" pin="13"/>
+    </net>
+    <net code="138" name="SH27">
+      <node ref="C80" pin="1"/>
+      <node ref="U34" pin="12"/>
+      <node ref="U17" pin="7"/>
+    </net>
+    <net code="139" name="EG2 REL CV">
+      <node ref="U34" pin="13"/>
+      <node ref="U34" pin="14"/>
+      <node ref="EG2" pin="8"/>
+    </net>
+    <net code="140" name="/DAC4">
+      <node ref="U6" pin="2"/>
+      <node ref="J3" pin="31"/>
+    </net>
+    <net code="141" name="Net-(Q16-Pad1)">
+      <node ref="R168" pin="1"/>
+      <node ref="Q16" pin="1"/>
+    </net>
+    <net code="142" name="Net-(Q16-Pad3)">
+      <node ref="VCFA1" pin="2"/>
+      <node ref="Q16" pin="3"/>
+    </net>
+    <net code="143" name="Net-(EG1-Pad5)">
+      <node ref="EG1" pin="5"/>
+    </net>
+    <net code="144" name="Net-(R211-Pad1)">
+      <node ref="R212" pin="2"/>
+      <node ref="R211" pin="1"/>
+      <node ref="U12" pin="6"/>
+    </net>
+    <net code="145" name="Net-(R211-Pad2)">
+      <node ref="R211" pin="2"/>
+      <node ref="VCO2" pin="9"/>
+    </net>
+    <net code="146" name="Net-(R213-Pad1)">
+      <node ref="R214" pin="2"/>
+      <node ref="R213" pin="1"/>
+      <node ref="U11" pin="3"/>
+    </net>
+    <net code="147" name="OSCA SAW">
+      <node ref="U36" pin="19"/>
+      <node ref="U11" pin="16"/>
+    </net>
+    <net code="148" name="OSCA PULSE">
+      <node ref="U36" pin="18"/>
+      <node ref="U11" pin="1"/>
+    </net>
+    <net code="149" name="OSCA TRI">
+      <node ref="U11" pin="9"/>
+      <node ref="U36" pin="17"/>
+    </net>
+    <net code="150" name="OSC SYNC">
+      <node ref="U11" pin="8"/>
+      <node ref="U36" pin="16"/>
+    </net>
+    <net code="151" name="OSCB MOD">
+      <node ref="U4" pin="16"/>
+      <node ref="U4" pin="9"/>
+      <node ref="U4" pin="8"/>
+      <node ref="U36" pin="15"/>
+      <node ref="U4" pin="1"/>
+    </net>
+    <net code="152" name="OSCB PULSE">
+      <node ref="U36" pin="14"/>
+      <node ref="U12" pin="8"/>
+    </net>
+    <net code="153" name="OSCB SAW">
+      <node ref="U12" pin="1"/>
+      <node ref="U36" pin="13"/>
+    </net>
+    <net code="154" name="Net-(U20-Pad8)">
+      <node ref="U20" pin="8"/>
+    </net>
+    <net code="155" name="Net-(U20-Pad11)">
+      <node ref="U20" pin="11"/>
+    </net>
+    <net code="156" name="Net-(U20-Pad14)">
+      <node ref="U20" pin="14"/>
+    </net>
+    <net code="157" name="Net-(U20-Pad15)">
+      <node ref="U45" pin="16"/>
+      <node ref="U20" pin="15"/>
+    </net>
+    <net code="158" name="Net-(U20-Pad16)">
+      <node ref="U45" pin="15"/>
+      <node ref="U20" pin="16"/>
+    </net>
+    <net code="159" name="Net-(U20-Pad1)">
+      <node ref="U20" pin="1"/>
+    </net>
+    <net code="160" name="Net-(U20-Pad9)">
+      <node ref="U20" pin="9"/>
+    </net>
+    <net code="161" name="Net-(R209-Pad2)">
+      <node ref="R209" pin="2"/>
+      <node ref="U7" pin="6"/>
+      <node ref="R45" pin="1"/>
+      <node ref="R50" pin="2"/>
+      <node ref="R44" pin="1"/>
+      <node ref="R43" pin="1"/>
+    </net>
+    <net code="162" name="Net-(C102-Pad1)">
+      <node ref="R210" pin="2"/>
+      <node ref="C102" pin="1"/>
+      <node ref="LFO1" pin="9"/>
+    </net>
+    <net code="163" name="Net-(R213-Pad2)">
+      <node ref="VCO1" pin="9"/>
+      <node ref="R213" pin="2"/>
+    </net>
+    <net code="164" name="Net-(R70-Pad2)">
+      <node ref="U11" pin="10"/>
+      <node ref="R70" pin="2"/>
+    </net>
+    <net code="165" name="Net-(R70-Pad1)">
+      <node ref="U15" pin="2"/>
+      <node ref="R72" pin="1"/>
+      <node ref="R77" pin="2"/>
+      <node ref="R71" pin="1"/>
+      <node ref="R70" pin="1"/>
+    </net>
+    <net code="166" name="Net-(R72-Pad2)">
+      <node ref="U11" pin="2"/>
+      <node ref="R72" pin="2"/>
+    </net>
+    <net code="167" name="Net-(R71-Pad2)">
+      <node ref="R71" pin="2"/>
+      <node ref="U11" pin="15"/>
+    </net>
+    <net code="168" name="Net-(R77-Pad1)">
+      <node ref="U15" pin="1"/>
+      <node ref="TP10" pin="1"/>
+      <node ref="R77" pin="1"/>
+      <node ref="R79" pin="1"/>
+    </net>
+    <net code="169" name="Net-(R73-Pad2)">
+      <node ref="U12" pin="15"/>
+      <node ref="R73" pin="2"/>
+    </net>
+    <net code="170" name="Net-(R74-Pad2)">
+      <node ref="R74" pin="2"/>
+      <node ref="U12" pin="2"/>
+    </net>
+    <net code="171" name="Net-(R75-Pad2)">
+      <node ref="R75" pin="2"/>
+      <node ref="U12" pin="7"/>
+    </net>
+    <net code="172" name="Net-(R73-Pad1)">
+      <node ref="R78" pin="2"/>
+      <node ref="R75" pin="1"/>
+      <node ref="R74" pin="1"/>
+      <node ref="U15" pin="6"/>
+      <node ref="R73" pin="1"/>
+    </net>
+    <net code="173" name="Net-(R78-Pad1)">
+      <node ref="TP11" pin="1"/>
+      <node ref="R80" pin="1"/>
+      <node ref="R78" pin="1"/>
+      <node ref="U15" pin="7"/>
+    </net>
+    <net code="174" name="Net-(U11-Pad11)">
+      <node ref="VCO1" pin="7"/>
+      <node ref="U11" pin="11"/>
+    </net>
+    <net code="175" name="Net-(U11-Pad14)">
+      <node ref="VCO1" pin="8"/>
+      <node ref="U11" pin="14"/>
+    </net>
+    <net code="176" name="Net-(U12-Pad14)">
+      <node ref="U12" pin="14"/>
+      <node ref="VCO2" pin="7"/>
+    </net>
+    <net code="177" name="DAC MUX EN2">
+      <node ref="J3" pin="17"/>
+      <node ref="U16" pin="2"/>
+    </net>
+    <net code="178" name="DB4">
+      <node ref="U36" pin="6"/>
+      <node ref="J3" pin="12"/>
+    </net>
+    <net code="179" name="/DAC11">
+      <node ref="U6" pin="22"/>
+      <node ref="J3" pin="22"/>
+    </net>
+    <net code="180" name="/DAC3">
+      <node ref="U6" pin="3"/>
+      <node ref="J3" pin="32"/>
+    </net>
+    <net code="181" name="DB5">
+      <node ref="U36" pin="7"/>
+      <node ref="J3" pin="13"/>
+    </net>
+    <net code="182" name="/DAC10">
+      <node ref="J3" pin="23"/>
+      <node ref="U6" pin="23"/>
+    </net>
+    <net code="183" name="/DAC2">
+      <node ref="U6" pin="4"/>
+      <node ref="J3" pin="33"/>
+    </net>
+    <net code="184" name="DB6">
+      <node ref="U36" pin="8"/>
+      <node ref="J3" pin="14"/>
+    </net>
+    <net code="185" name="/DAC9">
+      <node ref="U6" pin="24"/>
+      <node ref="J3" pin="24"/>
+    </net>
+    <net code="186" name="/DAC1">
+      <node ref="J3" pin="34"/>
+      <node ref="U6" pin="5"/>
+    </net>
+    <net code="187" name="DB7">
+      <node ref="U36" pin="9"/>
+      <node ref="J3" pin="15"/>
+    </net>
+    <net code="188" name="/DAC8">
+      <node ref="U6" pin="25"/>
+      <node ref="J3" pin="25"/>
+    </net>
+    <net code="189" name="/DAC0">
+      <node ref="J3" pin="35"/>
+      <node ref="U6" pin="6"/>
+    </net>
+    <net code="190" name="DAC MUX EN3">
+      <node ref="U17" pin="2"/>
+      <node ref="J3" pin="16"/>
+    </net>
+    <net code="191" name="~DAC RS">
+      <node ref="J3" pin="26"/>
+      <node ref="U6" pin="18"/>
+    </net>
+    <net code="192" name="ANALOG SW LATCH">
+      <node ref="U36" pin="11"/>
+      <node ref="J3" pin="36"/>
+    </net>
+    <net code="193" name="~DAC WR">
+      <node ref="U6" pin="15"/>
+      <node ref="J3" pin="27"/>
+      <node ref="U6" pin="16"/>
+    </net>
+    <net code="194" name="LFO DMUX EN">
+      <node ref="U20" pin="4"/>
+      <node ref="J3" pin="37"/>
+      <node ref="U20" pin="13"/>
+    </net>
+    <net code="195" name="DAC MUX EN1">
+      <node ref="U14" pin="2"/>
+      <node ref="J3" pin="18"/>
+    </net>
+    <net code="196" name="/DAC7">
+      <node ref="U6" pin="26"/>
+      <node ref="J3" pin="28"/>
+    </net>
+    <net code="197" name="DAC MUX EN0">
+      <node ref="U13" pin="2"/>
+      <node ref="J3" pin="19"/>
+    </net>
+    <net code="198" name="/DAC6">
+      <node ref="U6" pin="27"/>
+      <node ref="J3" pin="29"/>
+    </net>
+    <net code="199" name="EXT_CV_IN">
+      <node ref="TP38" pin="1"/>
+      <node ref="R199" pin="2"/>
+      <node ref="R173" pin="2"/>
+    </net>
+    <net code="200" name="Net-(C89-Pad1)">
+      <node ref="R179" pin="1"/>
+      <node ref="R178" pin="2"/>
+      <node ref="C89" pin="1"/>
+      <node ref="R172" pin="1"/>
+    </net>
+    <net code="201" name="Net-(R113-Pad2)">
+      <node ref="R125" pin="2"/>
+      <node ref="U30" pin="4"/>
+      <node ref="R113" pin="2"/>
+    </net>
+    <net code="202" name="Net-(R119-Pad2)">
+      <node ref="U30" pin="3"/>
+      <node ref="R121" pin="1"/>
+      <node ref="R119" pin="2"/>
+    </net>
+    <net code="203" name="Net-(R121-Pad2)">
+      <node ref="TR14" pin="2"/>
+      <node ref="R121" pin="2"/>
+    </net>
+    <net code="204" name="Net-(R112-Pad2)">
+      <node ref="R112" pin="2"/>
+      <node ref="R124" pin="2"/>
+      <node ref="U30" pin="13"/>
+    </net>
+    <net code="205" name="Net-(R111-Pad2)">
+      <node ref="R111" pin="2"/>
+      <node ref="U29" pin="4"/>
+      <node ref="R123" pin="2"/>
+    </net>
+    <net code="206" name="Net-(R117-Pad2)">
+      <node ref="TR12" pin="2"/>
+      <node ref="R117" pin="2"/>
+    </net>
+    <net code="207" name="Net-(R115-Pad2)">
+      <node ref="R117" pin="1"/>
+      <node ref="R115" pin="2"/>
+      <node ref="U29" pin="3"/>
+    </net>
+    <net code="208" name="Net-(R120-Pad2)">
+      <node ref="TR13" pin="2"/>
+      <node ref="R120" pin="2"/>
+    </net>
+    <net code="209" name="Net-(R118-Pad2)">
+      <node ref="U30" pin="14"/>
+      <node ref="R118" pin="2"/>
+      <node ref="R120" pin="1"/>
+    </net>
+    <net code="210" name="Net-(C134-Pad1)">
+      <node ref="U32" pin="5"/>
+      <node ref="C134" pin="1"/>
+      <node ref="R200" pin="2"/>
+    </net>
+    <net code="211" name="Net-(Q20-Pad1)">
+      <node ref="R196" pin="2"/>
+      <node ref="Q20" pin="1"/>
+    </net>
+    <net code="212" name="Net-(R192-Pad1)">
+      <node ref="R192" pin="1"/>
+      <node ref="TR23" pin="2"/>
+    </net>
+    <net code="213" name="Net-(Q20-Pad3)">
+      <node ref="Q20" pin="3"/>
+      <node ref="U32" pin="1"/>
+    </net>
+    <net code="214" name="Net-(R183-Pad2)">
+      <node ref="R183" pin="2"/>
+      <node ref="U32" pin="3"/>
+      <node ref="R188" pin="2"/>
+    </net>
+    <net code="215" name="Net-(J2-Pad3)">
+      <node ref="J2" pin="3"/>
+      <node ref="R39" pin="2"/>
+    </net>
+    <net code="216" name="Net-(R190-Pad2)">
+      <node ref="U32" pin="4"/>
+      <node ref="R192" pin="2"/>
+      <node ref="R190" pin="2"/>
+    </net>
+    <net code="217" name="Net-(C105-Pad1)">
+      <node ref="C108" pin="1"/>
+      <node ref="C105" pin="1"/>
+      <node ref="P2" pin="2"/>
+      <node ref="U43" pin="1"/>
+      <node ref="D8" pin="1"/>
+      <node ref="D7" pin="2"/>
+    </net>
+    <net code="218" name="Net-(C106-Pad2)">
+      <node ref="D5" pin="1"/>
+      <node ref="C106" pin="2"/>
+      <node ref="D7" pin="1"/>
+      <node ref="U44" pin="2"/>
+      <node ref="C109" pin="2"/>
+    </net>
+    <net code="219" name="OSCA GLIDE CV">
+      <node ref="R83" pin="1"/>
+      <node ref="U21" pin="2"/>
+      <node ref="R63" pin="1"/>
+      <node ref="TP13" pin="1"/>
+      <node ref="U21" pin="1"/>
+      <node ref="R110" pin="1"/>
+    </net>
+    <net code="220" name="OSCA INIT CV">
+      <node ref="U23" pin="1"/>
+      <node ref="U23" pin="2"/>
+      <node ref="R51" pin="2"/>
+    </net>
+    <net code="221" name="OSCB INIT CV">
+      <node ref="R49" pin="2"/>
+      <node ref="U25" pin="9"/>
+      <node ref="U25" pin="8"/>
+    </net>
+    <net code="222" name="Net-(J1-Pad1)">
+      <node ref="P2" pin="1"/>
+      <node ref="J1" pin="1"/>
+    </net>
+    <net code="223" name="Net-(D5-Pad2)">
+      <node ref="D6" pin="1"/>
+      <node ref="D5" pin="2"/>
+      <node ref="J1" pin="3"/>
+    </net>
+    <net code="224" name="Net-(C14-Pad1)">
+      <node ref="R55" pin="1"/>
+      <node ref="U7" pin="2"/>
+      <node ref="R61" pin="2"/>
+      <node ref="C14" pin="1"/>
+    </net>
+    <net code="225" name="Net-(C14-Pad2)">
+      <node ref="U7" pin="1"/>
+      <node ref="VCO1" pin="10"/>
+      <node ref="R61" pin="1"/>
+      <node ref="C14" pin="2"/>
+    </net>
+    <net code="226" name="Net-(R12-Pad1)">
+      <node ref="R8" pin="2"/>
+      <node ref="R12" pin="1"/>
+      <node ref="U2" pin="14"/>
+    </net>
+    <net code="227" name="Net-(R110-Pad2)">
+      <node ref="R110" pin="2"/>
+      <node ref="U29" pin="13"/>
+      <node ref="R122" pin="2"/>
+    </net>
+    <net code="228" name="Net-(R116-Pad2)">
+      <node ref="R116" pin="2"/>
+      <node ref="TR11" pin="2"/>
+    </net>
+    <net code="229" name="Net-(R114-Pad2)">
+      <node ref="U29" pin="14"/>
+      <node ref="R116" pin="1"/>
+      <node ref="R114" pin="2"/>
+    </net>
+    <net code="230" name="Net-(R16-Pad2)">
+      <node ref="U1" pin="13"/>
+      <node ref="R2" pin="2"/>
+      <node ref="R16" pin="2"/>
+    </net>
+    <net code="231" name="Net-(R11-Pad1)">
+      <node ref="R7" pin="2"/>
+      <node ref="U1" pin="3"/>
+      <node ref="R11" pin="1"/>
+    </net>
+    <net code="232" name="Net-(R10-Pad2)">
+      <node ref="R10" pin="2"/>
+      <node ref="TR1" pin="2"/>
+    </net>
+    <net code="233" name="OSCB SAW WAVE">
+      <node ref="U12" pin="3"/>
+      <node ref="U11" pin="6"/>
+      <node ref="R2" pin="1"/>
+      <node ref="R113" pin="1"/>
+      <node ref="VCO2" pin="8"/>
+    </net>
+    <net code="234" name="Net-(R10-Pad1)">
+      <node ref="U1" pin="14"/>
+      <node ref="R10" pin="1"/>
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="235" name="Net-(R19-Pad2)">
+      <node ref="R19" pin="2"/>
+      <node ref="R4" pin="2"/>
+      <node ref="U2" pin="13"/>
+    </net>
+    <net code="236" name="Net-(R12-Pad2)">
+      <node ref="TR3" pin="2"/>
+      <node ref="R12" pin="2"/>
+    </net>
+    <net code="237" name="Net-(R210-Pad1)">
+      <node ref="U45" pin="7"/>
+      <node ref="R210" pin="1"/>
+    </net>
+    <net code="238" name="Net-(Q14-Pad3)">
+      <node ref="U32" pin="16"/>
+      <node ref="Q14" pin="3"/>
+    </net>
+    <net code="239" name="Net-(C100-Pad1)">
+      <node ref="TP24" pin="1"/>
+      <node ref="VCFA1" pin="10"/>
+      <node ref="C100" pin="1"/>
+      <node ref="C135" pin="1"/>
+      <node ref="U26" pin="5"/>
+    </net>
+    <net code="240" name="Net-(C135-Pad2)">
+      <node ref="U26" pin="7"/>
+      <node ref="C135" pin="2"/>
+      <node ref="D13" pin="1"/>
+    </net>
+    <net code="241" name="Net-(D4-Pad2)">
+      <node ref="R215" pin="2"/>
+      <node ref="U39" pin="8"/>
+      <node ref="TP25" pin="1"/>
+      <node ref="D4" pin="2"/>
+    </net>
+    <net code="242" name="Net-(J2-Pad2)">
+      <node ref="J2" pin="2"/>
+    </net>
+    <net code="243" name="Net-(C81-Pad2)">
+      <node ref="TP18" pin="1"/>
+      <node ref="R147" pin="1"/>
+      <node ref="C81" pin="2"/>
+      <node ref="U31" pin="1"/>
+      <node ref="R156" pin="2"/>
+    </net>
+    <net code="244" name="Net-(C81-Pad1)">
+      <node ref="C81" pin="1"/>
+      <node ref="R147" pin="2"/>
+      <node ref="R141" pin="1"/>
+      <node ref="U31" pin="2"/>
+    </net>
+    <net code="245" name="EG1">
+      <node ref="EG1" pin="6"/>
+      <node ref="R154" pin="2"/>
+    </net>
+    <net code="246" name="Net-(EG2-Pad5)">
+      <node ref="U40" pin="8"/>
+      <node ref="EG2" pin="5"/>
+    </net>
+    <net code="247" name="Net-(R169-Pad1)">
+      <node ref="R169" pin="1"/>
+      <node ref="R171" pin="1"/>
+      <node ref="VCFA1" pin="7"/>
+    </net>
+    <net code="248" name="Net-(C86-Pad1)">
+      <node ref="R164" pin="2"/>
+      <node ref="C86" pin="1"/>
+      <node ref="U35" pin="6"/>
+      <node ref="R156" pin="1"/>
+      <node ref="R157" pin="1"/>
+      <node ref="R162" pin="1"/>
+      <node ref="R155" pin="1"/>
+      <node ref="R159" pin="1"/>
+      <node ref="R158" pin="1"/>
+    </net>
+    <net code="249" name="OSCB TRI">
+      <node ref="U12" pin="16"/>
+      <node ref="U36" pin="12"/>
+    </net>
+    <net code="250" name="Net-(C90-Pad1)">
+      <node ref="R171" pin="2"/>
+      <node ref="C90" pin="1"/>
+      <node ref="R170" pin="1"/>
+    </net>
+    <net code="251" name="Net-(R169-Pad2)">
+      <node ref="TR18" pin="2"/>
+      <node ref="R169" pin="2"/>
+    </net>
+    <net code="252" name="Net-(R166-Pad2)">
+      <node ref="R166" pin="2"/>
+      <node ref="TR17" pin="3"/>
+    </net>
+    <net code="253" name="Net-(R170-Pad2)">
+      <node ref="TR20" pin="1"/>
+      <node ref="R170" pin="2"/>
+    </net>
+    <net code="254" name="Net-(C86-Pad2)">
+      <node ref="C86" pin="2"/>
+      <node ref="TR20" pin="3"/>
+      <node ref="TR20" pin="2"/>
+      <node ref="R164" pin="1"/>
+      <node ref="TP22" pin="1"/>
+      <node ref="U35" pin="7"/>
+    </net>
+    <net code="255" name="Net-(Q6-Pad3)">
+      <node ref="Q6" pin="3"/>
+      <node ref="R81" pin="2"/>
+      <node ref="R84" pin="2"/>
+    </net>
+    <net code="256" name="Net-(Q15-Pad1)">
+      <node ref="R166" pin="1"/>
+      <node ref="Q15" pin="1"/>
+    </net>
+    <net code="257" name="Net-(Q15-Pad3)">
+      <node ref="VCFA1" pin="3"/>
+      <node ref="Q15" pin="3"/>
+    </net>
+    <net code="258" name="Net-(R174-Pad1)">
+      <node ref="VCFA1" pin="6"/>
+      <node ref="R174" pin="1"/>
+    </net>
+    <net code="259" name="Net-(R174-Pad2)">
+      <node ref="R174" pin="2"/>
+      <node ref="TR21" pin="2"/>
+    </net>
+    <net code="260" name="Net-(Q6-Pad1)">
+      <node ref="R76" pin="1"/>
+      <node ref="Q6" pin="1"/>
+      <node ref="Q6" pin="4"/>
+    </net>
+    <net code="261" name="Net-(Q6-Pad5)">
+      <node ref="Q6" pin="5"/>
+      <node ref="R68" pin="1"/>
+      <node ref="R69" pin="1"/>
+    </net>
+    <net code="262" name="GLIDE AMT CV">
+      <node ref="U24" pin="7"/>
+      <node ref="U24" pin="6"/>
+      <node ref="R68" pin="2"/>
+    </net>
+    <net code="263" name="GATE">
+      <node ref="TP39" pin="1"/>
+      <node ref="EG2" pin="2"/>
+      <node ref="J3" pin="3"/>
+      <node ref="EG1" pin="2"/>
+    </net>
+    <net code="264" name="Net-(Q10-Pad3)">
+      <node ref="Q10" pin="3"/>
+      <node ref="U29" pin="16"/>
+    </net>
+    <net code="265" name="Net-(Q10-Pad1)">
+      <node ref="R126" pin="2"/>
+      <node ref="Q10" pin="1"/>
+    </net>
+    <net code="266" name="Net-(R136-Pad2)">
+      <node ref="R136" pin="2"/>
+      <node ref="U29" pin="12"/>
+      <node ref="R142" pin="2"/>
+    </net>
+    <net code="267" name="Net-(C6-Pad1)">
+      <node ref="U6" pin="13"/>
+      <node ref="U9" pin="1"/>
+      <node ref="C6" pin="1"/>
+    </net>
+    <net code="268" name="Net-(C7-Pad2)">
+      <node ref="U9" pin="6"/>
+      <node ref="U6" pin="14"/>
+      <node ref="C7" pin="2"/>
+    </net>
+    <net code="269" name="SH2">
+      <node ref="U13" pin="6"/>
+      <node ref="C49" pin="1"/>
+      <node ref="U22" pin="3"/>
+    </net>
+    <net code="270" name="SH3">
+      <node ref="C50" pin="1"/>
+      <node ref="U13" pin="7"/>
+      <node ref="U22" pin="5"/>
+    </net>
+    <net code="271" name="SH1">
+      <node ref="U22" pin="10"/>
+      <node ref="C51" pin="1"/>
+      <node ref="U13" pin="5"/>
+    </net>
+    <net code="272" name="LFO RATE CV">
+      <node ref="R176" pin="2"/>
+      <node ref="U22" pin="9"/>
+      <node ref="U22" pin="8"/>
+    </net>
+    <net code="273" name="Net-(R84-Pad1)">
+      <node ref="U18" pin="1"/>
+      <node ref="R84" pin="1"/>
+    </net>
+    <net code="274" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2"/>
+      <node ref="U6" pin="12"/>
+      <node ref="U9" pin="2"/>
+    </net>
+    <net code="275" name="Net-(R184-Pad2)">
+      <node ref="R184" pin="2"/>
+      <node ref="R185" pin="1"/>
+      <node ref="U39" pin="9"/>
+    </net>
+    <net code="276" name="Net-(D3-Pad2)">
+      <node ref="U39" pin="10"/>
+      <node ref="D3" pin="2"/>
+      <node ref="R189" pin="2"/>
+      <node ref="R194" pin="1"/>
+    </net>
+    <net code="277" name="NOISE">
+      <node ref="R97" pin="1"/>
+      <node ref="U39" pin="14"/>
+      <node ref="R181" pin="1"/>
+      <node ref="R191" pin="2"/>
+      <node ref="C101" pin="2"/>
+      <node ref="TP12" pin="1"/>
+    </net>
+    <net code="278" name="Net-(C102-Pad2)">
+      <node ref="C102" pin="2"/>
+      <node ref="R189" pin="1"/>
+    </net>
+    <net code="279" name="Net-(C91-Pad1)">
+      <node ref="Q17" pin="1"/>
+      <node ref="C91" pin="1"/>
+      <node ref="R172" pin="2"/>
+    </net>
+    <net code="280" name="Net-(C110-Pad2)">
+      <node ref="R203" pin="1"/>
+      <node ref="C110" pin="2"/>
+      <node ref="TP27" pin="1"/>
+      <node ref="U39" pin="7"/>
+      <node ref="U45" pin="12"/>
+    </net>
+    <net code="281" name="Net-(C110-Pad1)">
+      <node ref="C110" pin="1"/>
+      <node ref="R203" pin="2"/>
+      <node ref="R201" pin="1"/>
+      <node ref="U39" pin="6"/>
+    </net>
+    <net code="282" name="Net-(C107-Pad1)">
+      <node ref="C107" pin="1"/>
+      <node ref="Q19" pin="1"/>
+      <node ref="U39" pin="5"/>
+    </net>
+    <net code="283" name="Net-(Q19-Pad2)">
+      <node ref="R193" pin="1"/>
+      <node ref="Q19" pin="2"/>
+      <node ref="R191" pin="1"/>
+      <node ref="R197" pin="1"/>
+    </net>
+    <net code="284" name="Net-(D4-Pad1)">
+      <node ref="Q19" pin="3"/>
+      <node ref="R197" pin="2"/>
+      <node ref="D4" pin="1"/>
+    </net>
+    <net code="285" name="Net-(R83-Pad2)">
+      <node ref="R83" pin="2"/>
+      <node ref="U18" pin="13"/>
+    </net>
+    <net code="286" name="Net-(R85-Pad2)">
+      <node ref="R85" pin="2"/>
+      <node ref="U18" pin="3"/>
+    </net>
+    <net code="287" name="OSCA PITCH CV">
+      <node ref="U24" pin="1"/>
+      <node ref="R82" pin="1"/>
+      <node ref="U24" pin="2"/>
+    </net>
+    <net code="288" name="Net-(C47-Pad1)">
+      <node ref="U18" pin="12"/>
+      <node ref="C47" pin="1"/>
+      <node ref="U21" pin="3"/>
+    </net>
+    <net code="289" name="Net-(R81-Pad1)">
+      <node ref="U18" pin="16"/>
+      <node ref="R81" pin="1"/>
+    </net>
+    <net code="290" name="Net-(R82-Pad2)">
+      <node ref="R82" pin="2"/>
+      <node ref="U18" pin="14"/>
+    </net>
+    <net code="291" name="Net-(C48-Pad1)">
+      <node ref="C48" pin="1"/>
+      <node ref="U18" pin="5"/>
+      <node ref="U21" pin="5"/>
+    </net>
+    <net code="292" name="OSCB PITCH CV">
+      <node ref="U24" pin="8"/>
+      <node ref="U24" pin="9"/>
+      <node ref="R85" pin="1"/>
+    </net>
+    <net code="293" name="OSCB GLIDE CV">
+      <node ref="U21" pin="7"/>
+      <node ref="R86" pin="1"/>
+      <node ref="U21" pin="6"/>
+      <node ref="R59" pin="2"/>
+      <node ref="TP14" pin="1"/>
+    </net>
+    <net code="294" name="Net-(R86-Pad2)">
+      <node ref="U18" pin="4"/>
+      <node ref="R86" pin="2"/>
+    </net>
+    <net code="295" name="Net-(Q1-Pad3)">
+      <node ref="U1" pin="16"/>
+      <node ref="Q1" pin="3"/>
+    </net>
+    <net code="296" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1"/>
+      <node ref="R14" pin="2"/>
+    </net>
+    <net code="297" name="Net-(R31-Pad2)">
+      <node ref="R35" pin="2"/>
+      <node ref="R31" pin="2"/>
+      <node ref="U1" pin="12"/>
+    </net>
+    <net code="298" name="OSCA FM AMT CV">
+      <node ref="R14" pin="1"/>
+      <node ref="U22" pin="14"/>
+      <node ref="U22" pin="13"/>
+    </net>
+    <net code="299" name="Net-(C3-Pad1)">
+      <node ref="U5" pin="13"/>
+      <node ref="R40" pin="2"/>
+      <node ref="R35" pin="1"/>
+      <node ref="C3" pin="1"/>
+    </net>
+    <net code="300" name="VDAC">
+      <node ref="U17" pin="8"/>
+      <node ref="TP8" pin="1"/>
+      <node ref="U16" pin="8"/>
+      <node ref="U13" pin="8"/>
+      <node ref="U9" pin="7"/>
+      <node ref="U6" pin="9"/>
+      <node ref="U6" pin="10"/>
+      <node ref="U14" pin="8"/>
+      <node ref="C7" pin="1"/>
+    </net>
+    <net code="301" name="SH15">
+      <node ref="U14" pin="9"/>
+      <node ref="C62" pin="1"/>
+      <node ref="U25" pin="5"/>
+    </net>
+    <net code="302" name="SH16">
+      <node ref="U27" pin="3"/>
+      <node ref="U16" pin="4"/>
+      <node ref="C65" pin="1"/>
+    </net>
+    <net code="303" name="SH17">
+      <node ref="U27" pin="5"/>
+      <node ref="U16" pin="5"/>
+      <node ref="C66" pin="1"/>
+    </net>
+    <net code="304" name="SH18">
+      <node ref="C68" pin="1"/>
+      <node ref="U27" pin="12"/>
+      <node ref="U16" pin="6"/>
+    </net>
+    <net code="305" name="SH19">
+      <node ref="U27" pin="10"/>
+      <node ref="C67" pin="1"/>
+      <node ref="U16" pin="7"/>
+    </net>
+    <net code="306" name="SH20">
+      <node ref="U28" pin="12"/>
+      <node ref="U16" pin="12"/>
+      <node ref="C72" pin="1"/>
+    </net>
+    <net code="307" name="SH21">
+      <node ref="U16" pin="11"/>
+      <node ref="C71" pin="1"/>
+      <node ref="U28" pin="10"/>
+    </net>
+    <net code="308" name="SH22">
+      <node ref="U16" pin="10"/>
+      <node ref="U28" pin="3"/>
+      <node ref="C69" pin="1"/>
+    </net>
+    <net code="309" name="SH23">
+      <node ref="U16" pin="9"/>
+      <node ref="U28" pin="5"/>
+      <node ref="C70" pin="1"/>
+    </net>
+    <net code="310" name="EG1 SUS CV">
+      <node ref="EG1" pin="7"/>
+      <node ref="U33" pin="8"/>
+      <node ref="U33" pin="9"/>
+    </net>
+    <net code="311" name="EG1 REL CV">
+      <node ref="EG1" pin="8"/>
+      <node ref="U33" pin="13"/>
+      <node ref="U33" pin="14"/>
+    </net>
+    <net code="312" name="SH25">
+      <node ref="C77" pin="1"/>
+      <node ref="U17" pin="5"/>
+      <node ref="U34" pin="3"/>
+    </net>
+    <net code="313" name="SH24">
+      <node ref="U17" pin="4"/>
+      <node ref="U34" pin="5"/>
+      <node ref="C78" pin="1"/>
+    </net>
+    <net code="314" name="SH7">
+      <node ref="U23" pin="10"/>
+      <node ref="C55" pin="1"/>
+      <node ref="U13" pin="9"/>
+    </net>
+    <net code="315" name="SH5">
+      <node ref="U23" pin="5"/>
+      <node ref="U13" pin="11"/>
+      <node ref="C54" pin="1"/>
+    </net>
+    <net code="316" name="SH4">
+      <node ref="U23" pin="3"/>
+      <node ref="U13" pin="12"/>
+      <node ref="C53" pin="1"/>
+    </net>
+    <net code="317" name="SH8">
+      <node ref="U24" pin="12"/>
+      <node ref="U14" pin="4"/>
+      <node ref="C60" pin="1"/>
+    </net>
+    <net code="318" name="NOISE MIX CV">
+      <node ref="R103" pin="1"/>
+      <node ref="U23" pin="7"/>
+      <node ref="U23" pin="6"/>
+    </net>
+    <net code="319" name="SH6">
+      <node ref="C56" pin="1"/>
+      <node ref="U13" pin="10"/>
+      <node ref="U23" pin="12"/>
+    </net>
+    <net code="320" name="SH0">
+      <node ref="U13" pin="4"/>
+      <node ref="U22" pin="12"/>
+      <node ref="C52" pin="1"/>
+    </net>
+    <net code="321" name="SH14">
+      <node ref="U25" pin="3"/>
+      <node ref="C61" pin="1"/>
+      <node ref="U14" pin="10"/>
+    </net>
+    <net code="322" name="SH12">
+      <node ref="C63" pin="1"/>
+      <node ref="U25" pin="12"/>
+      <node ref="U14" pin="12"/>
+    </net>
+    <net code="323" name="OSCA MIX CV">
+      <node ref="R93" pin="1"/>
+      <node ref="U25" pin="7"/>
+      <node ref="U25" pin="6"/>
+    </net>
+    <net code="324" name="SH13">
+      <node ref="C64" pin="1"/>
+      <node ref="U14" pin="11"/>
+      <node ref="U25" pin="10"/>
+    </net>
+    <net code="325" name="SH10">
+      <node ref="C57" pin="1"/>
+      <node ref="U24" pin="3"/>
+      <node ref="U14" pin="6"/>
+    </net>
+    <net code="326" name="SH11">
+      <node ref="U14" pin="7"/>
+      <node ref="C58" pin="1"/>
+      <node ref="U24" pin="5"/>
+    </net>
+    <net code="327" name="SH9">
+      <node ref="U14" pin="5"/>
+      <node ref="C59" pin="1"/>
+      <node ref="U24" pin="10"/>
+    </net>
+    <net code="328" name="FIL LFO AMT CV">
+      <node ref="U27" pin="7"/>
+      <node ref="R128" pin="1"/>
+      <node ref="U27" pin="6"/>
+    </net>
+    <net code="329" name="KEYTRACK AMT CV">
+      <node ref="U27" pin="8"/>
+      <node ref="U27" pin="9"/>
+      <node ref="R126" pin="1"/>
+    </net>
+    <net code="330" name="FIL EG2 AMT CV">
+      <node ref="U27" pin="14"/>
+      <node ref="U27" pin="13"/>
+      <node ref="R127" pin="1"/>
+    </net>
+    <net code="331" name="FIL OSCB  AMT CV">
+      <node ref="R129" pin="1"/>
+      <node ref="U27" pin="2"/>
+      <node ref="U27" pin="1"/>
+    </net>
+    <net code="332" name="EG1 ATT CV">
+      <node ref="U33" pin="2"/>
+      <node ref="U33" pin="1"/>
+      <node ref="EG1" pin="10"/>
+    </net>
+    <net code="333" name="EG1 DEC CV">
+      <node ref="U33" pin="7"/>
+      <node ref="U33" pin="6"/>
+      <node ref="EG1" pin="9"/>
+    </net>
+    <net code="334" name="AMP LFO AMT CV">
+      <node ref="U28" pin="9"/>
+      <node ref="R146" pin="1"/>
+      <node ref="U28" pin="8"/>
+    </net>
+    <net code="335" name="CUTOFF CV">
+      <node ref="R158" pin="2"/>
+      <node ref="U28" pin="1"/>
+      <node ref="U28" pin="2"/>
+    </net>
+    <net code="336" name="RES CV">
+      <node ref="TR17" pin="1"/>
+      <node ref="U28" pin="7"/>
+      <node ref="TR17" pin="2"/>
+      <node ref="U28" pin="6"/>
+    </net>
+    <net code="337" name="Net-(R198-Pad1)">
+      <node ref="U32" pin="2"/>
+      <node ref="R198" pin="1"/>
+    </net>
+    <net code="338" name="VOL CV">
+      <node ref="U28" pin="13"/>
+      <node ref="U28" pin="14"/>
+      <node ref="R196" pin="1"/>
+    </net>
+    <net code="339" name="Net-(R29-Pad1)">
+      <node ref="U3" pin="2"/>
+      <node ref="R29" pin="1"/>
+    </net>
+    <net code="340" name="Net-(R30-Pad1)">
+      <node ref="R30" pin="1"/>
+      <node ref="U3" pin="15"/>
+    </net>
+    <net code="341" name="Net-(R95-Pad1)">
+      <node ref="R95" pin="1"/>
+      <node ref="U19" pin="15"/>
+    </net>
+    <net code="342" name="Net-(R96-Pad1)">
+      <node ref="U19" pin="2"/>
+      <node ref="R96" pin="1"/>
+    </net>
+    <net code="343" name="Net-(R27-Pad1)">
+      <node ref="R27" pin="1"/>
+      <node ref="U1" pin="2"/>
+    </net>
+    <net code="344" name="Net-(R28-Pad1)">
+      <node ref="U2" pin="15"/>
+      <node ref="R28" pin="1"/>
+    </net>
+    <net code="345" name="Net-(R105-Pad2)">
+      <node ref="U2" pin="5"/>
+      <node ref="TP15" pin="1"/>
+      <node ref="R107" pin="1"/>
+      <node ref="R105" pin="2"/>
+    </net>
+    <net code="346" name="Net-(R151-Pad1)">
+      <node ref="U32" pin="15"/>
+      <node ref="R151" pin="1"/>
+    </net>
+    <net code="347" name="Net-(R133-Pad1)">
+      <node ref="R133" pin="1"/>
+      <node ref="U30" pin="15"/>
+    </net>
+    <net code="348" name="Net-(R131-Pad1)">
+      <node ref="U29" pin="2"/>
+      <node ref="R131" pin="1"/>
+    </net>
+    <net code="349" name="Net-(R134-Pad1)">
+      <node ref="U30" pin="2"/>
+      <node ref="R134" pin="1"/>
+    </net>
+    <net code="350" name="Net-(R26-Pad1)">
+      <node ref="U1" pin="15"/>
+      <node ref="R26" pin="1"/>
+    </net>
+    <net code="351" name="Net-(U18-Pad2)">
+      <node ref="U18" pin="2"/>
+    </net>
+    <net code="352" name="Net-(U18-Pad15)">
+      <node ref="U18" pin="15"/>
+    </net>
+    <net code="353" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1"/>
+      <node ref="R187" pin="1"/>
+      <node ref="D2" pin="2"/>
+      <node ref="R182" pin="1"/>
+      <node ref="U39" pin="3"/>
+    </net>
+    <net code="354" name="Net-(R195-Pad1)">
+      <node ref="R195" pin="1"/>
+      <node ref="U39" pin="1"/>
+      <node ref="U45" pin="5"/>
+    </net>
+    <net code="355" name="Net-(R199-Pad1)">
+      <node ref="VCO1" pin="4"/>
+      <node ref="R67" pin="2"/>
+      <node ref="R63" pin="2"/>
+      <node ref="R64" pin="2"/>
+      <node ref="R65" pin="2"/>
+      <node ref="R199" pin="1"/>
+      <node ref="R66" pin="2"/>
+      <node ref="TR6" pin="2"/>
+      <node ref="TR6" pin="1"/>
+    </net>
+    <net code="356" name="Net-(R173-Pad1)">
+      <node ref="VCO2" pin="4"/>
+      <node ref="R58" pin="1"/>
+      <node ref="R173" pin="1"/>
+      <node ref="R57" pin="1"/>
+      <node ref="R59" pin="1"/>
+      <node ref="TR7" pin="1"/>
+      <node ref="TR7" pin="2"/>
+      <node ref="R60" pin="1"/>
+    </net>
+    <net code="357" name="Net-(LFO1-Pad4)">
+      <node ref="R176" pin="1"/>
+      <node ref="LFO1" pin="4"/>
+      <node ref="TR22" pin="1"/>
+      <node ref="TR22" pin="2"/>
+      <node ref="R175" pin="1"/>
+    </net>
+    <net code="358" name="Net-(C91-Pad2)">
+      <node ref="Q18" pin="2"/>
+      <node ref="R177" pin="2"/>
+      <node ref="C91" pin="2"/>
+    </net>
+    <net code="359" name="Net-(VCO2-Pad11)">
+      <node ref="VCO2" pin="11"/>
+    </net>
+    <net code="360" name="Net-(U12-Pad10)">
+      <node ref="U12" pin="10"/>
+    </net>
+    <net code="361" name="Net-(U12-Pad9)">
+      <node ref="U12" pin="9"/>
+    </net>
+    <net code="362" name="Net-(U12-Pad11)">
+      <node ref="U12" pin="11"/>
+    </net>
+    <net code="363" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2"/>
+      <node ref="R207" pin="1"/>
+    </net>
+    <net code="364" name="Net-(D11-Pad1)">
+      <node ref="D11" pin="1"/>
+      <node ref="R206" pin="2"/>
+    </net>
+    <net code="365" name="/VREF">
+      <node ref="U6" pin="11"/>
+      <node ref="C15" pin="1"/>
+      <node ref="U10" pin="4"/>
+      <node ref="TP9" pin="1"/>
+    </net>
+    <net code="366" name="Net-(U6-Pad8)">
+      <node ref="U6" pin="8"/>
+    </net>
+    <net code="367" name="Net-(U6-Pad7)">
+      <node ref="U6" pin="7"/>
+    </net>
+    <net code="368" name="Net-(U10-Pad1)">
+      <node ref="U10" pin="1"/>
+    </net>
+    <net code="369" name="Net-(U10-Pad5)">
+      <node ref="U10" pin="5"/>
+    </net>
+    <net code="370" name="Net-(R130-Pad1)">
+      <node ref="R130" pin="1"/>
+      <node ref="U29" pin="15"/>
+    </net>
+  </nets>
+</export>
