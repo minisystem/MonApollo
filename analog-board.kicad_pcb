@@ -69,7 +69,7 @@
     (pad_drill 0)
     (pad_to_mask_clearance 0)
     (aux_axis_origin 0 0)
-    (visible_elements 7FFEF77F)
+    (visible_elements 7FFFF7FF)
     (pcbplotparams
       (layerselection 0x010f0_80000001)
       (usegerberextensions false)
@@ -15990,13 +15990,13 @@
     )
   )
 
-  (module MyModules:SOD323-JRL (layer F.Cu) (tedit 55BFDEFE) (tstamp 55BD7270)
+  (module MyModules:SOD323-JRL (layer F.Cu) (tedit 55FEDA5C) (tstamp 55BD7270)
     (at 72.75 64.25)
     (path /55BDDA0C)
     (fp_text reference D13 (at 0 -1) (layer F.SilkS)
       (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
     )
-    (fp_text value 1N4148 (at 0 1.905) (layer F.SilkS) hide
+    (fp_text value 1N4148 (at 0.25 -1.25) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 0.508 -0.508) (end 0.508 0.508) (layer F.SilkS) (width 0.15))
